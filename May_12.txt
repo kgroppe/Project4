@@ -1,0 +1,4037 @@
+*LOS ANGELES, CALIFORNIA; FRIDAY, MAY 12, 1995 9:02 A.M.*
+
+**Department no. 103 Hon. Lance A. Ito, Judge
+
+*APPEARANCES:* (Appearances as heretofore noted.)
+
+(Janet M. Moxham, CSR no. 4855, official reporter.)
+
+(Christine M. Olson, CSR no. 2378, official reporter.)
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* Back on the record in the Simpson matter. Mr. Simpson is
+again present before the Court with his counsel, Mr. Shapiro, Mr.
+Cochran, Mr. Blasier, Mr. Scheck, Mr. Neufeld. Mr. Douglas.
+
+*MR. DOUGLAS:* Your Honor, good morning.
+
+*THE COURT:* Wait a minute. I need to do the other side. The People are
+represented by Mr. Clarke and Mr. Darden. Mr. Douglas, good morning.
+
+*MR. DOUGLAS:* I have a small matter, your Honor, that my client has
+brought to my attention concerning discovery. There was, in Miss Lewis'
+comments yesterday to the Court, a repeated mention of there having been
+thousands of dollars of cash that was in some bag of Mr. Simpson's on
+the 17th when he was arrested. Everything that I know about the case
+belies that contention, that there were not thousands of dollars of cash
+in Mr. Simpson's bag or in his possession, and I would simply want to
+ask the District Attorney's office for whatever discovery they may have
+confirming the allegations that Miss Lewis makes, because Mr. Simpson
+believes it not true and wants to see what facts they are basing the
+claim that thousands of dollars were in his possession on the 17th. It
+is a small matter and hopefully can be resolved informally.
+
+*THE COURT:* All right. Mr. Douglas, we do have a discovery matter set
+for this afternoon, so we will take it up on that calendar.
+
+*MR. DOUGLAS:* Thank you, your Honor.
+
+*THE COURT:* All right. Counsel, anything else we need to take up? Mr.
+Clarke?
+
+*MR. CLARKE:* I have two items. One, at the Court's convenience we would
+like to approach you at side bar, it doesn't have to be right now. It
+relates solely to scheduling of witnesses.
+
+*THE COURT:* All right.
+
+*THE CLERK:* The second item relates to the evidence yesterday, and the
+Court will recall, I'm sure, when the Court asked the witness a question
+about controversy, we believe that to be clearly a Frye general
+acceptance type question. And at this point our only concern is with
+regard to further questioning in that area by the Defense and at that
+point I just want to alert the Court, we believe that truly to be Frye
+general acceptance type questioning, and if that occurs, then obviously
+we are going to object as totally irrelevant to this proceeding.
+
+*THE COURT:* All right. Anything else?
+
+*MR. NEUFELD:* I can respond very briefly if the Court wants it.
+
+*THE COURT:* Mr. Neufeld.
+
+*MR. NEUFELD:* Sure. Your Honor, I think there is no question that to
+the extent that the witness acknowledges or facts come out that certain
+assumptions or methods that they are relying on here are highly
+contested or controversial, is not just a Frye issue but also is a
+question of weight for the consideration of the jury. The jury can
+decide how much weight to give the testimony on the weight, depending
+upon whether there is a consensus behind it or whether it is a minority
+position. Whether or not it is admissible, I think the jury is free to
+give it as much value as they see fit, and one of the ways they can
+assess that value is by knowing that significant numbers of the
+community, both in stature and number, disagree.
+
+*THE COURT:* Perhaps, but the manner in which it was attempted yesterday
+was not appropriate. All right. Let's have the jury.
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* Your Honor, so that we can avoid any other controversy,
+I was going to ask the witness as a first question whether or not having--
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* Thank you, ladies and gentlemen. Please be seated. All
+right. Mr. Neufeld, with the court reporter, please.
+
+/(The following proceedings were held at the bench:)/
+
+//*THE COURT:* All right.
+
+*MR. NEUFELD:* All I was going to say is actually the letter, that is a
+cover letter, this is the letter and those are the people who signed it.
+What I was going to ask her was whether or not having now, you know,
+read that letter--
+
+*THE COURT:* Uh-huh.
+
+*MR. NEUFELD:* --that was shown to her, and having thought about it over
+the evening, would that change her opinion that there are only a few
+scientists in the population geneticist--I was going to ask her one
+question--geneticists and statistics communities who find your
+assumptions about the inherited independence of these genetic markers
+controversial? And I was not going to refer to the content of the letter
+or anything else about it, but just ask her, having read the letter and
+considered it, whether or not that would change her opinion.
+
+*THE COURT:* What you can do is you can ask her if she has read the
+letter and if she has considered it in forming her opinion, yes or no.
+That is all you can ask her. Depending on what the answer is, we will
+see where it goes.
+
+*MR. CLARKE:* Do you want to do that quick scheduling item?
+
+*THE COURT:* Yes.
+
+*MR. CLARKE:* Dr. Cotton is leaving next week for her daughter's
+wedding. She can stay, as kind of a last minute, Wednesday through noon.
+Mr. Neufeld assures me he will be done Monday, in which case--
+
+*MR. NEUFELD:* I expect to be done by late Monday. Definite as definite
+as I can be.
+
+*MR. CLARKE:* I want to let you know.
+
+*THE COURT:* Well, I was trying to get her out of here earlier.
+
+/(The following proceedings were held in open court:)/
+
+//*THE COURT:* All right. Good morning, ladies and gentlemen. Dr.
+Cotton, good morning. Would you resume the witness stand, please.
+
+/Robin Cotton, the witness on the stand at the time of the evening
+adjournment, resumed the stand and testified further as follows:/
+
+//*THE COURT:* Good morning again, Dr. Cotton. You are reminded, ma'am,
+you are still under oath. And Mr. Neufeld, you may continue with your
+cross-examination.
+
+*MR. NEUFELD:* Thank you. Good morning ladies and gentlemen.
+
+*THE JURY: *Good morning.
+
+*_CROSS-EXAMINATION (RESUMED) BY MR. NEUFELD_*
+
+*__MR. NEUFELD:* Good morning, Dr. Cotton.
+
+*DR. COTTON:* Good morning.
+
+*MR. NEUFELD:* Dr. Cotton, you may recall late yesterday afternoon I
+showed you a letter which has been marked as Defense exhibit 1145?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. NEUFELD:* Okay. And my question simply is--you read that letter
+yesterday?
+
+*DR. COTTON:* I read it last night.
+
+*MR. NEUFELD:* Okay. All right. And having read this five-page letter,
+the question simply is this: Did you rely on this letter at all when you
+testified yesterday earlier that there were simply a handful, or I'm
+sorry, a few members of the scientific community who took issue with the
+appropriateness of using the assumptions about the independence of
+inherited genetic traits that you use in forensic DNA typing?
+
+*MR. CLARKE:* Objection, misstates the evidence.
+
+*THE COURT:* Sustained. Doctor, with regards to this letter, did you
+consider this letter in any way in forming your opinions that you have
+given us thus far?
+
+*DR. COTTON:* No, I did not.
+
+*MR. NEUFELD:* Thank you.
+
+*MR. NEUFELD:* Now, I noticed yesterday Dr. Cotton, that you had your
+own copy of the national academy of science book "DNA technology in
+forensic science"; is that right?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. NEUFELD:* Are you familiar with some of the members who are on that
+committee that authored this book?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Are you familiar with the Chairman of this committee
+Victor Mckusick?
+
+*DR. COTTON:* Yes, I am.
+
+*MR. NEUFELD:* Okay.
+
+*MR. CLARKE:* Excuse me. Objection, relevance.
+
+*THE COURT:* Overruled.
+
+*MR. NEUFELD:* And quite simply, is Victor McKusick known as one of the
+leading geneticists in America?
+
+*MR. CLARKE:* Excuse me. Same objection.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes, I think he is.
+
+*MR. NEUFELD:* In fact, he is the founding president of the human geno
+organization, isn't he?
+
+*DR. COTTON:* That I don't know.
+
+*MR. NEUFELD:* Would it help if you looked at the biographical
+information on committee members contained in the back of the book?
+
+*THE COURT:* That is hearsay, counsel. He is the chairman of the
+committee. I think that establishes who he is.
+
+*MR. NEUFELD:* And are you familiar with another member of the
+committee, Paul Ferrara?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And do you know that Paul Ferrara is the director of the
+Virginia Division of Forensic Science?
+
+*DR. COTTON:* Yes. And he is also the director of the ASCLAD lab
+accreditation group.
+
+*MR. NEUFELD:* And I take it that he is someone whose opinions you respect?
+
+*DR. COTTON:* That's correct.
+
+*MR. NEUFELD:* And would the same also apply for Dr. McKusick who is the
+chairman of the committee? Are his opinions those that you would respect?
+
+*DR. COTTON:* I guess it would depend on his opinion about any
+particular issue.
+
+*MR. NEUFELD:* His opinions about molecular biology and genetics?
+
+*MR. CLARKE:* Objection, relevance.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Despite the fact that he is a very well-known scientist,
+he may have an opinion on a single issue that I might not agree with and
+an opinion on another issue that I might, so I can't make a blanket
+statement that I would agree with every opinion that Dr. McKusick would
+have.
+
+*MR. NEUFELD:* Would you regard Paul Ferrara as an expert in the area of
+forensic science?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And would you regard him as an expert in the application
+of DNA profiling in forensic science?
+
+*DR. COTTON:* No, I don't think so.
+
+*MR. NEUFELD:* Would you regard him as an expert in establishing the
+proper controls and quality assurance for handling items of biological
+evidence that will subsequently be tested on a DNA level?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And are you familiar with another member of the
+committee, Dr. Haig Kazazian?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And are you aware that he is the director of the Center
+of Medical Genetics at Johns Hopkins University School of Medicine?
+
+*DR. COTTON:* Yes.
+
+*THE COURT:* Do you want to spell that for the court reporter.
+
+*MR. NEUFELD:* K-A-Z-A-Z-I-A-N. First name Haig, H-A-I-G.
+
+*MR. NEUFELD:* And is it Haig Kazazian's reputation that he is one of
+the leading members of the genetics community in this country?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And are you familiar with Dr. Mary-Clair King?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And are you aware that she is a Professor of Epidemiology
+in the School of Public Health at the University of California at Berkeley?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And that she has a reputation in the community of
+population genetics?
+
+*DR. COTTON:* I know--
+
+*MR. CLARKE:* Excuse me. Objection, vague.
+
+*THE COURT:* Overruled. Dr. Cotton.
+
+*DR. COTTON:* I know that she is interested in population genetics and I
+have met her on a couple of occasions. I don't know what her overall
+scientific reputation within her field is.
+
+*MR. NEUFELD:* And are you familiar with another member of the
+committee, Dr. Henry C. Lee?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And would you agree that Dr. Lee is one of the--I'm
+sorry--are you aware that he is the director of the forensic science
+laboratories of the Connecticut State Police?
+
+*DR. COTTON:* Yes, I am.
+
+*MR. NEUFELD:* Are you aware that he is also a Professor of Forensic
+Science in Connecticut?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And would you agree that his reputation is of being one
+of the leading forensic scientists in America?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Finally, are you familiar with this other member of the
+committee, Dr. George Sensabaugh?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And Dr. Sensabaugh, are you aware that Dr. Sensabaugh is
+a Professor of Forensic Science and Biomedical Sciences also at the
+University of California at Berkeley?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And in fact, this member of the committee, Dr.
+Sensabaugh, has from time to time been a paid consultant to Cellmark,
+hasn't he?
+
+*DR. COTTON:* I don't really--I know that he has consulted with Cellmark
+back in like 1988. I don't really recall whether he was paid or he just
+agreed to do that. And he hasn't consulted specifically for us in any
+way for quite a long time.
+
+*MR. NEUFELD:* And would it be fair to say that you certainly--that he
+has a very excellent reputation in the forensic science community?
+
+*DR. COTTON:* Yes, I would.
+
+*MR. NEUFELD:* Would you also consider him an expert in the application
+of DNA profiling to forensic specimens?
+
+*DR. COTTON:* Yes, I think so.
+
+*MR. NEUFELD:* And would you respect his opinions and conclusions on
+those topics?
+
+*MR. CLARKE:* Objection, relevance.
+
+*THE COURT:* Well, that is vague.
+
+*MR. NEUFELD:* Now, to your knowledge, Dr. Cotton, do any of the
+scientists or forensic scientists who I have named who served on this
+committee and authored this book, to your knowledge do any of them have
+a financial interest in any laboratory conducting forensic DNA typing?
+
+*MR. CLARKE:* Objection, relevance.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Does Cellmark have a financial interest in the outcome of
+the controversy over the proper methods to estimate the frequency after
+DNA pattern?
+
+*MR. CLARKE:* Objection, relevance, hearsay and assumes facts not in
+evidence.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Goes to bias.
+
+*THE COURT:* Sustained. Rephrase the question, counsel. Financial
+compensation is fair game, but the manner in which it is phrased is not
+appropriate. Rephrase the question.
+
+*MR. NEUFELD:* Well, Cellmark is not a government laboratory, is it?
+
+*DR. COTTON:* No, it is not.
+
+*MR. NEUFELD:* Cellmark is not a not-for-profit research laboratory, is it?
+
+*DR. COTTON:* No, it is not.
+
+*MR. NEUFELD:* Cellmark is in the business of doing DNA testing for
+hire; isn't that right?
+
+*MR. CLARKE:* Well, objection. I think that is argumentative.
+
+*THE COURT:* It is. Rephrase the question.
+
+*MR. NEUFELD:* Cellmark--Cellmark--Cellmark diagnostics laboratory is a
+business operation, isn't it?
+
+*DR. COTTON:* Yes, it is.
+
+*MR. NEUFELD:* All right. And not only do you charge for the actual
+testing that you do, for instance, for the Prosecution in this case, but
+you are paid, for instance, by the Prosecution for your attendance here
+as an expert witness; isn't that right?
+
+*DR. COTTON:* Cellmark is paid for my attendance here.
+
+*MR. NEUFELD:* Right.
+
+*DR. COTTON:* I don't get paid.
+
+*MR. NEUFELD:* Cellmark is paid for your attendance as an expert witness?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* Do you know how much Cellmark receives each day for your
+attendance here?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. NEUFELD:* How much is that?
+
+*DR. COTTON:* It is $1200.
+
+*MR. NEUFELD:* And are those for the days that you are actually on the
+witness stand or is Cellmark charging $1200 a day when you are simply
+sitting here in court or upstairs in the District Attorney's office?
+
+*DR. COTTON:* Well, if I'm here on business for a particular case, then
+whatever I'm doing on that business, whether I'm upstairs or down here,
+is still time away from the lab and so it is still charged at that same
+rate.
+
+*MR. NEUFELD:* All right. You said that you are the laboratory director
+for Cellmark in the USA; is that right?
+
+*DR. COTTON:* Yes, I am.
+
+*MR. NEUFELD:* You mentioned at the close of your direct examination,
+Dr. Cotton, that you furnished the Defense copies of your protocol and
+databases in this case; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Now, when you said you furnished copies of your databases
+as discovery, did you mean that you furnished the actual x-ray films
+comprising those databases or did you furnish us with computer disks
+which reflect the sizings of the various people who are in your database?
+
+*DR. COTTON:* It was the computer disk that reflect the sizings.
+
+*MR. NEUFELD:* And in fact, Dr. Cotton, in furnishing such items as the
+protocols and the databases, you charge the Defense for those items,
+didn't you?
+
+*DR. COTTON:* Yes, we did.
+
+*MR. NEUFELD:* And would it be fair to say, Dr. Cotton, that for the
+discovery that we have asked for in this case and received you have
+charged the Defense more than $5,000?
+
+*DR. COTTON:* That's correct.
+
+*MR. NEUFELD:* And that is another way that Cellmark can make money from
+being retained in a particular case?
+
+*MR. CLARKE:* Objection, argumentative.
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. NEUFELD:* Well, for instance, Dr. Cotton, for the various copies of
+x-ray films of autorads that we have requested in this case as
+discovery, you charge $25.00 an autorad; is that right?
+
+*DR. COTTON:* That's correct except--
+
+*MR. NEUFELD:* Would you--I'm sorry.
+
+*DR. COTTON:* Can I finish, please?
+
+*MR. NEUFELD:* Yes.
+
+*DR. COTTON:* We did not charge for the copies of the case films.
+
+*MR. NEUFELD:* But for the other autorads that we requested for
+discovery purposes to assess the quality of your laboratory, you charged
+$25.00 for each of those?
+
+*DR. COTTON:* That's correct.
+
+*MR. NEUFELD:* And do you know, for instance, that the Department of
+Justice charges $5.00 for each of those x-ray films?
+
+*MR. CLARKE:* Objection, calls for hearsay, irrelevant.
+
+*THE COURT:* Sustained. Assumes facts not in evidence.
+
+*MR. NEUFELD:* Well--
+
+*THE COURT:* Rephrase the question.
+
+*MR. NEUFELD:* Do you know how much the Department of Justice charges?
+
+*THE COURT:* Rephrase the question.
+
+*MR. NEUFELD:* --the Defense for each x-ray film that it produces in
+this case?
+
+*THE COURT:* Rephrase the question. It is vague.
+
+*MR. NEUFELD:* It is vague?
+
+*THE COURT:* It is vague.
+
+*MR. NEUFELD:* Okay.
+
+*THE COURT:* There are 28 Departments of Justice in the United States.
+
+*MR. NEUFELD:* Okay.
+
+*MR. NEUFELD:* Do you know how much the California Department of Justice
+DNA laboratory charges the Defense for each autorad that it produces in
+this case?
+
+*DR. COTTON:* No, I don't.
+
+*MR. CLARKE:* Objection, irrelevant.
+
+*THE COURT:* Overruled.
+
+*MR. NEUFELD:* Now, when we finished yesterday afternoon, I asked you a
+few questions about this--this notion of the transfer of technology from
+medical diagnostics or disease diagnostics to the forensic case. Do you
+recall that?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And I believe at the end, just to make the transition,
+your Honor, that you agree that new applications such as forensics may
+present or pose more problems which may affect the reliability of the
+new application; is that correct?
+
+*DR. COTTON:* Well, I believe what I said was that any new application
+may pose more problems or less problems than some previous application,
+so you can't assume, just because it is a new application, that already
+it has more problems.
+
+*MR. NEUFELD:* All right. Currently, Dr. Cotton, would you agree that
+there is no federal regulatory scheme requiring that you meet certain
+minimal quality for your forensic DNA profiling at your laboratory?
+Would you agree with that fact, with that statement?
+
+*DR. COTTON:* Can you clarify that? What do you mean by a federal --
+
+*MR. NEUFELD:* Sure.
+
+*DR. COTTON:* --scheme?
+
+*MR. NEUFELD:* There is no federal regulation that regulates the quality
+of forensic DNA profiling that you generate in your laboratory
+currently; isn't that correct?
+
+*DR. COTTON:* Yes. That would apply to all forensic DNA typing
+laboratories. There are no federal--specific federal regulations
+applying to forensic DNA laboratories.
+
+*MR. NEUFELD:* On the other hand, do you know whether, for instance, the
+national bone marrow program DNA typing procedures are subjected to
+mandatory federal regulations which govern the quality of their testing?
+
+*DR. COTTON:* Not--no, I don't know.
+
+*MR. NEUFELD:* Okay. Would you agree in fact that currently, Dr. Cotton,
+there is more federal regulatory control of the quality in testing for
+strep throat than there is in the quality of testing for forensic DNA
+profiling?
+
+*MR. CLARKE:* Objection, irrelevant.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Now, you mentioned on direct examination that you have
+been accredited by the American Society of Crime Lab Directors L.A.B.;
+is that right?
+
+*DR. COTTON:* Yes, I did.
+
+*MR. NEUFELD:* And this is a voluntary program, is it not?
+
+*DR. COTTON:* Yes, it is.
+
+*MR. NEUFELD:* Do you know whether in the field of DNA--DNA's clinical
+applications in medicine whether accreditation is mandatory by law?
+
+*MR. CLARKE:* Objection, irrelevant.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* At forensic laboratories that do DNA profiling, is
+external blood proficiency testing mandatory?
+
+*DR. COTTON:* Since there is no regulation, there is nothing to be
+mandatory. There are guidelines that suggest that that would be a good
+thing to do, if possible. It is difficult to do--I don't know about
+other laboratories. We to do some external blind tests, but not very many.
+
+*MR. NEUFELD:* Do you have any knowledge to what extent the Los Angeles
+Police Department DNA laboratory submits to blind external proficiency
+testing?
+
+*MR. CLARKE:* Objection, irrelevant, calls for hearsay.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Unlike for forensic DNA laboratories, do you have
+knowledge whether the laboratories that do the bone marrow typing are
+subjected to mandatory external blind proficiency testing?
+
+*MR. CLARKE:* Objection. Irrelevant, assumes facts not in evidence.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* To her knowledge.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Now, was becoming accredited by ASCLAD important to you
+and to Cellmark?
+
+*DR. COTTON:* Yes, it was.
+
+*MR. NEUFELD:* And would you agree that one of the principal purposes of
+accreditation is to improve the quality of forensic laboratory services?
+
+*DR. COTTON:* No, I--that's not why we--I can only speak for why we
+sought accreditation. I can't speak for why another laboratory would do
+that.
+
+*MR. NEUFELD:* Why don't you tell us why you sought accreditation, Dr.
+Cotton?
+
+*DR. COTTON:* We wanted to have a clear demonstration and that our
+laboratory work had been--was meeting the TWGDAM guidelines and other
+guidelines that were set forth by ASCLAD, and therefore we sought
+the--we applied and sought the accreditation.
+
+*MR. NEUFELD:* Would you agree that one of the reasons that you wanted
+to demonstrate that you met the ASCLAD guidelines is to show the public
+that they can have confidence in the results generated by your laboratory?
+
+*MR. CLARKE:* Objection, argumentative, your Honor.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And I believe you said that for a laboratory such as your
+own to get accredited by ASCLAD the laboratory had to be inspected by
+qualified and independent laboratory managers and scientists?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And every aspect of your laboratory's operations was
+inspected and evaluated?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And I believe you also said on direct examination that
+whereas you are the first private laboratory doing forensic DNA
+profiling to be accredited, that there were many others in the
+sub-sector, namely, local or State University laboratories that were
+accredited by ASCLAD? Do you recall that?
+
+*DR. COTTON:* There are--to my understanding there is about twenty or so.
+
+*MR. NEUFELD:* And to your knowledge understanding, Dr. Cotton, the Los
+Angeles Police Department is not one of them; isn't that right?
+
+*MR. CLARKE:* Objection, irrelevant.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Now, I believe you said, Dr. Cotton, on direct
+examination, that each laboratory setting out to do DNA profiling must
+go through its own validation and make sure that its own people can do
+it well before going on line with case work; is that correct?
+
+*DR. COTTON:* I don't remember whether I said anything regarding that
+yesterday or not.
+
+*MR. NEUFELD:* Well, would you agree--well, whether or not you said it
+then, would you agree with that statement?
+
+*DR. COTTON:* Yes, basically I would.
+
+*MR. NEUFELD:* Would you agree that it is essential that before a
+laboratory goes on line doing DNA case work that it gain familiarity
+with the system by using fresh samples?
+
+*DR. COTTON:* Yes, that seems like a good idea.
+
+*MR. NEUFELD:* And would you agree that another thing that a laboratory
+should do before it goes on line with a particular DNA procedure is to
+test the marker's survival in dried stains? When I say "The marker," I
+mean the DNA probes that you are using?
+
+*DR. COTTON:* What do you mean by "Marker survival"?
+
+*MR. NEUFELD:* Well, to see how well it does with dried bloodstains, as
+opposed to fresh blood, for instance?
+
+*DR. COTTON:* Sure.
+
+*MR. NEUFELD:* Its robustness?
+
+*DR. COTTON:* Sure.
+
+*MR. NEUFELD:* And would you agree that it is important, as a
+precondition to going on line, that the forensic laboratory test the
+system on simulated evidence samples have been exposed to a variety of
+environmental conditions, such as heat and humidity and sunlight and the
+rest?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* You don't think that is important?
+
+*DR. COTTON:* Well, it is important that that be done at some point, but
+I don't see any reason why every forensic laboratory should have to do
+that. If that has been done and that work has been published, I see no
+need for any laboratory to go back and do that same work over and over
+and over again every time a laboratory is about to come on line with a
+new test.
+
+*MR. NEUFELD:* All right. Would you agree that it is important that the
+new laboratory, before it goes on line, test its own system on
+non-probative evidence samples whose origin is known, simply as a check
+on reliability?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And finally, Dr. Cotton, would you agree that before a
+new laboratory goes on line with this technology that it is important
+that it establish basic--that it establish basic competence in using the
+system through blind trials?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* Could you please explain to the jury what blind trials are.
+
+*DR. COTTON:* Yes, and I think there is sometimes many definitions.
+
+/(Brief pause.)/
+
+/(Power outage in the courtroom.)/
+
+//*THE COURT:* All right. Mr. Neufeld. All right. Mr. Neufeld, you had
+just asked Dr. Cotton to explain to the jury what blind trials are.
+
+*MR. NEUFELD:* Thank you.
+
+*THE COURT:* You are welcome.
+
+*DR. COTTON:* What I'm going to do is try to explain--use some words so
+that maybe we are all using the same words. If you get a proficiency
+test into the lab, generally the laboratory staff is aware that that is
+a proficiency test. They are not aware of what the answer should be, but
+they are aware that this is a set of proficiency samples. In answer to
+Mr. Neufeld's question, if you have a blind proficiency test, that would
+mean that the laboratory staff would not know that that was a
+proficiency test sample. That means it has to come submitted as a
+regular case with a letter of submission, a person of contact, and all
+the other things that come with a regular case submission, so it has to
+look like a fake case. And when the laboratory analyst reaches the point
+where they would call up and say I have enough DNA to proceed or I don't
+have enough DNA to proceed, there has to be a person who is willing to
+talk to them and continue to behave as if this is a real case. So
+finding outside people to assist you in setting up a blind proficiency
+test is difficult. There are, however, plenty of proficiency test
+providers for a non-blind test.
+
+*MR. NEUFELD:* So you would disagree with that statement that I just
+made about the necessity of blind trials before a laboratory goes on line?
+
+*DR. COTTON:* Yes. I would agree that laboratories should do a
+proficiency test before they go on line, but I would not agree that it
+needs to be a blind proficiency test, because if they are not on line,
+how can they be accepting a case in the first place, so I don't even see
+how you would exactly do that.
+
+*MR. NEUFELD:* All right. Dr. Cotton, let me ask you this: Even once
+they go on line, would you agree that there is no substitute in
+assessing the quality of the work generated by the laboratory to engage
+in rigorous external proficiency testing via blind trials on a regular
+basis?
+
+*MR. CLARKE:* Objection. Assumes facts not in evidence.
+
+*THE COURT:* It is argumentative. Sustained.
+
+*MR. NEUFELD:* Dr. Cotton, in arriving at your opinions on this
+particular matter, did you read the section of the NRC report entitled
+"Experimental foundation"?
+
+*DR. COTTON:* If I could just look quickly at the--
+
+*MR. NEUFELD:* Page 55 in your book.
+
+*DR. COTTON:* Can you ask your question again now?
+
+*MR. NEUFELD:* Fine. In arriving at your opinions as to what a
+laboratory should do as a precondition before using new DNA typing, did
+you at all rely on that section of the national academy of science's
+book "DNA technology in forensic science"?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* Okay. Now, in your laboratory, I think you mentioned that
+there are several molecular biologists who process the evidence when it
+comes in and then analyze the evidence; is that correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And do these molecular biologists begin handling the
+evidence from the moment it arrives or are there other people with less
+training who do the initial processing of evidence when it comes to the
+laboratory?
+
+*DR. COTTON:* No. They begin handling the evidence from the point that
+it is unpackaged.
+
+*MR. NEUFELD:* When we talk about unpackaging, we are talking about
+unpackaging the blood swatches or other types of material that you get
+from a police department laboratory or wherever?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* All right. And I think you mentioned that each of your
+molecular biologists who begin the processing of the evidence, at least
+in this case, have six years' experience; is that right?
+
+*DR. COTTON:* No. They don't all have six years' of experience. It
+happens that the two people who worked on this case have six years of
+experience.
+
+*MR. NEUFELD:* That would be Cooper and Yates?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And however, all these molecular biologists who process
+the evidence from inception--from its arrival, excuse me, are supervised
+by several ph.D.s; is that right?
+
+*DR. COTTON:* They are directly by--they are directly supervised by one
+of the their own group and then indirectly supervised in terms of the
+case's review by the Ph.D. staff and they are supervised by myself.
+
+*MR. NEUFELD:* And how many ph.D.s are there in the Ph.D. staff at Cellmark?
+
+*DR. COTTON:* Well, there are four people with a Ph.D. with Cellmark,
+but three of them are involved in assigning cases.
+
+*MR. NEUFELD:* Do you have any knowledge at all about the extent of the
+experience of the criminalists who are processing these items of
+evidence at the Los Angeles Police Department?
+
+*MR. CLARKE:* Objection, irrelevant, hearsay.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Have you had an ongoing relationship with the Los Angeles
+Police Department's Scientific Investigation Division? "You" meaning
+Cellmark?
+
+*MR. CLARKE:* Objection, irrelevant.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* You have worked on a number of cases with them?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And they have talked to the laboratory director, Michele
+Kestler, from time to time?
+
+*DR. COTTON:* I haven't talked to her very often, but other lab staff have.
+
+*MR. NEUFELD:* And with respect to your familiarity with the LAPD
+laboratory, do you know to what extent they have any ph.D.s supervising
+the work product that comes out of that DNA laboratory?
+
+*MR. CLARKE:* Same objection.
+
+*THE COURT:* Sustained. It is also way beyond the scope of the direct
+examination.
+
+*MR. NEUFELD:* Now, has Cellmark worked with other laboratories in
+helping to generate standards for the processing of DNA evidence?
+
+*DR. COTTON:* No, we haven't. The group that generates standards or
+guidelines for the processing--for doing DNA analysis has mainly been
+TWGDAM and ASCLAD and Cellmark is not a member of the TWGDAM group
+because we are a business. And up until the point we were accredited we
+were not a member of the ASCLAD laboratory group or laboratory
+accreditation group and now we are, but that is very new.
+
+*MR. NEUFELD:* But even if there wasn't a formal relationship between
+Cellmark and the various forensic laboratories through scientific
+meetings and other types of informal gatherings, has Cellmark
+participated in the process and in the dialogue of trying to establish
+standards with the FBI and other entities for the processing of samples
+for DNA typing?
+
+*DR. COTTON:* We have more participated in the dialogue about scientific
+issues and we really were not included in the dialogue regarding
+guidelines for how typing should be done. Nonetheless, the guidelines
+are--it is apparent they didn't need our input because the guidelines
+are very good.
+
+*MR. NEUFELD:* Dr. Cotton, you mentioned already that you are familiar
+with Dr. Henry Lee. Are you familiar--are you familiar with a Dr. Gaensslen?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And who is he?
+
+*DR. COTTON:* He is a forensic scientist. I believe he is on the faculty
+either at Yale or Connecticut and he is also the editor of the
+journal--the current editor of the "Journal of forensic science."
+
+*MR. NEUFELD:* So is he a respected member of the forensic science
+community?
+
+*DR. COTTON:* Yes, very respected.
+
+*MR. NEUFELD:* Are you also familiar with James Kearney or Kerney?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Who is James Kearney?
+
+*DR. COTTON:* He is an FBI agent who has been involved in DNA analysis
+or supervising the--initially supervising the development of the methods
+that are used at the FBI for DNA analysis.
+
+*MR. NEUFELD:* In fact, wasn't he the Chief of Forensic Science Research
+and Training at the FBI Center at Quantico?
+
+*DR. COTTON:* Yes, that is good. I couldn't remember his exact title.
+
+*MR. NEUFELD:* And have you read the publication by the FBI entitled
+"Guidelines for the collection and preservation of DNA evidence"?
+
+*MR. CLARKE:* Objection, relevance, your Honor.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes, I have.
+
+*MR. NEUFELD:* And you are aware that the authors of this publication by
+the FBI are Dr. Henry Lee, Dr. Gaensslen and James Kearney from the FBI?
+
+*DR. COTTON:* Oh, maybe I need to look at what you are referring to,
+because what I'm thinking of doesn't have just three authors.
+
+*MR. NEUFELD:* Well, there is a fourth author, P. David Bigby as well.
+
+*DR. COTTON:* No, I don't think we are thinking of the same thing.
+
+*MR. NEUFELD:* May I approach the witness?
+
+*THE COURT:* You may.
+
+/(Brief pause.)/
+
+//*MR. CLARKE:* I'm sorry, may I see it, your Honor?
+
+*MR. NEUFELD:* It is already in evidence.
+
+*THE COURT:* Either counsel may approach the witness without leave of
+the Court.
+
+/(Brief pause.)/
+
+/(Discussion held off the record between Deputy District Attorney and
+Defense counsel.)/
+
+//*MR. NEUFELD:* This is a photocopy. This isn't the original
+publication, looks like, in format.
+
+/(Brief pause.)/
+
+//*DR. COTTON:* I haven't read this.
+
+*MR. NEUFELD:* You haven't?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* Okay. Thank you. As a person who is the director of a
+forensic DNA laboratory, are you concerned with issues that involve the
+preservation and collection of biological samples so they will be able
+to be tested on a DNA level?
+
+*DR. COTTON:* Yes, I guess so.
+
+*MR. NEUFELD:* Would you agree that the ability to perform successful
+DNA analysis on biological evidence recovered from a crime scene depends
+very much on what kinds of specimens were collected and how they were
+preserved?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And would you agree, Dr. Cotton, that if the DNA evidence
+is not properly documented prior to its collection, its origin could be
+questioned?
+
+*MR. CLARKE:* Objection, relevance, beyond the scope.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Dr. Cotton, you testified on direct examination as to the
+types of controls utilized by Cellmark in documenting each item of
+evidence that you process; is that correct?
+
+*MR. CLARKE:* Objection, misstates the evidence.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* You have controls to assess how your scientific procedure
+worked, if that is what you are referring to then.
+
+*MR. NEUFELD:* Well, didn't you also say that there were certain
+rigorous documentation requirements, such as documenting every transfer
+of a biological specimen within the laboratory?
+
+*DR. COTTON:* There are rigorous documentation requirements. I didn't
+say that every transfer--and I'm using that term broadly, like we don't
+write down it is now going to the freezer, you know, stuff like that.
+
+*MR. NEUFELD:* Fine, but if it goes from one package to another package,
+is that the kind of thing that you have a rigorous requirement that it
+be documented?
+
+*DR. COTTON:* If the sample goes--when it gets transferred from one tube
+to the next once the processing has started, that transfer--that
+labeling is witnessed. That is, let me be totally clear. If I were
+working at the bench, I would hold up a tube with a label that
+said--would have the case number on it and it would be 02 and I would
+show my partner the second tube I was going to use which would be empty
+and it would also have the same case number and 02. I might then turn
+around and the actual transfer might not be witnessed, but we are
+concerned that the labeling is correct, so it is the labeling that is
+witnessed, not the actual necessarily the actual moving of the sample.
+
+*MR. NEUFELD:* Would it be fair to say that the reason you are so
+concerned and you even have a witness there, is because if the labeling
+isn't correct, the origin of the ultimate sample that you test may be
+called into question?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And so would you agree likewise that if the evidence
+itself is not properly labeled and documented in the same way that you
+just described it at Cellmark, prior to its receipt at Cellmark, its
+origin can also be questioned?
+
+*MR. CLARKE:* Objection, irrelevant and beyond the scope.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Based on your expertise in working with forensic
+specimens, Dr. Cotton, would you agree that if a sample is not properly
+packaged cross-contamination might occur?
+
+*MR. CLARKE:* Objection, vague to as to time.
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. NEUFELD:* Well, Dr. Cotton, based on your expertise with forensic
+specimens, would you agree that if an item of biological evidence is not
+properly packaged in the first instance when it is collected, that
+cross-contamination might occur?
+
+*MR. CLARKE:* Objection, beyond the scope, irrelevant.
+
+*THE COURT:* It is vague.
+
+*MR. NEUFELD:* Dr. Cotton, based on your experience in handling and
+processing forensic specimens, are there certain do's and don'ts with
+respect to the packaging of biological specimens to preserve the DNA
+integrity?
+
+*MR. CLARKE:* Objection, vague.
+
+*THE COURT:* Overruled. Are there any guidelines that you are aware of,
+general guidelines, regarding these items?
+
+*DR. COTTON:* I'm not aware of any general guidelines. I am aware of how
+things are commonly done, since I am aware of the types of things that
+we receive in the laboratory, but I don't have any special expertise in
+collection of samples, so my knowledge is pretty much limited to what I
+am aware of that arrives at our laboratory.
+
+*MR. NEUFELD:* But is your knowledge also based on your--your common
+sense as an experienced forensic scientist? Is that a fair statement?
+
+*DR. COTTON:* Well, of course.
+
+*MR. NEUFELD:* And that as an experienced forensic scientist used to
+handling forensic specimens and reading literature on the subject, you
+have an appreciation of what--what proper controls should be followed
+when evidence is initially packaged, don't you?
+
+*MR. CLARKE:* Objection, vague.
+
+*THE COURT:* Sustained. Counsel, the problem there is "Controls."
+
+*MR. NEUFELD:* Based on your experience as a forensic scientist, haven't
+you arrived at certain conclusions and opinions as to what is the proper
+methods for packaging items of biological evidence at a crime scene in
+order to preserve it for DNA testing at your laboratory?
+
+*MR. CLARKE:* Same objection also, beyond the scope.
+
+*THE COURT:* Overruled. Overruled.
+
+*DR. COTTON:* I have some basic opinions about what common sense would
+tell you to do, and beyond that--and I also have some technical
+information about I know something about--giving you a very brief
+example, if something is dry, it is better than being stored wet, things
+like that.
+
+*MR. NEUFELD:* Okay.
+
+*DR. COTTON:* The things that I know affect DNA, but there is a limit.
+
+*MR. NEUFELD:* Fine. So I'm only going to ask you questions about what
+you know about and how it affects DNA, Dr. Cotton. Would you agree that
+when something is wet one should not package it in a sealed plastic bag?
+
+*DR. COTTON:* I wouldn't want to package it in a sealed plastic bag for
+days. I don't think it would make any difference if it were a short
+time, but I wouldn't want it to be in there for a long time unless it
+was cold.
+
+*MR. NEUFELD:* Are you aware of any forensic laboratory protocol that
+you have ever inspected that authorizes the packaging of wet biological
+samples in a sealed plastic bag even for a short time?
+
+*MR. CLARKE:* Objection, irrelevant, calls for hearsay.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Dr. Cotton, in your capacity as the laboratory director
+of a forensic DNA laboratory, have you on occasion inspected the
+protocols of other forensic DNA laboratories?
+
+*MR. CLARKE:* Same objection.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* I have, but that would only be with regard to the DNA
+typing procedure protocols. That is, what--how you do the DNA analysis,
+and I have not inspected or read any other types of protocols from a
+forensic lab.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Now, Dr. Cotton, in this case a criminalist has
+testified that she placed wet blood swatches in a clear plastic bag
+which is folded over so the swatches are less likely to fall out. Would
+you agree, Dr. Cotton, that by putting a wet swatch into a closed
+plastic bag that that allows the moisture to remain in the swatch?
+
+*MR. CLARKE:* Same objection as to beyond the scope.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* If the plastic bag is sealed like a zip-lock, where it is
+airtight, then that might be a problem. If it is just folded over, it
+might not be a problem.
+
+*MR. NEUFELD:* Dr. Cotton, if the--
+
+*MR. CLARKE:* I'm sorry, I'm not sure the witness finished her answer.
+
+*MR. NEUFELD:* I'm sorry. Had you finished?
+
+*THE COURT:* I think she finished.
+
+*DR. COTTON:* I am finished.
+
+*MR. NEUFELD:* Dr. Cotton, if it is folded over such that wet blood in
+the plastic bag allows the two sides of the plastic bag to adhere to one
+another, wouldn't that retain moisture?
+
+*DR. COTTON:* I don't really know. I haven't seen this plastic bag. I've
+given you the fullest extent of an answer that I think I can.
+
+*MR. NEUFELD:* One moment, your Honor.
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* Dr. Cotton, while we are getting the plastic bags that
+are in evidence, based on your common sense and your experience as an
+expert, would you agree that a small piece of cotton, perhaps four or
+five millimeters, by four or five millimeters, if it is dabbed in wet
+blood, would in ordinary circumstances dry within minutes?
+
+*MR. CLARKE:* Well, objection at this point, no foundation, beyond the
+scope.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Would you agree, Dr. Cotton--
+
+*THE COURT:* Counsel, isn't the issue that we need to address with Dr.
+Cotton, is the impact of moisture, heat, age on the degradation process
+of DNA? Isn't that the issue?
+
+*MR. NEUFELD:* I believe it is, your Honor.
+
+*THE COURT:* All right. Then why don't we ask those questions directly.
+
+*MR. NEUFELD:* Would you agree, Dr. Cotton, that moisture promotes
+bacterial growth?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Would you agree, Dr. Cotton, that bacteria starts eating
+up the DNA and the DNA deteriorates and degrade?
+
+*DR. COTTON:* Over time, yes.
+
+*MR. NEUFELD:* Would you agree, Dr. Cotton, that degradation occurs more
+quickly under the combined effects of moisture and heat?
+
+*DR. COTTON:* Yes, I would.
+
+*MR. NEUFELD:* In your laboratory, Dr. Cotton, where you are the
+laboratory director, would it be scientifically acceptable to let wet
+plastic stains remain in sealed plastic bags--
+
+*THE COURT:* Would you want to rephrase that. You said "Wet plastic stains."
+
+*MR. NEUFELD:* Sorry. Because that is what I have written here. At least
+I can read correctly, your Honor. I just can't type correctly, I'm sorry.
+
+*THE COURT:* Let me do it.
+
+*MR. NEUFELD:* Dr. Cotton, in your laboratory would it be scientifically
+acceptable to let swatches of wet bloodstains remain in sealed plastic
+bags in the rear of a parked truck unrefrigerated and unair-conditioned
+in the middle of June for up to seven hours?
+
+*MR. CLARKE:* Objection, argumentative.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* I don't think that would be my first choice, but please
+keep in mind that my laboratory doesn't collect evidence and so we don't
+collect it, we don't have a truck, we just receive it from someone else
+who has already collected it.
+
+*MR. NEUFELD:* And as a result of that, Dr. Cotton, there is no way that
+you can control the extent to which the offering agency either degraded
+those samples or cross-contaminated those samples; isn't that right?
+
+*DR. COTTON:* Of course.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Dr. Cotton, I will now show you what has already been
+marked in evidence as Prosecution 163-e, the plastic bags used by Andrea
+Mazzola to collect the swatches. You notice how when it rests the two
+sides of the plastic bag actually lay one on top of the other; is that
+right?
+
+*DR. COTTON:* Yeah.
+
+*MR. NEUFELD:* And would you agree, Dr. Cotton, that if based on your
+experience with biological materials, that if five or six wet swatches
+were placed on the bottom of that bag, that the plastic would remain in
+a closed position, namely, the two sides would remain in contact with
+one another as opposed to in an opposition?
+
+*DR. COTTON:* That is probably correct.
+
+*MR. NEUFELD:* And in a closed position, would you agree, Dr. Cotton,
+that when in a closed position moisture is retained in the plastic bag,
+as opposed to having the sample drying?
+
+*DR. COTTON:* Yes.
+
+*THE COURT:* All right. Are we available to move on?
+
+*MR. NEUFELD:* I'm sorry, what?
+
+*THE COURT:* I think the jury got the point two weeks ago about the bags
+and wet swatches.
+
+/(Brief pause.)/
+
+//*THE COURT:* Actually, have we passed that bag through the jury box?
+
+*MR. NEUFELD:* Now--
+
+*THE COURT:* Counsel, given the size and the regular nature of the bag,
+I would just suggest we hand one of the bags to juror no. 1, she can
+pass it through, just one, and we can proceed with the testimony, since
+it is a small item to look at. Do you agree with that?
+
+*MR. NEUFELD:* That's fine.
+
+*THE COURT:* All right. Mr. Scheck, would you hand that to juror no. 1,
+please. Thank you. Proceed.
+
+/(The exhibit was passed amongst the jury.)/
+
+/(Discussion held off the record between Deputy District Attorney and
+Defense counsel.)/
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Dr. Cotton, just so I'm--well, even though the swatch
+itself doesn't unravel, due to the degradation caused by heat and
+moisture, invisible changes are occurring; isn't that right?
+
+*MR. CLARKE:* Objection, vague.
+
+*THE COURT:* Stained. Rephrase the question.
+
+*MR. NEUFELD:* Well, when you finally remove a swatch from a plastic bag
+where it has been subjected continuously to heat and moisture, will the
+swatch still look the same, namely, will it still look as red as it did
+before it was subjected to the heat and humidity?
+
+*THE COURT:* Why don't you rephrase that question. I think are assuming
+facts that aren't in evidence in that hypothetical.
+
+*MR. NEUFELD:* Well--
+
+*THE COURT:* The problem is "Continually" subjected to heat. That is not
+in the record.
+
+*MR. NEUFELD:* If a swatch was placed in a hot truck in June and it
+wasn't air-conditioned, for up to seven hours and it remained during
+those seven hours moist, would the degrading process continue?
+
+*MR. CLARKE:* Objection, vague.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* How hot are we talking about?
+
+*MR. NEUFELD:* Well, just from your own common experience, if an object
+is left in a black truck which absorbs heat rather than reflecting it--
+
+*THE COURT:* Hold on. We have an attorney from New York and we have an
+expert witness from Maryland talking about June weather conditions in
+Santa Monica. We got a problem here.
+
+*MR. COCHRAN:* May I testify?
+
+*THE COURT:* No, you may not, mr. Cochran.
+
+/(Discussion held off the record between defense counsel.)/
+
+//*THE COURT:* All right. Deputy Long has and handed bag back to Miss Clark.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Your Honor, rather than even getting into that, I think
+the jury's recollection of how certain criminalists appeared on the
+videotape will be controlling on this point and I won't even proceed
+with it.
+
+*THE COURT:* Proceed.
+
+*MR. NEUFELD:* Okay.
+
+*MR. NEUFELD:* Umm, let me show you the swatches--
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Would you simply agree, Dr. Cotton, that the warmer it
+is the more that exacerbates the degrading process?
+
+*DR. COTTON:* If there is bacteria present, the warmer it is, that's
+correct, until it gets too hot, at which point it would kill the
+bacteria also.
+
+*MR. NEUFELD:* And in fact if there is moisture present that also
+increases the likelihood of bacteria eating away at the DNA as well,
+doesn't it?
+
+*DR. COTTON:* Under most conditions that would be true, yes.
+
+*MR. NEUFELD:* And if a stain is lying on a sidewalk it would not be
+unlikely or unreasonable that there would be some bacteria present;
+isn't that right?
+
+*DR. COTTON:* Of course.
+
+*MR. NEUFELD:* Now, I would like to show you--
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Dr. Cotton, I would like to two show you two
+photographs which I guess will be next in order.
+
+*THE COURT:* Have you shown those to Mr. Clark?
+
+*MR. NEUFELD:* Yes, yes.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* He has a copy of them.
+
+*THE COURT:* All right. 1146, 1147 47.
+
+/(Deft's 1146 for id = photograph)/
+
+/(Deft's 1147 for id = photograph)/
+
+/(Discussion held off the record between Deputy District Attorney and
+Defense counsel.)/
+
+//*MR. NEUFELD:* May I approach the witness?
+
+*THE COURT:* You may. Counsel, if you are questioning the witness, feel
+free to approach the witness.
+
+*MR. NEUFELD:* Now, Dr. Cotton, do you remember that I think you said
+that Dr. Blake was present at the laboratory when certain samples were
+unpackaged?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And when these samples were unpackaged, Dr. Blake took
+photographs of them, didn't he?
+
+*DR. COTTON:* Yes, he did.
+
+*MR. NEUFELD:* And I show you first--what was the next item, I'm sorry?
+
+*THE COURT:* 1146.
+
+*MR. NEUFELD:* 1146. Do you recognize what is in photograph--I'm sorry,
+item 1146?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. NEUFELD:* And could you please tell us what it is?
+
+*DR. COTTON:* This is one of the items that was opened when Dr. Blake
+and Dr. Lee were at the laboratory and it consists of five swatches.
+
+*MR. NEUFELD:* And does those five swatches represent sample LAPD number
+item 47?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And item 47 are purported to be stains taken from one of
+the drops at Bundy; isn't that correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* Now, I show you--and I ask the Court's indulgence. What
+is the next item?
+
+*THE COURT:* 1147.
+
+*MR. NEUFELD:* 1147.
+
+*THE COURT:* 1147.
+
+*MR. NEUFELD:* I show you 1147 and ask you if you can recognize that
+photograph?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. NEUFELD:* And please tell us what it is?
+
+*DR. COTTON:* It is the item number no. 12 that was also opened on that
+same day and it consists of six swatches.
+
+*MR. NEUFELD:* And is that a fair and accurate representation as to how
+the swatches appeared that day?
+
+*DR. COTTON:* Yes, it is.
+
+*MR. NEUFELD:* Your Honor, with the Court's permission may I exhibit
+them on the elmo?
+
+*THE COURT:* You may.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*THE COURT:* All right. Mr. Neufeld, which photograph--these are both
+side-by-side?
+
+*MR. NEUFELD:* Yes.
+
+*THE COURT:* All right. You showed to the witness as to each one of
+these, 1146 and 1147, a group of three photographs.
+
+*MR. NEUFELD:* Yes, but I'm--since one photograph is simply the external
+envelope, I didn't feel the need to show that.
+
+*THE COURT:* All right. Are you offering those as a group of three or
+just these two photographs?
+
+*MR. NEUFELD:* Just these two photographs.
+
+*THE COURT:* All right. Proceed.
+
+*MR. NEUFELD:* Okay.
+
+*THE COURT:* Can you get that focused a little better?
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Mr. Neufeld.
+
+*MR. NEUFELD:* Now, just--now, you obviously know what the markings are
+on these different photographs, Dr. Cotton, or you may know, but just
+from looking at those photographs, for instance, can you tell which
+swatches came from item 47 and which swatches came from item 12?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* And would it be fair to say that as you look at the
+swatches that purport to be item 47 and purport to be item 12 that you
+can't tell which ones are very degraded and which ones aren't?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And in fact, Dr. Cotton, I believe you said that--well,
+let--let the record reflect that the upper photograph represents the
+swatches from item 47--that purport to be item 47.
+
+*THE COURT:* 1146.
+
+*MR. NEUFELD:* Right.
+
+*MR. NEUFELD:* And that the lower group of swatches in this picture,
+which would be 11--
+
+*THE COURT:* 47.
+
+*MR. NEUFELD:* --47 purport to be the swatches from item no. 12.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* And based on your testimony, you would agree that there
+is a lot more DNA present in the swatches from item 12, which is the
+bottom photograph, than there is in item 47, represented by the top
+photograph?
+
+*MR. CLARKE:* Objection, vague.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes, that is correct. Well, the DNA is in better condition
+in item 47 than item 12. I haven't compared--I would probably have to go
+back and think about a comparison for the precise amounts of DNA.
+
+*MR. NEUFELD:* Well, Dr. Cotton, in fact you said one of the ways that
+you assess the precise amount or approximate the amount is to do a
+slot-blot, correct?
+
+*DR. COTTON:* Yes. Did I just say that backwards? Item 12 is in better
+condition than item 47.
+
+*THE COURT:* The jurors are nodding yes, you had that backwards.
+
+*MR. NEUFELD:* One of the ways that you determine the quantity of human
+DNA that is present is through a slot-blot, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And did do you a slot-blot on both item 12 and item 47?
+
+*DR. COTTON:* Probably.
+
+*MR. NEUFELD:* Could you check your notes and please tell us what result
+you obtained for item 12?
+
+*DR. COTTON:* Yes. It will take me a minute.
+
+*MR. NEUFELD:* Please do.
+
+/(Brief pause.)/
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*THE COURT:* Mr. Neufeld, we are going to break at 10:30.
+
+*MR. NEUFELD:* Break at 10:30?
+
+*THE COURT:* 10:30.
+
+/(Brief pause.)/
+
+//*DR. COTTON:* Are you asking me how much--
+
+*MR. NEUFELD:* One moment.
+
+*DR. COTTON:* Oh, I'm sorry.
+
+/(Brief pause.)/
+
+//*THE COURT:* Is it me or is it a little warm in here? Apparently our
+power department here had a power surge, which was what that glitch was.
+Apparently our air conditioning system went down with that so I'm having
+Mrs. Robertson check, so if you want to stand up and take your jacket
+off, be my guest. Let's proceed. I thought it was just me.
+
+*MR. NEUFELD:* I don't know what would give you that idea, your Honor.
+By the way, may we mark this printout as Defendant's 1148?
+
+*THE COURT:* Yes. Side-by-side?
+
+*MR. NEUFELD:* Yes.
+
+*THE COURT:* Yes. 1148.
+
+/(Deft's 1148 for id = photograph)/
+
+//*MR. NEUFELD:* Have you had a chance to look at the slot-blot for item 12?
+
+*DR. COTTON:* Yes, I have.
+
+*MR. NEUFELD:* And by the way, does that slot-blot represent ten percent
+of the whole sample or is it again ten percent of the portion that was
+set aside for PCR testing which is approximately ten percent of the
+whole sample, or if it is something completely different than both of
+those, please explain what it represents.
+
+*DR. COTTON:* The slot-blot is giving us information about the DNA in
+the ten percent of the sample that was set aside for PCR testing.
+
+*MR. NEUFELD:* But the portion that you use in the slot-blot, is it ten
+percent--is it a ten percent solution of that ten percent?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* So really then the slot-blot is approximately one percent
+of the entire sample, approximately; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. Now, what was the slot-blot reading you got for the
+amount of human DNA present in item 12?
+
+*DR. COTTON:* For the amount that was loaded on the slot-blot, my
+estimation is this is approximately ..5 nanograms.
+
+*MR. NEUFELD:* So--
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Now, did you also do a slot-blot for item 47?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And could you please tell the jury what you came up with
+for the slot-blot on item 47?
+
+*DR. COTTON:* Yes. I have to take the same time to do that.
+
+/(Brief pause.)/
+
+//*DR. COTTON:* Okay.
+
+*MR. NEUFELD:* Okay. Isn't it a fact, Dr. Cotton, that for item 47, when
+you ran that slot-blot, the amount of DNA observed was zero?
+
+*DR. COTTON:* That's what the slot-blot is saying, yes.
+
+*MR. NEUFELD:* Thank you. Yet--
+
+*DR. COTTON:* That doesn't mean that there is none there. It means that
+this measure can't detect any.
+
+*MR. NEUFELD:* Did you conduct any other test to assess quantitatively
+the amount of human DNA present in the sample?
+
+*DR. COTTON:* In 47?
+
+*MR. NEUFELD:* Yes.
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* Okay. And would you agree that notwithstanding the
+disparity between the .5 and zero, those differences would not be
+observed when you look at these swatches before they are tested?
+
+*DR. COTTON:* Yes, that's right.
+
+/(Discussion held off the record between Deputy District Attorney and
+Defense counsel.)/
+
+//*MR. NEUFELD:* Now, in a hypothetical that Mr. Clarke gave you on
+direct examination, he talked about the possibility--
+
+/(Discussion held off the record between Deputy District Attorney and
+Defense counsel.)/
+
+//*MR. NEUFELD:* He talked about--he asked you to assume that item 47
+was a bloodstain found in an area that had soil and leaves in it. Do you
+recall that?
+
+*MR. CLARKE:* Objection, misstates the evidence.
+
+*THE COURT:* Overruled.
+
+*MR. NEUFELD:* Do you recall that?
+
+*MR. CLARKE:* I'm sorry. May we be heard on this, your Honor?
+
+*THE COURT:* Do you have the transcript cite?
+
+*MR. NEUFELD:* I do not have the transcript cite, your Honor. That is my
+recollection. If you want--if you want to take the recess now, I could
+find that citation during the recess.
+
+*THE COURT:* All right. Let's do that. All right. Ladies and gentlemen,
+I'm going to take our morning recess at this time. Please remember all
+my admonitions to you. Don't discuss the case among yourselves, form any
+opinions about the case, don't allow anybody to communicate with you, do
+not conduct any deliberations until the matter has been submitted. And
+we will see you back in about fifteen minutes. All right. Dr. Cotton,
+you can step down.
+
+/(Recess.)/
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* All right. Mr. Neufeld--back on the record. Did you find
+that reference?
+
+*MR. NEUFELD:* I did.
+
+*THE COURT:* I'm sorry?
+
+*MR. NEUFELD:* I'm ready to begin.
+
+*THE COURT:* All right. Mr. Clarke.
+
+*MR. CLARKE:* Sorry. A reference to--
+
+*THE COURT:* Your hypothetical about soil was the controversy. My
+recollection, it was used.
+
+*MR. NEUFELD:* It was used, but used for a different item. So I'm going
+to modify my question.
+
+*THE COURT:* All right. Let's proceed. Let's have the jurors, please.
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* Thank you, ladies and gentlemen. Please be seated. Let
+the record reflect that we've been rejoined by all the members of our
+jury panel. Ladies and gentlemen, apparently what we experienced this
+morning at about 9:30 was a power surge. And our air conditioning and
+heating is controlled by a single power plant here downtown. Apparently
+when that power surge hit our--the county power plant, there is a
+computer that immediately shuts the equipment down in the event of a
+power surge, and there's a start-up procedure that has to be gone
+through. And for those of you familiar with our power plant, we have
+some rather large turbines over there that have to be started up again.
+So that's what's happened. So hopefully we can survive the rest of the
+morning. I'm told it's back on line manually. So we'll start cooling
+slowly, but since it's a short day, we'll just slog through it. All
+right. Dr. Cotton. Good morning again. And, Mr. Neufeld, you may
+continue with your cross-examination.
+
+*MR. NEUFELD:* Dr. Cotton--
+
+*MR. NEUFELD:* Good morning still.
+
+*THE JURY: *Good morning.
+
+*MR. NEUFELD:* Dr. Cotton, I'd just shown you those two photographs
+comparing the swatches in item 47 and item 12. Do you recall that?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. Now, what I would like to do is just show you a
+computer graphic that was created, and I wanted to ask you some
+questions about it, Dr. Cotton.
+
+*MR. NEUFELD:* And this, your Honor--this will be Defendant's 1149-a
+though l.
+
+*THE COURT:* What happened to 1148?
+
+*MR. NEUFELD:* 1148 was a printout of the side-by-side.
+
+*THE COURT:* All right.
+
+/(Deft's 1149-a through l for id = computer graphic)/
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* I don't know if it's easier for you to look up or down,
+Dr. Cotton.
+
+*DR. COTTON:* Uh, I don't know. I'd rather come down here and look if
+that's allowable.
+
+*MR. NEUFELD:* Whichever is your pleasure, ma'am.
+
+*THE COURT:* All right. Just long as the court reporter and the jury can
+hear.
+
+*MR. NEUFELD:* All right. Dr. Cotton, what I would like you to do for
+the purposes of this demonstration visualization is assume that that red
+rectangle is a swatch, a bloodstain swatch. Obviously a bloodstain
+swatch is much, much smaller than that, right, Dr. Cotton?
+
+*DR. COTTON:* Most of them are.
+
+*MR. NEUFELD:* As collected in a crime scene.
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And certainly the ones in this case are a heck of a lot
+smaller, aren't they?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okey-doke. And in the illustration, Dr. Cotton, this is a
+blood swatch representing the bloodstain on it coming from person 1. And
+on that blood swatch, I have placed a number 1 four times to suggest a
+certain quantity, whatever it is, of DNA present in that swatch.
+
+*DR. COTTON:* Okay.
+
+*MR. NEUFELD:* Okay? And now--
+
+*MR. NEUFELD:* Could you please show b?
+
+*MR. NEUFELD:* Now, would you agree, Dr. Cotton, that sealing that
+swatch in a plastic bag, if it is moist, if the swatch itself is still
+wet, can cause degradation of the DNA?
+
+*DR. COTTON:* Over time, degradation will occur.
+
+*MR. NEUFELD:* And that--okay. And putting it in a plastic bag as
+opposed to a paper bag, for instance, enhances that degradation; isn't
+that correct?
+
+*DR. COTTON:* I don't think that, again, for the short term, it's going
+to make any difference. For a longer term, it would.
+
+*MR. NEUFELD:* And when you say it would, it would make a difference
+whether it's packaged in a plastic bag as opposed to say a brown paper bag?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. Would you please show the next one.
+
+*MR. NEUFELD:* And if you added to that plastic bag the factor of heat,
+the element of heat, would that even further enhance the degradation?
+
+*DR. COTTON:* It probably would, yes.
+
+*MR. NEUFELD:* Okay. And could you now add the next one.
+
+*MR. NEUFELD:* And again, just to reiterate what I think you're already
+said, that as long as the blood swatch remains moist, that degradation
+will continue; is that correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. Can you do the next one, please.
+
+*MR. CLARKE:* I'm going to object at this point as to foundation and
+relevance. Assuming facts not in evidence.
+
+*THE COURT:* Overruled.
+
+*MR. NEUFELD:* And I think finally here, the last element that you
+talked about before was the factor called time. And the longer the blood
+swatch is wet and remains in that plastic bag and subjected to heat and
+moisture, the more it will degrade.
+
+*DR. COTTON:* Yes. That was--that's probably going to be the case.
+
+*MR. NEUFELD:* Okay. Now--
+
+*MR. CLARKE:* Excuse me, your Honor. I'm going to enter another
+objection under 352 as to misleading. As far as the graphics is what I'm
+referring to.
+
+*THE COURT:* All right. Were they shown to you previously?
+
+*MR. CLARKE:* Yes.
+
+*THE COURT:* All right. Overruled.
+
+*MR. NEUFELD:* And you said, Dr. Cotton, I believe yesterday that it is
+possible that the DNA can become so degraded in the swatch that although
+the swatch still appears red, it will have no identifiable DNA in it or
+human DNA in it; is that correct? That's possible?
+
+*DR. COTTON:* Over a very long period of--in order for it to not
+have--you won't get to the point where you don't have small bits of DNA,
+but you can get to the point where the degradation is so substantial
+that you can't easily measure it by the methods that are generally used
+in a forensic laboratory.
+
+*MR. NEUFELD:* So what we're really talking about is the DNA's
+detectability. That's what lost through time, moisture, heat?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. Could you please go to the next one.
+
+*MR. NEUFELD:* Now, take that blood swatch which has now been completely
+degraded and assume for a moment that it is cross-contaminated with
+another--
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* One moment.
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* Now, assume that the degradation was so complete, as
+you just described it, that the DNA was no longer detectable.
+
+*MR. NEUFELD:* Would you please show the next slide?
+
+*MR. NEUFELD:* If you ran a DNA test on it under those circumstances,
+you would get, I believe you said, no result; is that correct?
+
+*MR. CLARKE:* Objection. Assumes facts not in evidence.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Depending on the level of degradation, it can be so
+degraded that you don't get an RFLP result, and if the level of
+degradation can become so much, that you won't even get a PCR result.
+
+*MR. NEUFELD:* Now--
+
+*MR. NEUFELD:* One moment.
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* Would you please put up 14-n, please?
+
+*MR. NEUFELD:* Now, if you take that blood swatch originally that came
+from person 1 and you brought it into actual contact with a wet blood
+swatch from person 2, all with fresh blood from person 2, could that
+cause cross-contamination as to the blood swatch that originally had the
+sample from person 1?
+
+*MR. CLARKE:* Objection. Improper hypothetical, assumes facts not in
+evidence.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* If the hypothetical is as you're suggesting where you have
+a blood swatch and it no longer has typeable DNA from person 1 and
+somehow it comes into contact with a second swatch that's wet in such a
+way that they are so closely connected as to transfer a sufficient
+amount of DNA to be typed or a liquid blood sample--and same thing. You
+have to transfer a sufficient amount of DNA to be typed--then of course
+your hypothetical would be correct.
+
+*MR. NEUFELD:* And by the way, Dr. Cotton, I think you said, for
+instance, in sample 52, there was approximately 25 nanograms of DNA
+present in that--in that--for that DNA test; is that right?
+
+*DR. COTTON:* What I--what I said about sample 52 was--are you asking me
+about the RFLP result or the PCR result?
+
+*MR. NEUFELD:* I asked you about the RFLP result, to estimate
+approximately how much DNA was loaded in the lane. Wasn't your initial
+testimony that there was approximately 25 nanograms of DNA in that lane?
+
+*DR. COTTON:* That is correct, and that is what I said yesterday. What I
+said yesterday, however, wasn't completely precise, and I can clarify it
+if you wish me to.
+
+*MR. NEUFELD:* Go ahead and clarify that, please, Dr. Cotton.
+
+*DR. COTTON:* When I made an estimation that there was 25 to 50
+nanograms of DNA for the RFLP result, what--what I was doing in my head
+was saying, if I compared--and these things have been done in the lab.
+So I have some mental image of this. If I took a known sample of
+specific quantities of DNA that was in good condition and I loaded
+different amounts on a gel, the intensity of the banding pattern that
+I'm seeing from item 52 is about the same as I might expect to see
+for--for 25 to 50 nanograms. Now, if you look at the DNA in item 52 on
+the small gel as it was originally--on the mini gel to see how degraded
+it was, you see that there's DNA all the way from the top of the gel all
+the way on down, meaning it's quite degraded. Only the only the high
+mole--only the big pieces of DNA--
+
+*THE COURT:* Dr. Cotton, can you keep your voice up, please?
+
+*DR. COTTON:* Yes. Only the big pieces of DNA of that--out of that
+sample can participate in the RFLP pattern. So whereas it's clear that
+there's mass wise, that is total quantity from the slot blot, there is
+more than 25 or 50 nanograms. What I was telling you was that the pattern--
+
+*MS. CLARK:* Could we ask Miss Cotton to return to the microphone?
+
+*MR. NEUFELD:* Actually, she can return to the witness stand for this.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* Would you please, Dr. Cotton?
+
+/(The witness complies.)/
+
+//*DR. COTTON:* What I was telling you is that the pattern was the
+equivalent of 25 or 50 nanograms of DNA that's in good condition. So
+more DNA existed in that whole sample, but the amount that could be
+participating in the RFLP had to be that portion that was in good enough
+condition, and that would have been some much smaller portion than the
+whole sample.
+
+*MR. NEUFELD:* And, Dr. Cotton, when you described that--was it a yield
+gel where the DNA is spread out along the whole length of it?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* On the yield gel test--and correct me if I'm
+mistaken--you will not be able to distinguish bacterial DNA that is
+present from human DNA; is that correct.
+
+*DR. COTTON:* That's also correct.
+
+*MR. NEUFELD:* Okay. Now, getting back then to the illustration in this
+particular slide, if sufficient quantity of either fresh blood from a
+reference sample or--
+
+*THE COURT:* Excuse me. Counsel, this is the fourth time we're asking
+this question.
+
+*MR. NEUFELD:* Okay. I'll move on to the next slide.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* Could you move on to I?
+
+*MR. NEUFELD:* Now, in this example that I put up there, slide I, you
+have a situation where the initial swatch has now been
+cross-contaminated with biological material from person number 2. Do you
+see that?
+
+*DR. COTTON:* Yes. You have three 2's up there.
+
+*MR. NEUFELD:* Right. And that's--the three 2's is simply to indicate
+that much more of person 2's DNA is on that swatch than person 1's.
+
+*DR. COTTON:* Okay.
+
+*MR. NEUFELD:* Due to the combined factors of degradation followed by
+cross-contamination, okay?
+
+*DR. COTTON:* Okay.
+
+*MR. NEUFELD:* Next slide is j? J, please.
+
+*MR. NEUFELD:* Now, if under this hypothetical, if you were then to do a
+DNA test, for instance, an RFLP test on a swatch that went through this
+process, wouldn't the RFLP test give you a profile of a person 2 rather
+than person 1?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And if the degradation was sufficiently complete as to
+person 1, wouldn't it also give you a PCR result for person 2 as opposed
+to person 1?
+
+*DR. COTTON:* If the degradation was extremely extensive, then yes.
+
+*MR. NEUFELD:* Thank you. Now, one of the things I believe you said on
+direct examination, Dr. Cotton, was that the presence of soil and leaves
+mixing with the bloodstain can cause degradation; is that correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* First of all--
+
+*MR. NEUFELD:* Let's go to the board.
+
+/(Brief pause.)/
+
+//*THE COURT:* And this is People's exhibit?
+
+*MR. NEUFELD:* 165, your Honor.
+
+*THE COURT:* All right. Thank you, counsel.
+
+*MR. NEUFELD:* And, Dr. Cotton, would you come down and take a quick
+look at what is known as item 47, which is photo id no. 112? Do you see it?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. Do you see any leaves on that bloodstain?
+
+*DR. COTTON:* No, not that I can see.
+
+*MR. NEUFELD:* Do you see any deposits of soil on that bloodstain?
+
+*DR. COTTON:* I don't see any big pieces of anything on the bloodstain.
+
+*MR. NEUFELD:* Okay. Do you see with your naked eye any small pieces of
+anything on the bloodstain?
+
+*DR. COTTON:* Not that I can see in the picture, no.
+
+*MR. NEUFELD:* Okay. And actually as to--all right. You can have your
+seat again. Thank you, Dr. Cotton.
+
+/(The witness complies.)/
+
+//*THE COURT:* Mr. Neufeld, I would suggest that you and Mr. Scheck show
+the graphic to all the jurors so they can see the close-up of that item.
+
+*MR. NEUFELD:* Thank you, your Honor.
+
+/(The exhibit is displayed to the jury.)/
+
+//*THE COURT:* All right. Thank you, counsel.
+
+*MR. NEUFELD:* And, Dr. Cotton, you mentioned on direct examination that
+one way to assess if there's going to be an interference with the DNA
+typing is to do what's called a substrate control; is that correct?
+
+*MR. CLARKE:* Objection. Vague.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* I don't--I wouldn't use the term "Interference." Umm, it
+just--it only tells you whether or not there was any DNA close to where
+the stain was taken from.
+
+*MR. NEUFELD:* Well, doesn't the substrate control also tell you
+something about the nature of the substrate?
+
+*MR. CLARKE:* Same objection.
+
+*THE COURT:* It's vague. Why don't you rephrase it.
+
+*MR. NEUFELD:* Do you know--what is meant by the term "Substrate," Dr.
+Cotton?
+
+*DR. COTTON:* Whatever the stain is deposited on.
+
+*MR. NEUFELD:* And so the term "Substrate control" refers to taking a
+control swatch, wet swatch of the actual material that the stain is on;
+isn't that right?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And one piece of information that that substrate control
+can give you as an examiner is to tell you something about the condition
+of the substrate, whether or not there are other chemicals present for
+instance?
+
+*DR. COTTON:* It doesn't--you're not testing for any other chemicals.
+The only thing you're testing for is the presence of human DNA, and the
+only way you detect that is if you have a type. So the only thing
+in--for purposes of DNA, the only thing that substrate control is
+telling you is whether you had any other human DNA in a position where
+the substrate control was taken adjacent to the stain.
+
+*MR. NEUFELD:* Dr. Cotton, through Mr. Clarke's hypothetical, asking
+whether or not certain samples could be degraded as a result of their
+contact with soil and leaf stains or leaf material, what I'm asking you
+is, if the substrate control is taken right next to the bloodstain,
+could that be a useful indication or provider of information to see
+whether or not the swatch right next to the stain has soil on it or leaf
+stains? Would that be something that you could look at?
+
+*MR. CLARKE:* Objection. Vague.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* You could look at it with your eyes and you could say,
+well, it's green or it's brown or whatever, but that's not any kind of
+scientific procedure to tell you what was on that substrate and then
+been transferred to the substrate control. You'd have to do some other
+kind of test.
+
+*MR. NEUFELD:* So there is testing that could be done to determine
+whether or not there is soil present on that control?
+
+*DR. COTTON:* I have no idea. That's outside my area of knowledge.
+
+*MR. NEUFELD:* Now, I think you also said that soil itself can cause
+degradation, correct?
+
+*DR. COTTON:* Well, the presumption is, it's the bacteria in the soil
+that's causing the degradation.
+
+*MR. NEUFELD:* So if the stains were brought into contact not only with
+the sealed plastic bag and heat and moisture over a period of time, but
+also soil, the combined effect of all those different factors can
+further enhance degradation than if there was no soil present?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And, Dr. Cotton, has there been any research done as to
+whether or not soil can inhibit the analyst's ability to detect DNA in a
+specimen, in a biological specimen?
+
+*DR. COTTON:* As far as I know, it's not going to inhibit your ability
+to detect it in terms of--for example, like a slot blot, you could say
+it's here. It might inhibit your ability to type it if there's a lot of
+degradation.
+
+*MR. NEUFELD:* So you're saying that soil only will degrade DNA, but it
+doesn't have this independent effect, namely of simply inhibiting the
+ability to--to type it?
+
+*DR. COTTON:* No. I said it might inhibit your ability to type it, but
+it wouldn't necessarily inhibit your ability to detect it.
+
+*MR. NEUFELD:* Now, there's already been testimony in this case, Dr.
+Cotton, about the amount of blood in the blood vial containing Mr.
+Simpson's reference sample. I wish to ask you a hypothetical question.
+If 1.5 milliliters of Mr. Simpson's reference sample was unaccounted for
+in that vial, approximately how many microliters of blood would that be
+able to produce?
+
+*MR. CLARKE:* Objection. Assumes facts not in evidence.
+
+*THE COURT:* Overruled.
+
+*MR. CLARKE:* Also beyond the scope.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* You talked on direct examination, Dr. Cotton, about the
+special sensitivity of DNA typing. Do you recall that?
+
+*DR. COTTON:* I recall talking about issues of what tests were more
+sensitive than what other tests.
+
+*MR. NEUFELD:* And you also talked about some of the safeguards that are
+necessary because of the particular sensitivity of PCR amplification. Do
+you recall that?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. NEUFELD:* And would you agree that given the exquisite sensitivity
+of PCR amplification, it is essential that even greater safeguards be
+taken to avoid contaminating evidence collected than would ordinarily be
+used?
+
+*THE COURT:* Why don't you rephrase that question? The concern is the
+term "Exquisite" is without definition at this point.
+
+*MR. NEUFELD:* All right.
+
+*MR. NEUFELD:* Have you ever heard the term "Exquisite sensitivity"
+applied to PCR amplification?
+
+*DR. COTTON:* I don't know that I've heard that particular term.
+
+"Exquisite" isn't something you would normally see in the scientific
+nomenclature.
+
+*MR. NEUFELD:* Well, how about extraordinary sensitivity? Would that be
+more appropriate to describe what happens to PCR amplification?
+
+*DR. COTTON:* It's very sensitive. To me, it doesn't seem extraordinary
+giving--given what we know about how well the reaction works. But if you
+compare it to other tests, then it is much more sensitive than other
+types of tests.
+
+*MR. NEUFELD:* And as a result of that much, much greater sensitivity,
+would you agree that it's essential to have even greater safeguards to
+prevent any kind of cross-contamination of the evidence collected?
+
+*MR. CLARKE:* Objection. Vague.
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. NEUFELD:* Would you agree that special safeguards have to be taken
+in collecting biological specimens to avoid cross-contamination given
+the heightened and extreme sensitivity of the PCR amplification test?
+
+*MR. CLARKE:* Objection. Beyond the scope.
+
+*THE COURT:* Overruled. Doctor, do you understand the question?
+
+*DR. COTTON:* Is he asking me whether or not--
+
+*THE COURT:* Well, let me ask you this. Well, let me ask you this.
+
+*DR. COTTON:* I don't know about how evidence is collected at a scene.
+So I'm having trouble with the question.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* Even without knowing how it's collected at a scene, but
+knowing how sensitive PCR typing is and based on your expertise as a
+molecular biologist and as a forensic scientist, would you agree that
+special safeguards have to be taken in the collection and preservation
+of biological specimens that are intended to be subjected to PCR
+amplification?
+
+*MR. CLARKE:* Objection. Beyond the scope.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* When you use the term "Special"--when the evidence is
+collected and--it should be handled in a way to minimize contamination.
+When you saw should you take special safeguards, I would expect that the
+same safeguards would be applied whether you were doing serology or RFLP
+or PCR. You don't want contamination between samples regardless of what
+kind of testing that you're using.
+
+*MR. NEUFELD:* In your laboratory, Dr. Cotton, isn't it true that over
+and above the safeguards and controls that you use for RFLP testing, you
+have additional safeguards for PCR testing?
+
+*MR. CLARKE:* Objection. Asked and answered.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes, that's true. But the--many of those safeguards are
+now because in the laboratory, there is the existence of amplified
+product. And, therefore--which isn't going to be out where evidence is
+collected. So many of those extra safeguards are designed so that you
+can not get amplified product back to your original sample. Now, that's
+not a hundred percent of them, but that's a good part of them.
+
+*MR. NEUFELD:* And by the way, in your laboratory, to avoid the
+possibility of getting that amplified product back to the original
+location, I believe you said that you have a series of different rooms
+that the item of evidence moves through and it's a one-way street; is
+that correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Do you have any knowledge, Dr. Cotton, as to whether or
+not the Los Angeles Police Department laboratory--
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* The PCR amplification test that you utilize doesn't have
+the capacity to discriminate whether it's amplifying the original target
+DNA or a subsequent cross contaminant; isn't that correct?
+
+*DR. COTTON:* That's correct.
+
+*MR. NEUFELD:* And since it doesn't have that capacity, Dr. Cotton,
+would you agree that even a minute contaminant could be amplified
+perhaps a million times or more during the amplification process?
+
+*MR. CLARKE:* Objection. Asked and answered.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Well, as a scientist, Dr. Cotton, have you ever heard the
+expression, "Garbage in, garbage out"?
+
+*MR. CLARKE:* Objection. Argumentative.
+
+*THE COURT:* Sustained. Sustained.
+
+*MR. NEUFELD:* All right.
+
+*THE COURT:* And I think as lay people, we've all heard the expression too.
+
+*MR. NEUFELD:* Hope so.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* Well, in your laboratory, have you been taught and have
+you taught others that while working with a bloodstain, one shouldn't do
+anything which could leave even a minute portion of the stain on your
+clothing so as to risk cross-contamination?
+
+*DR. COTTON:* Yes. We generally try not to get the bloodstains on our
+clothing.
+
+*MR. NEUFELD:* And does your laboratory in fact have a written manual to
+spell out the safeguards that must be followed to reduce the chances of
+cross-contamination in your laboratory?
+
+*DR. COTTON:* Yes. Those procedures that are designed to reduce
+cross-contamination are laid out in the standard operating procedure.
+
+*MR. NEUFELD:* And is everyone in the laboratory who handles biological
+material required to be familiar with those written safeguards?
+
+*DR. COTTON:* Everyone in the laboratory who handles evidence is
+required to be aware and follow those safeguards.
+
+*MR. NEUFELD:* Thank you. And these safeguards are mandatory; are they not?
+
+*DR. COTTON:* In terms of our laboratory--
+
+*MR. NEUFELD:* They're not simply suggestions?
+
+*MR. CLARKE:* Objection. Asked and answered.
+
+*THE COURT:* Overruled. But you need to allow her to finish answering
+the question.
+
+*DR. COTTON:* In terms of our laboratory, they are mandatory. We're not
+just saying we hope you'll do a particular thing. We're saying we will
+all do this particular thing.
+
+*MR. NEUFELD:* Now, in this case, there's been testimony by Gregory
+Matheson that the criminalists at the Los Angeles Police Department are
+not required to change their gloves in between the handling of each
+piece of evidence.
+
+*THE COURT:* Sustained.
+
+*MR. CLARKE:* Objection.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Can we have a sidebar, please?
+
+*THE COURT:* Nope. She's testifying about the testing that was done at
+Cellmark.
+
+*MR. NEUFELD:* As in--
+
+*THE COURT:* And you've already--she has no idea about the handling,
+packaging, collection of the evidence. We've established that. Let's
+move on.
+
+*MR. NEUFELD:* May I ask questions that occurred at the laboratory as
+opposed to at the crime scene and ask her opinion as an expert?
+
+*THE COURT:* It's irrelevant.
+
+*MR. NEUFELD:* All right.
+
+*MR. NEUFELD:* At Cellmark diagnostics laboratory, Dr. Cotton, is glove
+changing between each item required to avoid any kind of
+cross-contamination?
+
+*DR. COTTON:* Can you be--what do you mean, between each item?
+
+*MR. NEUFELD:* Well, if a molecular biologist at Cellmark handles one
+item of evidence, let's say 47, for instance, in our case and does some
+manipulation with the item using different pieces of equipment and then
+packs up that item and now takes out a second item of evidence, is the
+molecular biologist at Cellmark required to change his or her gloves
+before moving on to the next item?
+
+*DR. COTTON:* They're not required to and they normally--if they haven't
+touched the item with their gloves, that is, if they've handled it with
+forceps or a scalpel or something and they haven't touched it, then they
+may not change their gloves in between handling the first item and the
+second item.
+
+*MR. NEUFELD:* Referring you--you have a protocol you said that has been
+prepared by Cellmark for the use of all personnel that handles
+biological items of evidence in the laboratory; is that correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Dr. Cotton, and there's a section in your written
+protocol dealing with the handling of evidence during preparation for
+analysis; isn't that correct?
+
+*DR. COTTON:* Yes, there is.
+
+*MR. NEUFELD:* Isn't it a fact, Dr. Cotton, that in that protocol, it
+states, quote, "Clean disposable gloves must be worn when handling
+evidence samples. To avoid cross-contamination of evidence, gloves are
+changed between samples," closed quotes?
+
+*DR. COTTON:* May I see it, please?
+
+*MR. NEUFELD:* Certainly.
+
+/(Brief pause.)/
+
+//*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Did I accurately read from your protocol?
+
+*DR. COTTON:* Yes you did.
+
+*MR. NEUFELD:* Now--
+
+*MR. NEUFELD:* One moment.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* At Cellmark, are the scientists instructed in writing
+to change the bench paper that is used in manipulating samples in
+between the handling of each sample?
+
+*DR. COTTON:* Yes. Excuse me. My voice is getting a little rough. Go ahead.
+
+*MR. NEUFELD:* And at Cellmark, Dr. Cotton, when your technicians and
+electrobiologists--your scientists--excuse me--when your scientists
+manipulate the items with pieces of equipment, isn't it required that
+they either dispose of the equipment between items or put it into a
+beaker of bleach?
+
+*DR. COTTON:* They will either dispose of it if it's a disposable piece
+of equipment or they will clean it with bleach or alcohol.
+
+*MR. NEUFELD:* And would you agree, Dr. Cotton, that bleach is a very
+effect--is very effective at instantly degrading DNA, that is, in
+breaking it down?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And that's the reason why your laboratory uses bleach; is
+it not?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And would you agree, Dr. Cotton, that simply wiping a
+piece of equipment with a chem-wipe or distilled water will not be as
+effective as either disposing of the equipment or dropping it into a
+beaker of bleach?
+
+*MR. CLARKE:* Objection. Vague. Also beyond the scope.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* I would prefer wiping it down with bleach or alcohol as
+opposed to wiping it down with water. Wiping it down with water is
+better than not wiping it down at all.
+
+*MR. NEUFELD:* Well, granted. But you would agree, Dr. Cotton, that if
+you're really concerned with getting rid of any lingering DNA or
+biological material that may be invisible to the naked eye on a piece of
+equipment, bleach is a far better tool for doing that than simple
+distilled water?
+
+*DR. COTTON:* Well, remember, at that point, you don't have naked DNA. I
+mean, you still got cells there, and the bleach has to get to the DNA in
+order to destroy it. So it may be just as effective or may not. I don't
+really know.
+
+*MR. NEUFELD:* Do you know anything at all, Dr. Cotton, about whether or
+not water alone will kill and degrade DNA?
+
+*DR. COTTON:* No, it won't.
+
+*MR. NEUFELD:* Okay. Another point that you made, Dr. Cotton, I believe
+on direct examination is that it is important not to rush these tests;
+is that correct?
+
+*MR. CLARKE:* Objection. Vague.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* I don't think I said a thing about rushing the tests.
+
+*MR. NEUFELD:* Well, I think you said to Mr. Clarke that if you had no
+other cases going on in the laboratory and you were conducting a PCR
+test from beginning to end, in other words, from the moment you received
+the samples from an outside law enforcement agency until you get the
+dots on the strips, that you could get results in as little as a few
+days I believe you said. And if it's not a few days, please correct me.
+
+*DR. COTTON:* No. You could get resu--well, if you worked a really long
+day, you could start one sample at the beginning and get results by the end.
+
+*MR. NEUFELD:* What's a really long day? What time would you have to
+start to do that?
+
+*DR. COTTON:* Well, it's--you know, depends on what kind of DNA
+extraction you do. Some of them are shorter than others. So if you do a
+short one and then you set up your amplification--so say your short one
+took an hour, your amplification set-up takes a half hour, your
+amplification takes about two and a half hours, what is that? Up to four
+or so. And then the typing itself takes about two more hours. So--and
+given that you're taking some pauses in between, if you worked all day,
+you could get--and you didn't have anything else to do, you could get a
+type--if you started in the morning, you could get a type by the end of
+the day.
+
+*MR. NEUFELD:* How about if you were working with a dozen different items?
+
+*DR. COTTON:* Uh, well, then it would make your day longer.
+
+*MR. NEUFELD:* But you could still do it in one day?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Have you ever done PCR typing on evidence specimens in
+groups of a dozen that quickly in your laboratory in actual casework?
+
+*DR. COTTON:* I don't really know.
+
+*MR. NEUFELD:* Now, you said that at Cellmark I believe, the room where
+the evidence is handled, I think you referred to it as, quote, a
+biological safety cabinet, unquote. Was that the term you used?
+
+*DR. COTTON:* No. What--what I said was that the DNA extraction was done
+in a biological safety cabinet. And it's not a room. It's a--it's a
+thing. It's a piece of equipment.
+
+*MR. NEUFELD:* And it's called a biological safety cabinet?
+
+*DR. COTTON:* Yeah, or a hood. Call it a hood.
+
+*MR. NEUFELD:* And does that hood prevent air flow from outside the
+cabinet area from coming inside the cabinet area?
+
+*DR. COTTON:* Yes, it does.
+
+*MR. NEUFELD:* And what is the reason that you want to prevent air from
+outside the cabinet area coming inside the cabinet area where you're
+doing the extractions?
+
+*DR. COTTON:* Well, in reality--it also prevents what's inside the
+cabinet from coming outside. And the first reason to use the cabinet is
+the protection of the analyst because, as most of you probably know,
+blood samples can contain viruses that can be very harmful. So first
+reason is to protect the analyst. Second reason is to protect the evidence.
+
+*MR. NEUFELD:* And when you say, "Protect the evidence," you want to
+avoid again cross-contamination with this--this biological cabinet;
+isn't that correct?
+
+*DR. COTTON:* Yes. It's the area in which the DNA extraction is done.
+It's not the area--for example, if they--uh, they may handle evidence
+outside on the bench. For example, they wouldn't handle a hair in the
+biological safety cabinet because the air flow is sufficient that you
+might blow it away. So you wouldn't want to do that.
+
+*MR. NEUFELD:* Is what you're talking about is a laminal flow hood?
+
+*DR. COTTON:* Yes. A laminal flow hood.
+
+*MR. NEUFELD:* Thank you. Have you ever inspected the Los Angeles Police
+Department SID laboratory?
+
+*THE COURT:* Counsel, sustained.
+
+*MR. NEUFELD:* And in your laboratory, to avoid cross-contamination, do
+you do your extractions on evidence at a separate time and place than
+when you do your DNA extractions on a reference sample?
+
+*DR. COTTON:* At a separate time, not a separate place.
+
+*MR. NEUFELD:* And when you say a separate time, how much time is there
+separated between the extractions?
+
+*DR. COTTON:* Well, it could be just a matter of minutes if you did one,
+put it away and then got the other one out, or it could be a matter of
+days or months, depending on when the various items were actually received.
+
+*MR. NEUFELD:* And do you keep the extraction of the reference sample
+separate from the other extractions until you get to the amplification
+stage?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And why do you do that?
+
+*DR. COTTON:* We did that--we set that up in response to the results
+that we got on the second group of CACLD proficiency tests where we
+clearly had some contamination that we couldn't determine precisely
+where it came from.
+
+*MR. NEUFELD:* Would it be fair to say that one danger of doing the
+extraction on the reference sample at the same time that you do the
+extraction on the various items of evidence is that you could get
+cross-contamination from the much more enriched DNA in the reference sample?
+
+*DR. COTTON:* Yes. I think that's what I just said.
+
+*MR. NEUFELD:* And as a result of that kind of cross-contamination from
+the more enriched reference sample, couldn't that lead to a false
+positive in the evidentiary specimens?
+
+*MR. CLARKE:* Objection. I think this is asked and answered.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes, it could.
+
+*MR. NEUFELD:* Okay. Now--by the way, Dr. Cotton, under your own
+laboratory's procedures, would you extract two different--would you
+extract samples from two different crime scenes at the same time as one
+another?
+
+*MR. CLARKE:* Objection. Beyond the scope.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* Yes, we might.
+
+*MR. NEUFELD:* If you were told by the submitting agency, Dr. Cotton,
+that samples from one location--that samples from one location had much
+more DNA than samples from the other location, would that influence your
+decision to extract those samples separately?
+
+*DR. COTTON:* Well, in general--the answer is no because--but it's
+because people are asking us to do the DNA test. They're not ever
+telling us, "You have this much DNA. So now go do your DNA test."
+Usually we are getting samples because the submitting agency doesn't
+have the same capabilities as we do.
+
+*MR. NEUFELD:* Well, would you like to know before you decide whether
+these samples should be extracted together or separately whether some of
+the samples have much more blood on them than other samples?
+
+*DR. COTTON:* Well, you might like to know that, but that's almost all
+the time not possible to know unless you're looking at the physical
+size. You have a stain that's a foot versus a stain that's an inch,
+obviously it's likely that the big one will have more than the little
+one. But apart--and then you wouldn't use the whole big one anyway. You
+would cut out a small piece. So--
+
+*MR. NEUFELD:* So, for instance--
+
+*MR. CLARKE:* I'm sorry. Could the witness finish her answer?
+
+*THE COURT:* Yes.
+
+*DR. COTTON:* So most of the time, you simply can't know that because
+you don't know how much DNA there is on the stain just by looking at it.
+
+*MR. NEUFELD:* For instance, in this case, Dr. Cotton, there's been
+testimony that when item 12 was collected from inside the foyer of Mr.
+Simpson's home, there was a collection of three drops of blood as
+opposed to the stains at Bundy, which were taken from a single drop of
+blood. Is that a factor that you might wish to know or might consider in
+determining whether or not the extraction should be done at the same
+time or done separately?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* One moment, please.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Just to go back one step for a moment, Dr. Cotton, you
+were mentioning the laminal flow hood that you have in the room where
+you do the extraction for DNA?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Is the purpose of that laminal flow hood to create
+literally a wall of air which separates the rest of the room from that
+work area?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* It's not the purpose of a laminal flow hood to simply
+pull air from the lab into the work area and then outside, is it?
+
+*DR. COTTON:* No.
+
+*MR. NEUFELD:* Dr. Cotton, you said sometimes the submitting agency
+can't give you information about relative quantities of DNA because
+that's why they're submitting it to you for testing; is that correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* But there have also been instances, have there not, Dr.
+Cotton, where the submitting agency itself has conducted DNA testing on
+the same items or some of the same items even before it is given to you?
+Isn't that correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And do you know whether in this case, LAPD had in fact
+conducted DNA testing on some of the same items that they gave to you
+before they sent them to you?
+
+*MR. CLARKE:* Objection. Vague. Vague as to "Items."
+
+*THE COURT:* Overruled. Are you aware of that?
+
+*DR. COTTON:* I'm vaguely aware that they may have done some testing. I
+don't have any information on what items--that I recall having anyway,
+on what items had been or had not been tested. We did not--
+
+*MR. NEUFELD:* I'm sorry.
+
+*DR. COTTON:* We did not receive any DNA, extracted DNA from LAPD.
+
+*MR. NEUFELD:* Well, assume for purpose of this hypothetical that the
+Los Angeles Police Department had in fact the--as of June 14th, run PCR
+tests on every single one of the Bundy drops.
+
+*DR. COTTON:* Okay.
+
+*MR. NEUFELD:* As a result of that--
+
+*MR. CLARKE:* Excuse me. Objection. Improper hypothetical.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* All right. Assume hypothetically, for purpose of this
+hypothetical, that the Los Angeles Police Department had run PCR testing
+on items 47, 48, 49, 50 and 52. Okay?
+
+*DR. COTTON:* Okay.
+
+*MR. CLARKE:* Again, objection. Improper hypothetical.
+
+*THE COURT:* Sustained.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Assume for the purpose of this hypothetical that the
+Los Angeles Police Department had run PCR testing from beginning to end
+on items 47, 48, 49, 50 and 52 before--
+
+*MR. CLARKE:* Same objection.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* --before they were ever sent to you?
+
+*MR. CLARKE:* Objection. I'm sorry, your Honor.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* May I have a sidebar, your Honor?
+
+*THE COURT:* Proceed.
+
+*MR. NEUFELD:* Dr. Cotton, if a laboratory had done PCR typing on the
+samples that they were submitting to you, wouldn't you want that
+laboratory to provide you with as much information as possible about the
+quality and quantity of those samples?
+
+*MR. CLARKE:* Same objection, your Honor.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* It really probably wouldn't make any difference because we
+would be doing that assessment as we went along.
+
+*MR. NEUFELD:* Well, would you agree that you do not want to process or
+do extractions at the same time of samples that have very, very little
+DNA with samples that may have relatively large amounts of DNA? Would
+you agree with that?
+
+*MR. CLARKE:* I'm sorry. Objection. Vague.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* If there was a way to know that, then--and depending on
+the differences in amounts--
+
+*MR. NEUFELD:* Right.
+
+*DR. COTTON:* --you might try to not do the extractions at the same
+time. But for the most part, there isn't a way to know that
+and--never--I'll stop there.
+
+*MR. NEUFELD:* Well, one of the ways that you knew it is, you can do a
+yield gel, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Another way you can do it is, you can do a slot blot,
+correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* So if the submitting agency had done some of those tests
+to quantify and to give a qualitative assessment of the DNA, wouldn't
+that be useful information for you to have in advance if in fact some of
+the samples had much more DNA than other samples?
+
+*MR. CLARKE:* Objection. Irrelevant. I think asked and answered.
+
+*THE COURT:* Sustained. Did you have any information about any prior
+testing in this case prior to Cellmark doing its testing.
+
+*DR. COTTON:* Not that I remember.
+
+*THE COURT:* Thank you. Proceed.
+
+*DR. COTTON:* With the exception of the DOJ samples that we got as
+extracted DNA. We did receive information on quantitations on those samples.
+
+*THE COURT:* Proceed.
+
+*MR. NEUFELD:* When you say you didn't receive any information, Dr.
+Cotton, you're not saying there wasn't any information. You're just
+saying that nothing was communicated to you; is that correct?
+
+*DR. COTTON:* That's right. I have no idea whether there was or was not
+any information.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* In fact, Dr. Cotton, doesn't the user's guide, the
+manufacturer's user's guide for the kits that you use for PCR typing
+explicitly state that to perform DNA extractions from samples containing
+high levels of DNA separately from those samples containing low levels
+of DNA?
+
+*DR. COTTON:* Are you talking about the ampli-type guide?
+
+*MR. NEUFELD:* Yes.
+
+*DR. COTTON:* It may say that in there. I don't remember exactly,
+but--you know, it's a pretty big book. But I wouldn't be surprised.
+
+*MR. NEUFELD:* And if it said that in bold type in the book, would you
+take that to mean that that was the strong recommendation of the
+manufacturer of the kit that you're relying on?
+
+*MR. CLARKE:* Objection. Assumes facts not in evidence.
+
+*MR. NEUFELD:* Well--
+
+*THE COURT:* Overruled. Overruled.
+
+*DR. COTTON:* It might be the strong man recommendation of the
+manufacturer of the kit. However, the manufacturer of the kit is not a
+group that's engaged in routine forensic DNA typing. So --
+
+*MR. NEUFELD:* Was this kit--
+
+*MR. CLARKE:* I'm sorry. Could the witness finish her answer?
+
+*MR. NEUFELD:* I thought she had. I apologize.
+
+*DR. COTTON:* So a laboratory with some experience might--like any
+recommendation, might decide to accept that recommendation or not accept it.
+
+*MR. NEUFELD:* Isn't there a statement actually on the kit by the
+manufacturer that this kit is designed for forensic application?
+
+*DR. COTTON:* That's right. But the manufacturer of the kit is not a
+forensic DNA lab.
+
+*MR. NEUFELD:* To your knowledge--
+
+*MR. CLARKE:* I'm sorry. Could the witness finish her answer, please?
+
+*DR. COTTON:* I'm done.
+
+*THE COURT:* All right. Proceed.
+
+*MR. NEUFELD:* Isn't the kit explicitly and expressly warranted to work
+only if you follow the directions on the kit? Isn't that a warranty
+given by the manufacturer?
+
+*DR. COTTON:* Yes. But that's in terms of the salt solution
+concentrations and the temperature and the quantitation, that is the
+amount of DNA you add. There's no specific directions they can give you
+to ensure that the rest of your handling is good or bad. They can only
+tell you if you have the thing at 60 degrees, it will work, and if you
+don't, it won't.
+
+*MR. NEUFELD:* So is it just--so I'm clear on this, is it your position
+that the expressed instruction from the manufacturer that you are,
+quote, "To perform DNA extractions from samples containing high levels
+of DNA separately from samples containing a low level of DNA" is
+something that the people who utilize this kit are free to ignore?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Excuse me. Objection. I'll withdraw the objection.
+
+*DR. COTTON:* Yes. And I mean there--what's high and what's low? I mean,
+this is going to be the judgment of the people in the laboratory. That's
+not a specific instruction. It's a vague instruction.
+
+*MR. NEUFELD:* Granted, Dr. Cotton, what's high and what's low is
+something that has to be determined by the particular laboratory. But
+once that assessment is made as to what is high and what is low,
+wouldn't you agree that it's critically important to follow the
+instruction that once--that that what you consider a high level of DNA
+should not be extracted at the same time with that what you consider a
+low level of DNA?
+
+*MR. CLARKE:* Objection. Asked and answered and I think counsel is
+arguing with the witness.
+
+*THE COURT:* Overruled. We have asked this question. Again, I'll allow
+the question and answer one last time.
+
+*DR. COTTON:* I have stated I think earlier that when--depending on how
+great a difference in amount of DNA you have, if it's a very great
+difference, then one would prefer if you were able to know ahead of time
+to deal with the large amounts of DNA or evidence that had a large
+amount of material on it separately from the smaller amount, and that's
+a relative decision for any specific laboratory.
+
+*MR. NEUFELD:* Is the manufacturer of the kit the same entity that
+designed the validation studies for that kit?
+
+*DR. COTTON:* Well, they certainly did a lot of validation studies, but
+they are not the only group that did validation studies using that kit.
+
+*MR. NEUFELD:* Now, you mentioned in terms of your testing of items in
+this case that one of the items you were asked to do DNA profiling was
+the steering wheel inside the Bronco; is that right?
+
+*DR. COTTON:* Uh, from one item of evidence, from the--I don't know if
+there's more than one item of evidence from the steering wheel. So--we
+had an item of evidence from the steering wheel.
+
+*MR. NEUFELD:* And that one item of evidence was a blood swatch taken
+from a smear on the steering wheel; is that correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* Help me get the board.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. NEUFELD:* Now, would you agree, Dr. Cotton, that interpreting
+mixed stains is a more demanding challenge to the forensic laboratory
+than interpreting a stain that only has a single source?
+
+*DR. COTTON:* Sure.
+
+*MR. NEUFELD:* And when you see more than two versions of a particular
+gene, that enables you to determine that there's more than one
+contributor to that stain, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* However, if you see three or four versions of the gene,
+you can't necessarily tell whether there's been two contributors or
+three contributors or more contributors; isn't that correct?
+
+*DR. COTTON:* That's exactly right.
+
+*MR. NEUFELD:* And that's one of the difficulties in interpreting mixed
+stains?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And with respect to the stain removed from the steering
+wheel of Mr. Simpson's Bronco, your DQ-Alpha typing method showed the
+presence of three different alleles; is that correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And I think you said yesterday, the day before that and
+the day before that one should only inherit two versions of a gene;
+isn't that correct?
+
+*DR. COTTON:* Yes, except under very rare circumstances. So we'll just
+assume two.
+
+*MR. NEUFELD:* All right. So certainly, Dr. Cotton, each of the
+individuals who you typed in this case as reference samples, namely, Mr.
+Simpson, Nicole Brown Simpson and Ronald Goldman, each had only two
+alleles for the DQ-Alpha marker?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And when you typed the DQ-Alpha markers--I'm sorry. When
+you typed that stain on the steering wheel, you found that there were
+three separate DNA types, correct?
+
+*DR. COTTON:* Yes, we did.
+
+*MR. NEUFELD:* You found the 1.1 version of the gene present, right?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* You found the 1.2 version of the gene present, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And you found the number 4 version of that same gene present?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And initially on this board that you saw, the Prosecution
+had written that the only one of the three people not excluded was Mr.
+Simpson, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* But I take it you did not help the Prosecution prepare
+this exhibit board, did you?
+
+*DR. COTTON:* I saw some of the boards to make sure that they were right
+and I don't know if I--I--I don't remember if I saw this one. I may
+have. I might have.
+
+*MR. NEUFELD:* But the reason--
+
+*DR. COTTON:* But there was a mistake on it.
+
+*MR. NEUFELD:* Okay. And the reason--looking up at the top, you said
+that Mr. Simpson is of a--
+
+*MR. NEUFELD:* Can everyone see the top?
+
+*MR. NEUFELD:* Okay. Looking up at the top, that Mr. Simpson is a type
+1.1, 1.2?
+
+*DR. COTTON:* Yes, he is.
+
+*MR. NEUFELD:* And you can see a 1.1, 1.2 in this mixture?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And that's why he's included?
+
+*DR. COTTON:* Well, and the poly-marker data as well.
+
+*MR. NEUFELD:* Fine. Well, actually on the poly-marker data if you look
+at it, isn't every different version of every poly-marker included in
+this mixture?
+
+*DR. COTTON:* Uh, I don't remember without going back and looking.
+
+*MR. NEUFELD:* Please take a look.
+
+*DR. COTTON:* What's the--we're at 29.
+
+*MR. NEUFELD:* 29.
+
+*DR. COTTON:* Okay.
+
+/(The witness complies.)/
+
+//*DR. COTTON:* Yes. You're correct. There are--all the possible alleles
+for the poly-marker are present in that sample.
+
+*MR. NEUFELD:* So in fact, if you just looked at the poly-markers and
+nothing else in this case, you would have to say that there would be
+almost no useful information in the poly-marker results because the
+entire human population could have contributed to that mixture?
+
+*DR. COTTON:* Assum--yeah, assuming all the intensities were--of the
+dots were--assuming the dot intensities weren't informative, and I don't
+recall that they are.
+
+*MR. NEUFELD:* Okay. So the key information here in this particular case
+for you was not the poly-marker results, but rather DQ-Alpha results?
+
+*DR. COTTON:* For this sample.
+
+*MR. NEUFELD:* Yes. And not only were you able to not exclude Mr.
+Simpson, but you were not able to exclude Nicole Brown Simpson; isn't
+that right?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And that's because Nicole Brown Simpson is a DQ-Alpha
+type 1.1, 1.1, right?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* Meaning that she inherited the same version of the gene
+from her mother and her father?
+
+*DR. COTTON:* Exactly.
+
+*MR. NEUFELD:* And so because you see the 1.1 allele present in this
+mixture, that 1.1 allele could simply be two copies of--of the DQ-Alpha
+typing from Nicole Brown Simpson?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* However, you in fact excluded Ronald Goldman as a
+contributor to this mixture; isn't that correct?
+
+*DR. COTTON:* Yes, we did.
+
+*MR. NEUFELD:* And the reason you excluded Mr. Goldberg as a contributor
+to this mixture is that Ronald Goldman is of a type 1.3, 4, correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* And what that means is is that Ronald Goldman, his
+DQ-Alpha type has two alleles in it which are different from one
+another, correct?
+
+*DR. COTTON:* That's right.
+
+*MR. NEUFELD:* One of his alleles is a 4 allele, right?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* One of his alleles is the 1.3 allele, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And so if this sample contained a portion of Ronald
+Goldman's blood or biological material, you would also expect to see the
+1.3 allele and not just the 4 allele?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And it was on the basis of that that you excluded Ronald
+Goldman as being one of the contributors to this mixture?
+
+*DR. COTTON:* That's exactly right.
+
+*MR. NEUFELD:* So would you agree, Dr. Cotton, that based on your
+analysis, that the number 4 allele that you see present in this mixture
+from the steering wheel must come from someone other than Mr. O.J.
+Simpson, Nicole Simpson Brown and Ronald Goldman? Isn't that correct?
+
+*DR. COTTON:* I would.
+
+*MR. NEUFELD:* Now, this other person--
+
+*MR. NEUFELD:* Let me just get out my diagram.
+
+/(Brief pause.)/
+
+//*MR. NEUFELD:* Do we have the other small easel? Barry, help me, please.
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*THE COURT:* Mr. Scheck, perhaps we ought to move that over here
+because that one height wise is hard to see unless it's in the middle.
+
+*MR. SCHECK:* This is not my area. I've established that.
+
+*THE COURT:* So stipulated. All right. Mr. Neufeld, can you work with this?
+
+*MR. NEUFELD:* Given my art work, I'm sure it will be adequate.
+
+*THE COURT:* All right. Mr. Scheck, you may need to--Mr. Scheck, don't
+go away. You may need to steady that.
+
+*MR. SCHECK:* All right.
+
+*MR. NEUFELD:* You can do better than that. Can't you make it straight?
+Only a Californian could teach a New Yorker how to do that.
+
+*MR. NEUFELD:* All right. Dr. Cotton, now, this third person who cannot
+be Mr. Goldberg and cannot be Nicole Simpson, Nicole Brown Simpson and
+could not be Ronald Goldman, who has--we'll call him--all right. We'll
+call him actually the fourth person because he's none of the three
+people whose reference samples you tested, all right?
+
+*MR. CLARKE:* Objection. Vague.
+
+*THE COURT:* Overruled.
+
+*MR. NEUFELD:* This fourth person has the 4 allele, correct, has one of
+his two or one of her two alleles, correct?
+
+*DR. COTTON:* Well, yes, if we assume a person in there has a 4 allele.
+
+*MR. NEUFELD:* Okay. Let's start with the most simple assumption first.
+All right?
+
+*DR. COTTON:* Okay.
+
+*MR. NEUFELD:* Now, this person who has the 4 allele also has two
+alleles, inherited one from his mother and one from his father or one
+from her mother and one from her father, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And so this person could have different possible
+genotypes as well, correct?
+
+*DR. COTTON:* Of course.
+
+*MR. NEUFELD:* This person could be, given the presence of the 1.1 and
+1.2, could have as a genotype a 1.1, 4, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* This person could have as a--I'll move in a second. I'm
+sorry. This person could have as a genotype a 1.2, 4. Woops. All right.
+A 1.2, 4, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* And this person--and this person could also have
+inherited the same version of the gene from both parents and be a 4,4,
+correct?
+
+*DR. COTTON:* Yes.
+
+*MR. NEUFELD:* Okay. And those are three possible explanations for a
+genotype for a third--for a fourth person if the fourth person
+contributed the number 4 allele, correct? Those are the possible--
+
+*DR. COTTON:* Those are the three possible--those are the three possible
+genotypes for a person in that mixture if that person's first allele is a 4.
+
+*MR. NEUFELD:* Okay. Now--
+
+*MR. NEUFELD:* You can take that down. Oh, what would be next in order,
+your Honor?
+
+*THE COURT:* That would be 1150.
+
+/(Deft's 1150 for id = chart)/
+
+//*MR. NEUFELD:* Now, Dr. Cotton, I'm going to ask you a hypothetical,
+and I'm going to ask you whether or not that hypothetical is consistent
+or inconsistent with the observed evidence in your laboratory. Assume
+that Mr. Simpson cut himself in his home and walked out to the Bronco to
+get something from his car and bled in his own Bronco.
+
+*MR. CLARKE:* Objection. I'm sorry.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Assume, Dr. Cotton, that some of Mr. Simpson's blood is
+in his own car.
+
+*MR. CLARKE:* Same objection, your Honor.
+
+*THE COURT:* Overruled.
+
+*MR. NEUFELD:* And assume, Dr. Cotton, that some other person other than
+Mr. Goldman, other than Nicole Brown Simpson, other than O.J. Simpson
+had come into contact with the blood of Nicole Brown Simpson and then
+entered that Bronco and made a smear on the steering wheel, having
+touched Mr. Simpson's blood--
+
+*MR. CLARKE:* Same objection, your Honor.
+
+*THE COURT:* Sustained.
+
+*MR. NEUFELD:* Dr. Cotton, if somebody else who is either a type--a DNA
+type 4, 1.1 or 4, 1.2 or 4, 4 touched Mr. Simpson's blood and touched
+Nicole Brown Simpson's blood and touched that steering wheel, would that
+be consistent with the stain you found on the wheel?
+
+*MR. CLARKE:* Objection. Improper hypothetical.
+
+*THE COURT:* Sustained. The jury is to disregard the implication of the
+question. All right. Ladies and gentlemen, we are going to take our
+recess for the morning session. Please remember all of my admonitions to
+you; do not discuss the case amongst yourselves, don't form any opinions
+about the case, do not conduct any deliberations until the matter has
+been submitted to you, do not allow anybody to communicate with you with
+regard to the case. Have a pleasant weekend. Enjoy the activities. See
+you Monday. All right. We'll stand in recess until 1:45.
+
+/(At 12:00 P.M., the noon recess was taken until 1:45 P.M. of the same
+day.)/
+
+//*LOS ANGELES, CALIFORNIA; FRIDAY, MAY 12, 1995 1:45 P.M.*
+
+**Department no. 103 Hon. Lance A. Ito, Judge appearances: (Appearances
+as heretofore noted.)
+
+(Janet M. Moxham, CSR no. 4855, official reporter.) (Christine M. Olson,
+CSR no. 2378, official reporter.)
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* Back on the record. Mr. Simpson is present with counsel,
+Mr. Blasier, Mr. Scheck and Mr. Neufeld, People represented by Miss
+Lewis, Mr. Clarke and Mr. Harmon. The jury is not present. And
+previously, there had been raised a discovery, I guess Griffen issue
+regarding continued testing at DOJ. And, Mr. Scheck, since you raised
+the issue, do you want to advise the Court of the nature of your--
+
+*MR. SCHECK:* I think my concerns could be simply stated I think it's
+close to two months ago--it's hard for me to remember--before the
+examinations of the criminalists began, and Mr. Harmon requested to
+combine all the samples in the Bronco, 303, 304, 305, of which 303 and
+304 being stains that were in the location originally of 30 and 31, and
+they took all of it, 30, 31, 303, 304, 305, gave notice to the Court and
+asked for permission to combine them altogether to do RFLP testing. And
+I think that--we all believed that they were going to commence with that
+soon after giving us notice.
+
+*THE COURT:* Immediately if not sooner.
+
+*MR. SCHECK:* Immediately if not sooner. And the concern that I
+expressed at that time and plainly the reason for the testing is that
+there's ambiguity with respect to the test results on these combined
+stains in the Bronco. And I think Mr. Harmon indicated--the Prosecution
+indicated that they wanted to combine all these stains to do RFLP
+testing to get more information and greater clarity with respect to the
+results one way or the other to exclude or include various individuals
+in terms of having greater information.
+
+*THE COURT:* All right. Well, let's assume, Mr. Scheck, what you say is
+true. What do you want me to do about it and why?
+
+*MR. SCHECK:* Well, I think that the problem is that since they have not
+even begun testing--and we know that the combined samples is something
+on the order of 72 nanograms of DNA total I think at best--that this
+particular form of RFLP testing is going to take between four and seven
+weeks because what's going to have to occur if we're going to get
+results is laying the autorads for long exposures. So this is in my
+judgment a tactical decision by the Prosecution to gain an advantage in
+terms of possible cross-examination of the witnesses and then rebuttal
+case. It's just more of what I think has been going on all the way
+through which we've complained about to the Court from the beginning,
+but this is--this I think is extreme. This is now at the point where
+it's very clear that this was done not in good faith, but for purposes
+of obtaining a forensic ambush in this trial if that were to occur. It
+also precludes the Defense from having any access to the samples during
+these periods of time if they were not going to engage in this testing.
+So I think it presents a discovery problem. The cases that we discussed
+long ago--
+
+*THE COURT:* Well, Mr. Scheck, let me redirect your thought process.
+Let's assume that everything you said so far is true. All right. What do
+you want me to do about it and what's the legal basis for doing that?
+
+*MR. SCHECK:* The problem is, the only relief at this point is
+preclusion. I don't know of any other real remedy for this at this point
+in time by the way they set it up.
+
+*THE COURT:* So you want me to make--on the basis of this, you want me
+to make a finding of bad faith and based upon that, preclusion of any
+results?
+
+*MR. SCHECK:* Yes.
+
+*THE COURT:* All right. Mr. Harmon. Good afternoon, sir.
+
+*MR. HARMON:* Good afternoon, Judge. Now that the jury has seen the kind
+of evidence we have, the ambush already happened, and the overwhelming
+mountain of DNA evidence has begun to cascade right where it belongs, on
+Mr. Simpson. While it may have been intriguing and entertaining back in
+October whenever these discussions happened before I started coming down
+here, that our tactics, our--which our tactical decisions precluded them
+access to the DNA evidence in this case, you are aware and they are
+aware that they have never gotten one of the many, many remaining
+swatches in this case to test for DNA typing. If they have, it's news to
+me, which is always possible, but I'm not aware of it. So we can cross
+that one off the list as a good faith argument. Nobody's precluded them
+access. There's a bunch of stuff over at LAPD SID that we would love to
+have them test for DNA typing. So let's strike that from our agenda.
+Practically speaking, although no objection has been made, Mr. Sims is
+going to have to come back after this chunk of his testimony because
+there are tests specifically on 117 that have been going on for quite
+some time that haven't been reported. And while Mr. Scheck hasn't
+projected to me presenting--he doesn't mind me objecting to having Mr.
+Sims present them when he testifies hopefully next week, even though he
+hasn't gotten the reports, but he knows what the results are. I would be
+happy to do that. I would like to finish him in one session, but I know
+that's--it's not fair because we don't have a report. So Mr. Sims--
+
+*THE COURT:* One session or one sitting?
+
+*MR. HARMON:* I misspoke there. One lifetime maybe.
+
+*THE COURT:* You got my hopes up.
+
+*MR. HARMON:* Mr. Scheck as part of this bad faith said--I wrote this
+down--"They have not even begun testing." And I'm as shocked to hear
+that as I'm sure Mr. Sims is. They've begun testing. They just haven't
+begun the part of the testing that he's dying to know if the other shoe
+is going to drop out of. So the testing has begun. Mr. Sims has a life.
+The DOJ lab has a life independent of this case. You know, aside from
+my--those are my normal comments that have nothing to do with the legal
+issues. There is no legal issue that allows them to do what they've
+asked you to do here. They have consistently whipsawed the Defendant's
+right to a speedy trial and said, "But this isn't fair. We're never
+going to know." And if they waited, they would have known all this ahead
+of time and maybe rethought their tactics in this case as the DNA tests
+unfolded. But the fact of the matter is, they chose when to go to trial.
+And we have done fairly well. No case has ever had the amount of DNA
+evidence analyzed as has this case. So I think the Court realizes that
+at this point, the arguments that we have precluded them access or this
+will continue to preclude them access to evidence, when--except for the
+intriguing 47, 50 and 78 that weren't done for DNA testing, they've
+never done any DNA testing on any of the evidence. That's not a sincere
+argument. But there's simply no legal basis for it. I wish we were done.
+Mr. Sims wishes he was done. Unfortunately, once you step out of this
+courtroom and out of this building, there's a whole world and a life out
+there and everybody has to balance--except for us, everybody has to
+balance that, and we're just stuck in this for the time being. So
+there's no legal basis. If they hurry up with their cross-examination of
+witnesses, maybe we wouldn't get around to testing and there wouldn't be
+any ambush. But, you know, the lengthy cross-examination that we saw in
+April just makes it easier to finally get around to the last set of
+tests--and that's about the last set of tests. So if they were concerned
+about it, maybe they should have cut off some of their cross-examination
+and precluded us from practically being able to get to these results.
+Thank you.
+
+*THE COURT:* Mr. Harmon, when did the actual combined RFLP testing begin?
+
+*MR. HARMON:* Mr.--what's your name--Clarke has a recollection that it
+was April 3rd. Mr. Sims is--could I ask him? He's got his notes here. I
+just didn't bring them here. Because we had those discussions--and I can
+tell you that things have been done towards the typing.
+
+*THE COURT:* All right. The record should reflect that present in the
+audience is Gary Sims, Department of Justice. Good afternoon, Mr. Sims.
+
+*MR. SIMS:* Good afternoon, your Honor.
+
+*THE COURT:* Do you have your notes regarding the commencement of that
+RFLP testing?
+
+*MR. SIMS:* Yes, I do.
+
+*THE COURT:* All right. Can you tell me the date?
+
+*MR. SIMS:* I will.
+
+*THE COURT:* All right.
+
+*MR. SIMS:* I think also, your Honor--and can I just speak from here?
+
+*MR. SCHECK:* I would welcome him to define it. I'm only going based on
+what Mr. Harmon told me and nothing else. And the original source is Mr.
+Sims and I welcome any of his remarks and I'm sure they're completely
+accurate.
+
+*MR. SIMS:* I remember there was first a legal hurdle we had to overcome
+and a declaration in which I said that I would save swatches, which I
+did. And I don't remember the exact date of that declaration. Then that
+was litigated and then the samples came back up to us looks like on
+March 9th. March 9th was when we started--we got some of those samples
+back and we wanted to do additional tests on. And the actual completion
+of the tests that we did to the extraction, we did some DQ-Alpha typing,
+et cetera, on those, and that--we put it in quantitation with some other
+things, and that was completed about early April. So since sometime in
+early April.
+
+*THE COURT:* Can you pin it down a little closer than early April? And,
+Mrs. Robertson, could you find the motion with regards to--the
+Prosecution's motion to--for permission to combine those items for
+testing? And the declaration by Mr. Sims should give us some idea as to
+where we are.
+
+*MR. HARMON:* Your Honor, I don't think we filed--
+
+*THE COURT:* Hold on.
+
+*MR. HARMON:* --a formal motion.
+
+*MR. SIMS:* Your Honor--
+
+*THE COURT:* It was a declaration.
+
+*MR. SIMS:* The note I had would be April the 4th. My notes say--this is
+on page 339--239 of my lab notes--April 4th, `95, DNA, 30, 52, 53. Those
+are those three combined samples, proceed to RFLP. So April 4th.
+
+*THE COURT:* April 4th. And, Mr. Sims, when do you anticipate having
+final results and completing a report as to that test?
+
+*MR. SIMS:* For that particular sample, maybe we can only get a few
+probes off. So we may have to go with some partial information as far as
+the probes and we can see.
+
+*THE COURT:* When do you anticipate knowing the results?
+
+*MR. SIMS:* The process itself takes several days as far as restriction
+gel and blotting. And then we'll also of course have to have the probing
+done. So I would think we've probably got maybe a month and a half of
+work, something like that.
+
+*THE COURT:* Still to go?
+
+*MR. SIMS:* Yes. Maybe two.
+
+*MR. SCHECK:* Aren't we going to be done by then? That was my hope.
+
+*THE COURT:* Well, we may have preclusion by passage of time. All right.
+Mr. Sims, do you happen to have in your case notes there a copy of your
+declaration?
+
+*MR. SIMS:* I don't think I do, your Honor.
+
+*THE COURT:* All right. Then I'll have the clerk find that. I just want
+to get the declaration so I can place our legal discussions in context
+time wise. All right. Mr. Scheck, any other comment?
+
+*MR. SCHECK:* Yes. Just one. I just note for the record that I don't
+want to violate any of the Court's rules with respect to making
+comments. I'm trying very hard, and Mr. Harmon has a very colorful way
+of expressing himself, and I'm not amused. The--and I will not take the
+bait of answering all these things, but I want the Court to know I'm not
+amused. There's one thing that does require note. Once again, Mr. Harmon
+is making statements about what he knows the Defense did or did not do
+in secret testing. That motion is still before the Court. That record is
+still before the Court. I don't think those are proper comments. I don't
+know how he knows any of this, and I'm very concerned about it. And I
+would call the Court's attention--and I will file a letter memo on
+Monday--to the case of County of Los Angeles versus Superior Court at
+222 Cal. App. 3d. 647. Since it's my opinion, if the Court consults that
+authority, that Mr. Harmon's previous admissions in our discussions of
+his efforts to find out about privileged communications and testing if
+any was done by the Defense, already by his own admissions is unethical,
+violates rules and actually merits the sanction of recusal from the
+case. I haven't said we're going to ask for that with respect to Mr.
+Harmon, but it's serious. And I don't think he seems to understand that.
+And he did it again today.
+
+*THE COURT:* All right. Thank you, counsel. What I will need to do is
+review the record with Mrs. Robertson to determine the actual dates of
+the declaration filed by Mr. Sims and then rule after I have that
+information available to me. Mr. Clarke, you mentioned something earlier
+this morning that we needed to resolve. Clarke. That's you.
+
+*MR. CLARKE:* Actually, I wasn't looking to remember who I was.
+
+*THE COURT:* All right.
+
+*MR. CLARKE:* I'm trying to recall what we had left. I thought--
+
+/(Discussion held off the record between the Deputy District Attorneys
+and Defense counsel.)/
+
+//*THE COURT:* All right. Anything we need to do on--Mr. Blasier, you're
+raising the issue regarding Dr. Weir's--
+
+*THE COURT:* Mixed samples calculation. Mr. Thompson is prepared to
+present our position on that, if they're ready to talk about this.
+
+*MR. CLARKE:* I thought we were going to go through this phase with Dr.
+Cotton and then she was going to have to return anyway because of the
+Court's sustaining the objection as to foundation on, for instance,
+frequency calculations including the Department of Justice.
+
+*THE COURT:* Uh-huh.
+
+*MR. CLARKE:* As well as there are some other issues that relate to
+results from the Department of Justice that I was going to ask Dr.
+Cotton about. So I may have been under the wrong--
+
+*THE COURT:* All right. So you were not anticipating presenting this
+until Robin Cotton, round 2?
+
+*MR. CLARKE:* Exactly. Because there is a number of pieces of
+information that need to be looked at as far as to calculate these
+frequencies. This was done in very much a rush, and frankly, I don't
+think--it's been too fast to be able to present this information
+properly or to calculate it properly. So Dr. Cotton is still working
+with Dr. Weir to be able to calculate those frequencies. I'm not trying
+to give the Court the impression we don't plan on doing that. We do, but
+it's not as simple as taking a few days to calculate this as it turns out.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* Well, your Honor, two things. One is--
+
+*THE COURT:* Well, wait a minute. Who's going to address the issue? Mr.
+Thompson, Mr. Blasier or Mr. Neufeld?
+
+*MR. NEUFELD:* Professor Thompson is going to address the actual numbers
+that were presented by the Prosecution in a memo written by Dr. Bruce
+weir. All I wanted to do was remind the Court on a preliminary level
+procedurally that it was your ruling not that they were going to wait to
+present numbers at some other occasion on some other date if and when
+Dr. Cotton returns to Court. It was the Court's ruling that they were
+compelled to produce some number which aggregates the respective
+frequencies in the population of all those people who were not excluded.
+And I--the issue is not whether they use a product rule or a silly
+pencil. They can use whichever one of those numbers they deem
+appropriate given the outcome of the Frye issue here, but that they had
+to produce a number. And that it was decided by agreement I believe at a
+sidebar that the way it would be done, since we couldn't conclude that
+issue on what the number was before I commence cross-examination, that
+he would be permitted, while Dr. Cotton was here these couple of days,
+to reopen his direct examination just for that limited purpose. And so
+he would either do it as a reopen or he would do it during the course of
+redirect. And what I said is, and he agreed to that point, that I was
+not going to comment on his failure to put on any of those numbers
+during the direct.
+
+*THE COURT:* But here's the other problem though. We know the scheduling
+problems we have with Dr. Cotton. We know the--now Mr. Clarke is
+indicating to me that he's not ready to present these numbers. I can't
+force him at this point--if he wishes to recall a witness during the
+course of his Case in Chief, he's entitled to do that.
+
+*MR. NEUFELD:* One second.
+
+/(Discussion held off the record between the Defense attorneys.)/
+
+//*MR. NEUFELD:* What I would ask to be able to do at this point, your
+Honor, if that's the Court's feeling about this--I mean frankly in terms
+of scheduling, I don't think it's a big problem. As I informed the Court
+earlier today, I will finish my cross-examination on Monday. And now in
+fact, you've said it on the record and in open court as well. So it's no
+longer a confidential matter. But I do make that representation. And she
+has to finish by Wednesday I believe with her schedule. So certainly
+that's more than enough time for redirect as well as to handle any
+anticipated problem with these numbers, and I think--
+
+*THE COURT:* Well, let's see where we are. Mr. Clarke, when are you
+going to have your final numbers calculation? When do you think?
+
+*MR. CLARKE:* I don't know the answer to that. It's a much more complex
+task than it might seem on its face, and the two of them are working
+together quite a bit, I mean extensively in the time that's been
+available over the last few days. I can ask Dr. Cotton how long she
+anticipates that will take. But I don't want to be in the position of
+having to produce all of a sudden a frequency, frequency that's the
+product of rushing, and then all of a sudden it's attacked because it
+was forced--you know, it was compelled to be done and it wasn't examined
+sufficiently.
+
+*THE COURT:* Uh-huh.
+
+*MR. CLARKE:* So whether under a misapprehension or not, I think the
+additional time will help ensure the accuracy of those numbers, but I
+would like to ask Dr. Cotton how long she anticipates is needed.
+
+*THE COURT:* All right. How long will it take you to contact Dr. Cotton?
+Can you do it right now?
+
+*MR. CLARKE:* I believe so.
+
+*MR. NEUFELD:* I just wanted to remind the Court of one other thing. It
+was a week ago that you had asked Mr. Clarke to have those numbers ready
+just in case that was your ruling. So they've had a week to prepare
+those numbers in anticipation of the Court's ruling. So it's not
+something that was a rush to judgment if you will. It's something where
+they had plenty of time to process it. And, you know, in all due respect
+to what's involved here, I don't believe, for instance, with item 29,
+for instance, it takes days or weeks or even hours to answer the
+question that's posed in the national academy of science NRC report.
+It's simply aggregating the frequencies of that portion of the community
+that can't be excluded.
+
+*THE COURT:* All right. Let's take five minutes. And, Mr. Clarke, why
+don't you give Dr. Cotton a call and let's see when we might
+anticipate--because I would like to wrap that aspect of it up, this
+round if we can.
+
+*MR. CLARKE:* Very well.
+
+*THE COURT:* Okay.
+
+*MS. LEWIS:* Your Honor, may I be heard?
+
+*THE COURT:* On what?
+
+*MS. LEWIS:* On something unrelated to this.
+
+*THE COURT:* All right.
+
+*MS. LEWIS:* Maybe just to set a time for scheduling because I know Mr.
+Cochran is not here and Mr. Douglas is not here. This morning, the
+Prosecution was provided with some additional discovery and a
+supplemental Defense witness list which includes about a dozen new
+names. For a few of these people, there--the discovery which was
+provided is just in the nature of rough notes which are
+incomprehensible. There are no dates of allegations. Apparently, they
+contain allegations. We can glean that much. But this is incomplete
+discovery, and it's brought up to the fore a problem we've been wanting
+to address for a while in terms of incomplete Defense discovery. And
+that is that on the combined Defense witness list, there is over 50
+people still on their witness list excluding American Airline passengers
+on the flight to Chicago, which is quite a few people by itself.
+Excluding that, there is still over 50 people on their witness list for
+whom they have not provided discovery and we never initially provided
+discovery to them. So while there are a number of witnesses who we can
+kind of glean the nature of what they would be testifying to based on
+discovery we provided to them at an earlier point in time, such as some
+of the police officers, there are quite a few witnesses that we've never
+heard of and we know nothing about. And it's becoming difficult to
+believe that there has not been Defense investigation culminating and
+some kind of statements from these witnesses. So I have a list of those.
+I was hoping Mr. Douglas would be present this afternoon so that I could
+ask him about it. Perhaps I could lodge that list with the Court and fax
+a copy to the Defense, because it's certainly getting to the point where
+we're getting very close to the Defense case and we don't have discovery
+on a lot of their supposed witnesses. Maybe they're people who they are
+going to be taking off their witness list, but if that's the case, they
+should be doing that.
+
+*THE COURT:* All right. Why don't you lodge a list with the Court, send
+a letter to Mr.--fax a letter to Mr. Douglas this afternoon, advise him
+of your concerns, and if it's necessary, we'll set it for a hearing.
+
+*MS. LEWIS:* All right. Thank you, your Honor.
+
+*THE COURT:* All right. Okay. Let's take a five-minute recess. Mr.
+Clark, why don't you chat with Dr. Cotton.
+
+/(Recess.)/
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* All right. Back on the record. Mr. Clarke, what's your
+report?
+
+*MR. CLARKE:* Yes. Dr. Cotton informs me that she will be able to do
+that, as far as be able to report those results, Monday.
+
+*THE COURT:* Okay.
+
+*MR. CLARKE:* I think we do have to approach at least one item with
+respect to those numbers though in terms of what's going to happen in
+court. I don't think there's a problem with PCR markers. Dr. Cotton
+testified that that method in fact can be used of summing up these
+various genotype frequencies. As to the RFLP reports, that is the
+mixture on the boot stain, item no. 78, they don't believe--that is, Dr.
+Cotton doesn't believe it's appropriate to assign a frequency. It can be
+done, but I hope the Court isn't under the impression that when she
+testifies about numbers as to that particular item, that in fact she's
+going to represent that as this is an appropriate way to do it in the
+face of what I anticipate is going to be a Defense attack on those
+numbers. So it's a difficult situation at best. And perhaps the Defense
+can tell us what number they would like to see attached, for instance,
+to that mixture on item no. 78 and perhaps we can agree to it.
+
+*MR. NEUFELD:* Your Honor, the problem is, which is what the NRC report
+says and which the Court accepted, is that you can't present the DNA
+evidence of a match or even a consistency without a probability. If the
+People feel that they cannot produce a number for those items, then they
+have no business producing the suggestion that there's a match in the
+first place. That's what the scientific community says. That's what the
+law is in the State of California and that's what should have happened
+here. And to that extent, your Honor, I believe that, you know, it isn't
+fair on a very fundamental level. If they have a number that they intend
+to introduce with each of these items, we would like to hear the number
+obviously outside the presence of the jury first so we can at least
+question it because frankly, if it's a number just pulled out of thin
+air, obviously it would be inadmissible, and there may be other grounds
+for precluding that number and compelling them to go back to the drawing
+board to produce another number. But I am somewhat concerned that being
+the law and you making a decision beforehand that before they could
+actually testify to a match or a consistency or however you want to
+describe it for item no. 78, that they didn't have a number that they
+could put forward with that other expert opinion. And that raises some
+very, very serious questions. That's all I'm saying at this point.
+
+*THE COURT:* All right.
+
+*MR. NEUFELD:* So we'll have to address it Monday morning, but there may
+be a need to strike that portion of the testimony or give other curative
+instructions.
+
+*THE COURT:* Well, let's wait till you see the numbers, see what you
+think. And if we can go forward, we will, and if we need to have a
+hearing out of the presence of the jury, we will.
+
+*MR. NEUFELD:* One other matter, your Honor.
+
+*THE COURT:* But don't forget, we don't get to that point until Mr.
+Clarke has the opportunity to reopen to represent. All right?
+
+*MR. NEUFELD:* Oh, sure.
+
+*THE COURT:* Okay.
+
+*MR. NEUFELD:* I agree. One other matter, your Honor.
+
+*THE COURT:* So it looks to me 4:30 Monday we may get to this.
+
+*MR. NEUFELD:* Hopefully earlier. I may surprise you. One other item.
+Carl Douglas brought to the Court's attention earlier today a matter
+involving a representation that had been made on the record yesterday
+suggesting that Mr. Simpson, when he was arrested, had thousands of
+dollars either on his person or his bag. And Mr. Douglas brought that to
+the attention of the Court because we had never received any discovery
+and we had no information to support that wild accusation. I think we
+have now learned or we will hear from the District Attorney hopefully
+that in fact that accusation that was made yesterday had--it was
+not--had no basis in fact to support it, was not correct. And what
+concerns the Defense, your Honor, is again --and it has happened
+before--of an instance where certain statements are made on the record,
+not in front of the jury obviously because they're not hearing this, but
+to another juror. And we just would like the Court to be very careful
+that if this kind of thing happens in the future, that some type of
+corrective measure should be taken by the Court. That's all.
+
+*THE COURT:* Miss Lewis, you want to address this for the People?
+
+*MS. LEWIS:* Yes, your Honor. During the course of the argument in favor
+of our calling Mr. Kardashian to the stand, I said that I believed that
+within the black bag was several thousand dollars along with a gun and
+the disguise. Apparently--and I was in error in believing that the money
+was inside the black bag. It was on Mr. Cowling's person, some 8- to
+$10,000, and I'm informed it was returned to Mr. Cowlings. So it was
+within the black Bronco--within the Bronco rather, but not within the
+black bag. And I don't mean to have mislead the Court in any manner.
+That was an off-hand remark that wasn't germaine to the motion we were
+discussing.
+
+*THE COURT:* All right. Mr. Clarke, when do you anticipate that Dr.
+Cotton will have this calculation available? You said Monday, but is
+there a possibility that could be faxed to counsel earlier so they can
+have some opportunity to evaluate it so maybe we can cut to the chase on
+Monday?
+
+*MR. CLARKE:* Yes. I'll obtain Mr. Neufeld's fax number, and we'll fax
+it as soon as we can.
+
+*THE COURT:* Terrific. Okay. Appreciate that. And let's see. Then the
+only thing remains is for the Court to evaluate Mr. Sims' declaration
+and see if there's any problem there. But I see this as a premature
+objection at this point. All right.
+
+*MR. HARMON:* Mr. Sims pointed out one thing with respect to that. I'm
+pretty sure it's in the declaration and Mr. Scheck I'm sure will clarify
+how he misspoke on the point. All of those samples were not consumed at
+that time.
+
+*MR. SCHECK:* I don't think--how could he have consumed them? He hasn't
+done the tests.
+
+*MR. HARMON:* Well, you'll see--he said they were all consumed. That's
+my recollection and--
+
+*MR. SCHECK:* Whatever. I'm only going on what they tell me, and I
+brought it to the Court's attention because I was concerned that the
+testing hadn't begun.
+
+*THE COURT:* All right. I'll note the objection. I'll evaluate the
+declaration. At this point though, I think the objection is premature.
+
+*MR. HARMON:* Well, I'll probably get it this afternoon and I'll get it
+to the Court this afternoon. They're trying to get it now.
+
+*THE COURT:* Fine. Okay. Then I can spend the rest of the afternoon
+working on the other rulings I need to make.
+
+*MS. LEWIS:* Thank you, your Honor.
+
+*THE COURT:* All right.
+
+*MR. HARMON:* We can't wait, Judge.
+
+*THE COURT:* It's not like I haven't been busy. We'll stand in recess,
+9:00 o'clock. Thank you, counsel.
+
+/(At 2:35 P.M., an adjournment was taken until, Monday, May 15, 1995,
+9:00 A.M.)/
+
+//*SUPERIOR COURT OF THE STATE OF CALIFORNIA FOR THE COUNTY OF LOS ANGELES*
+
+**Department no. 103 Hon. Lance A. Ito, Judge
+
+The People of the State of California,)
+
+Plaintiff,)
+
+vs.) no. Ba097211)
+
+Orenthal James Simpson,)
+
+Defendant.)
+
+Reporter's transcript of proceedings Friday, May 12, 1995
+
+Volume 145 pages 27214 through 27356, inclusive
+
+-------------------------------------------------------------------------------------------
+
+*APPEARANCES:*
+
+Janet M. Moxham, CSR #4588 Christine M. Olson, CSR #2378 official reporters
+
+*FOR THE PEOPLE:* Gil Garcetti, District Attorney by: Marcia R. Clark,
+William W. Hodgman, Christopher A. Darden, Cheri A. Lewis, Rockne P.
+Harmon, George W. Clarke, Scott M. Gordon Lydia C. Bodin, Hank M.
+Goldberg, Alan Yochelson and Darrell S. Mavis, Brian R. Kelberg, and
+Kenneth E. Lynch, Deputies 18-000 Criminal Courts Building 210 West
+Temple Street Los Angeles, California 90012
+
+*FOR THE DEFENDANT:* Robert L. Shapiro, Esquire Sara L. Caplan, Esquire
+2121 Avenue of the Stars 19th floor Los Angeles, California 90067
+Johnnie L. Cochran, Jr., Esquire by: Carl E. Douglas, Esquire Shawn
+Snider Chapman, Esquire 4929 Wilshire Boulevard Suite 1010 Los Angeles,
+California 90010 Gerald F. Uelmen, Esquire Robert Kardashian, Esquire
+Alan Dershowitz, Esquire F. Lee Bailey, Esquire Barry Scheck, Esquire
+Peter Neufeld, Esquire Robert D. Blasier, Esquire William C. Thompson,
+Esquire
+
+-------------------------------------------------------------------------------------------
+
+_I*N D E X *_
+
+__For volume 145 pages 27214 - 27356 day date session page vol.
+
+Friday May 12, 1995 A.M. 27214 145 P.M. 27329 145
+
+-------------------------------------------------------------------------------------------
+
+*LEGEND:* Ms. Clark-mc Mr. Hodgman-h Mr. Darden d Mr. Kahn-k Mr.
+Goldberg-gb Mr. Gordon-g Mr. Shapiro-s Mr. Cochran-c Mr. Douglas-cd Mr.
+Bailey-b Mr. Uelmen-u Mr. Scheck-bs Mr. Neufeld-n
+
+-------------------------------------------------------------------------------------------
+
+Chronological index of witnesses People's witnesses direct cross
+redirect recross vol.
+
+Cotton, Robin 145 (Resumed) 27221n
+
+Alphabetical index of witnesses witnesses direct cross redirect recross vol.
+
+Cotton, Robin 145 (Resumed) 27221n
+
+-------------------------------------------------------------------------------------------
+
+_E*XHIBITS*_
+
+__*DEFENSE* for in exhibit identification evidence page vol. Page vol.
+
+1146 - Photograph of 27263 145 item 47 with 5 swatches
+
+1147 - Photograph of 27263 145 item 12 with 6 swatches
+
+1148 - Photograph of 27269 145 side-by-side views 11 swatches
+
+1149 - 10 printouts 27276 145 from slide presentation entitled "Degrading"
+
+1150 - Drawing by 27327 145 Mr. Neufeld
+

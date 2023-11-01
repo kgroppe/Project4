@@ -1,0 +1,3274 @@
+*LOS ANGELES, CALIFORNIA; THURSDAY, MAY 25, 1995 9:02 A.M.*
+
+**Department no. 103 Hon. Lance A. Ito, Judge
+
+*APPEARANCES:* (Appearances as heretofore noted.)
+
+(Janet M. Moxham, CSR no. 4855, official reporter.)
+
+(Christine M. Olson, CSR no. 2378, official reporter.)
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* All right. Good morning, counsel. Back on the record in
+the Simpson matter. Mr. Simpson is again present before the Court with
+his counsel, Mr. Shapiro, Mr. Cochran, Mr. Blasier, Mr. Scheck. The
+People are represented by Miss Clark, Mr. Darden and Mr. Harmon, also
+Miss Lewis. The jury is not present. Counsel, one issue I want to take
+up before we resume with the jury, and that is this--the objection
+concerning the absence of a C dot on some of the LAPD PCR results. I
+have received the letter brief filed by the Prosecution. I didn't
+receive anything from the Defense this morning. Mr. Harmon, I will hear
+from you first. Good morning, counsel.
+
+*MR. HARMON:* Thank you, your Honor. Perhaps we should start with Miss
+Cotton's testimony. The distinction that is made, and I am not a
+scientist, but this is consistent with Dr. Cotton's testimony,
+consistent with the user guide, is the control dot is important because
+things that are more intense than the control dot on the DQ-Alpha strips
+mean that that is a type or types that are present. If the C dot is
+absent, it doesn't mean that dots which are there are not present; it
+just means that one cannot say that there are not other mixtures there,
+and that is the distinction between a reportable result and reporting
+what you see. When those dots light up--the Defense really can't have it
+both ways. They made a big deal about dots lighting up, suggesting that
+things are there. Now we have dots lighting up and they don't want the
+jury to hear that dots lit up because there is no C dot there. So I'm
+suggesting that there is a factual inconsistency with the position that
+the Defense has taken. We pointed out that there are already two such
+results--
+
+*THE COURT:* The problem there was that their objection was late in
+coming was the problem.
+
+*MR. HARMON:* That was the initial problem, but you--in rereading it, it
+would appear that you considered the substance of the objection as well.
+I mean, we've had to patch boards at the last minute, your Honor,
+so--but the user guide makes the distinction between typeable results.
+Umm, I mean the key is that there are--I can tell you what the--there are--
+
+*THE COURT:* Mr. Harmon, forgive me for interrupting you.
+
+*MR. HARMON:* Sure.
+
+*THE COURT:* But let me redirect you to where we need to go here.
+
+*MR. HARMON:* Sure.
+
+*THE COURT:* The issue is what is the relevance of a result without a C
+dot control.
+
+*MR. HARMON:* The relevance are--the relevance of these results, and I
+can--I mean, there are some differences in what the results are. The
+relevance are when those dots light up, that means there is some
+biological material that caused them to light up.
+
+*THE COURT:* Well, more specifically, aren't--
+
+*MR. HARMON:* Sure.
+
+*THE COURT:* Can't we assume that it is amplified DNA that is causing that--
+
+*MR. HARMON:* We can because that is where you--in the hybridization
+process that is what you would have.
+
+*THE COURT:* Doesn't the lack of a C dot indicate that there is
+insufficient amplified product for a reliable result?
+
+*MR. HARMON:* What do you mean by "reliable"?
+
+*THE COURT:* Well, I mean that is what the guide says.
+
+*MR. HARMON:* That is the key, and this is what I was just telling you,
+your Honor. It means that that biological material--there is biological
+material that produced those types that caused those dots to light up.
+It also means there could be other biological material present there
+that could help you interpret what is there, but what is there is there.
+And I think to be concrete, I think you need to appreciate what these
+results are where the stains are from.
+
+*THE COURT:* All right. What are they and what do they--
+
+*MR. HARMON:* Item 47.
+
+*THE COURT:* A Bundy stain.
+
+*MR. HARMON:* One of the Bundy stains. And you know what the results are
+that other labs have produced from those. They are a 1.1, 1.2. They are
+consistent with Mr. Simpson. Well, Mr. Yamauchi, his results were 1.1,
+1.2 and no C dot and those results mean that there is some biological
+material that Mr. Yamauchi typed that produced the 1.1, 1.2. It doesn't
+mean there is not something else there. It just means that at least
+there was enough biological material to light up those two dots, and in
+the context of that--of this case that is a very significant
+observation. There is no question that it could mean a number of other
+things. That has never been a limitation on presenting any form of
+physical evidence analysis, except maybe I should back off that. We have
+had some limitations put on our positive phenolphthalein testing but for
+different reasons. That is the significance of--that is a result that
+has been consistently produced throughout this, the testing in this
+case. I think it gets a little more interesting when we switch over to
+item 42, which we know was a sample that was taken from the pool of
+blood that Nicole Brown was found in, and presumably that is her. Mr.
+Yamauchi's results were a 1.1, 1.1 with a C dot very faint. Now, what
+that suggests is, is that--and it suggests a lot of things and a lot of
+things that are much more critical at this point in the case with all
+this cross-contamination and everything else that the Defense has
+floated for weeks. What that suggests, is no. 1, he typed it right and
+what that suggests is in the sequence of events that these things were
+handled in, this systematic cross-contamination that the Defense
+has--has been continually suggesting, that suggests is that this stain
+that was processed right after the--in the sequence right after the
+Bundy stains, and before the Defendant's reference sample, was not
+cross-contaminated, and we know all the substrate controls were not
+cross-contaminated. So the fact that there was no 1.2 suggests that
+there was--that is a very important control that was never meant to be a
+control against this phenomena, so we have two different results with
+weak or no C dots that mean very important things, but they don't mean
+that these are the only types.
+
+*THE COURT:* Are these the only two non-c dot results that you want to
+offer?
+
+*MR. HARMON:* That is--yes. Let me make sure.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Yes, your Honor.
+
+*THE COURT:* So you are saying it is relevant because it is consistent
+with the other results, it is indicia of the lack of contamination and
+it is not misleading because it can be explained to the jury so that
+they can give to it the weight to which it is entitled?
+
+*MR. HARMON:* If you--
+
+*THE COURT:* That is your argument?
+
+*MR. HARMON:* That was my argument and that was always my intention of
+not saying it any more strongly than that, and if I do, Mr. Scheck will
+cross-examine on that point. That is what it means, that is all it
+means, and it means something very powerful in the context of this case
+at this point.
+
+*THE COURT:* Shouldn't I be very concerned about the user's guide that
+says don't use this if there is no C dot?
+
+*MR. HARMON:* That is not what it says, your Honor. I appreciate that--
+
+*THE COURT:* Excuse me, Mr. Harmon. Why don't you do this. Why don't you
+give me that page out of the user's guide. I think we should have a
+photocopy of that in the record so the record is clear as to what I
+considered in making this ruling.
+
+*MR. HARMON:* Sure. And--
+
+*THE COURT:* Mrs. Robertson, would you photocopy this page for me, please.
+
+*MR. HARMON:* I mean, I think you have to read it very clearly when it
+says: "An accurate determination of the type cannot be made since there
+is a possibility that other probe signals are also below the threshold
+of detection." This is the way this will be presented, that this is what
+I saw, but here are the other possibilities, and you know, in the
+context of this cross-contamination, umm, there is no question that
+caution that has to be made when that is presented
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Mr. Scheck.
+
+*MR. SCHECK:* Mr. Harmon's argument is scientific nonsense. And it is
+going to confuse the jury and it fails to abide by even the most
+fundamental foundational requirements of reliability. The user's guide,
+your Honor, is a kit that is put out by the company that manufactures
+this product and stands to make a profit off it and should not
+necessarily be regarded as anything more than a minimum. But it is
+evident, from even the user's guide, that when the intensity--when there
+is no C dot that means that an accurate determination of type cannot be
+made, since there could very well be other signals present. And I mean
+this is the fundamental control of the strip. Mr. Sims' testimony at
+28709. "Question: Just to digress for a second, if you saw Mr. Simpson's
+type a stain and you were unable to see a C dot there, how would you
+report that?
+
+He answered: "In our laboratory we would not consider that a typeable
+result. We would note the types but we would not consider it to be a
+reportable result." I mean, when he says "We would note it," I mean, in
+other words, he is not going to throw away the data and say that that
+never happened, but they wouldn't report it in Court and they don't
+record it as a typeable result, and I don't think that there is anything
+more fundamental to this system. And if this isn't a foundational
+objection to the reliability of the evidence that ought to be sustained,
+then I suppose we can give the jury anything as far as this system is
+concerned, and to try to start raising inferences about whether there is
+or isn't contamination or there is or isn't reports--typeable results
+there that are consistent with something else, when the fundamental
+control on the strip fails and you can't make an accurate determination
+of type, that is not the kind of stuff that should be put before this
+jury, which lord knows is going to have enough trouble sorting through
+what they have in a proceeding where we didn't have an admissibility
+hearing. I mean, I think a lot of this is not adequately validated to go
+before a jury, but you know, you said, we couldn't litigate it.
+
+*THE COURT:* That is after you waived it.
+
+*MR. SCHECK:* No, no, you ruled. You ruled. I mean, you know, we have to
+live with this, and I think it is tough enough for these people, but
+this--this is ridiculous.
+
+*THE COURT:* Mr. Harmon, any other comment?
+
+*MR. HARMON:* Sure. Rather than guess about what Gary thinks, he is
+sitting right here. I asked him if I adequately articulated it and he
+said I did. If you would like to hear from him what he thinks about it,
+you know, I don't pretend to speak for the entire scientific community.
+I do the best I can, but Gary is sitting right here, and rather than
+make a mistake about what he feels on this, why don't we hear from him.
+
+*THE COURT:* No, I'm not inclined to hold a hearing at this point,
+counsel. All right. The foundational objection as to the results with
+lack of C dot will be sustained. Neither party may inquire of that. All
+right. Let's have the jurors.
+
+*MR. HARMON:* Your Honor, how can I address--can I ask him if they were
+inconclusive?
+
+*THE COURT:* Yes, you can. You can ask him if he was typed and you can
+ask him specifically that there was a C dot failure and it is not a
+typeable result. All right. Let's proceed. Miss Clark?
+
+*MS. CLARK:* This--
+
+*THE COURT:* I've got one points and authority--I'm sorry, hold the
+jury. Hold the jury.
+
+/(Brief pause.)/
+
+//*THE COURT:* I forgot about this. I did get one set of points and
+authorities on the 356 issue.
+
+*MS. CLARK:* From the Prosecution, your Honor?
+
+*MR. COCHRAN:* Ours is coming momentarily, your Honor, so I think you
+said last night, but we wouldn't be ready to argue until nine o'clock so
+they will be in momentarily, your Honor.
+
+*THE COURT:* All right. I also got an anonymous phone message on my
+voice mail this morning suggesting that I suggest to you that you look
+up the Greek derivation of one of the adjectives you used yesterday.
+
+*MR. COCHRAN:* I did that last night. I looked in my dictionary last
+night, your Honor, and it was the term as I understand it, applies to
+both male and female, and so that was my understanding, but we will
+discuss that.
+
+*THE COURT:* All right. Well, just a word of caution.
+
+*MS. CLARK:* It doesn't matter, your Honor. It is a personal attack that
+I thought all counsel was going to refrain from.
+
+*THE COURT:* Counsel, I'm cautioning him, so I don't think you need to
+add anything to it.
+
+*MS. CLARK:* I wanted to indicate to the Court that we gave a transcript
+to the Court.
+
+*THE COURT:* Yes.
+
+*MS. CLARK:* It was incomplete and it is--
+
+*MS. LEWIS:* On its way.
+
+*MS. CLARK:* --on its way.
+
+*THE COURT:* Okay. All right.
+
+*MR. HARMON:* Your Honor, just one other question. We are going to
+finish with Mr. Yamauchi first?
+
+*THE COURT:* Yes.
+
+*MR. HARMON:* And Mr. Sims is here. Is he assured that we will go
+through and he will be done tomorrow at noon, otherwise if--I don't know
+what Mr.--
+
+*THE COURT:* Let's see how far we get.
+
+*MR. SCHECK:* I don't know how much further we are going to get,
+but--particularly if we are going to argue that other issue. I'm
+beginning to get resigned.
+
+*THE COURT:* Which other issue?
+
+*MR. SCHECK:* The door opening issue.
+
+*THE COURT:* Let's assume that you get a positive ruling. That won't be
+presented with these witnesses.
+
+*MR. SCHECK:* Oh, no. I have some questions in regard to that in terms
+of this witness, his knowledge and things that are in those reports,
+absolutely.
+
+*MS. CLARK:* Your Honor, Mr. Scheck is seriously misinformed as to what
+this witness knows and could be inquired about.
+
+*MR. SCHECK:* I don't want to have this colloquy.
+
+*THE COURT:* I guess we will find out. All right. Let's have the jurors.
+
+*MS. CLARK:* Mr. Scheck is not going to be inquiring until the Court rules?
+
+*THE COURT:* He can inquire as to the state of Mr. Yamauchi's knowledge
+as of June 14th.
+
+*MS. CLARK:* Right.
+
+*THE COURT:* I mean, that has clearly been brought before the jury with
+the last several questions and answers.
+
+*MS. CLARK:* Sure. All right.
+
+*THE COURT:* The other matter, who knows.
+
+*MS. CLARK:* Yes.
+
+/(Brief pause.)/
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* All right. Thank you, ladies and gentlemen. Please be
+seated. Let the record reflect that all the jurors have now rejoined us.
+Good morning, ladies and gentlemen.
+
+*THE JURY: *Good morning.
+
+*THE COURT:* Mr. Yamauchi, would you resume the witness stand, please.
+
+/Collin Yamauchi, the witness on the stand at the time of the evening
+adjournment, resumed the stand and testified further as follows:/
+
+//*THE COURT:* All right. The record should reflect Mr. Collin Yamauchi
+is again on the witness stand undergoing direct examination by Mr.
+Harmon. Good morning, Mr. Yamauchi.
+
+*MR. YAMAUCHI:* Good morning.
+
+*THE COURT:* Sir, you are reminded that you are still under oath. And
+Mr. Harmon, you may conclude your direct examination.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*_DIRECT EXAMINATION (RESUMED) BY MR. HARMON _*
+
+*__MR. HARMON:* Mr. Yamauchi, I want to go back over a couple of details
+that we were in the process and you discussed yesterday and you may want
+to refer to your notes. We talked about your sketching out and counting
+out the number of swatches. Do you recall that?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Do you remember how many swatches were contained in
+each of the items?
+
+*MR. YAMAUCHI:* Of the ones that I analyzed?
+
+*MR. HARMON:* Yes.
+
+*MR. YAMAUCHI:* Yes. I have clear notes that I sketched out.
+
+*MR. HARMON:* Okay. Would you--would you look at those notes, because
+I'm going to ask you how many of each of those.
+
+*THE COURT:* Which page in your notes is this when you find it, Mr.
+Yamauchi?
+
+/(Brief pause.)/
+
+//*MR. SCHECK:* May I look, your Honor?
+
+*THE COURT:* Yes. I just asked him to tell us what page he is referring to.
+
+/(Brief pause.)/
+
+//*THE COURT:* I see it is the same page we saw yesterday.
+
+*THE COURT:* All right. Proceed, Mr. Harmon.
+
+*MR. HARMON:* Okay. Starting in the order that you processed, these are
+the ones along the Bundy walkway, 52, how many swatches were in the coin
+envelope, or I'm sorry, the bindle for the stain envelope or the stain?
+
+*MR. YAMAUCHI:* Two.
+
+*MR. HARMON:* How many swatches were in the substrate control?
+
+*MR. YAMAUCHI:* One.
+
+*MR. HARMON:* And in 49, the next one in along the walkway, how many
+stain swatches were in this bindle?
+
+*MR. YAMAUCHI:* Six.
+
+*MR. HARMON:* How many swatches were in the substrate control?
+
+*MR. YAMAUCHI:* One.
+
+*MR. HARMON:* And item 50, how many swatches were in the stain?
+
+*MR. YAMAUCHI:* Four.
+
+*MR. HARMON:* And how many swatches were in the substrate control bindle?
+
+*MR. YAMAUCHI:* One.
+
+*MR. HARMON:* Now, do these swatches vary in size?
+
+*MR. YAMAUCHI:* Yes, they do.
+
+*MR. HARMON:* And your sketches actually reflect the different sizes or
+the relative differences?
+
+*MR. YAMAUCHI:* Very approximate.
+
+*MR. HARMON:* Okay. 48, how many swatches were in the stain bindle?
+
+*MR. YAMAUCHI:* Two.
+
+*MR. HARMON:* And how many swatches were in the substrate control bindle?
+
+*MR. YAMAUCHI:* There was one.
+
+*MR. HARMON:* 47, how many swatches were in the stain bindle?
+
+*MR. YAMAUCHI:* Eight.
+
+*MR. HARMON:* How many swatches were in the substrate control?
+
+*MR. YAMAUCHI:* One.
+
+*MR. HARMON:* And 41, how swatches were in the stain bindle?
+
+*MR. YAMAUCHI:* Four.
+
+*MR. HARMON:* And how many swatches were in the substrate control bindle?
+
+*MR. YAMAUCHI:* One.
+
+*MR. HARMON:* 42, how many swatches were in the stain bindle?
+
+*MR. YAMAUCHI:* Six.
+
+*MR. HARMON:* And how many swatches were in the substrate control bindle?
+
+*MR. YAMAUCHI:* One.
+
+*MR. HARMON:* Okay. I want to go back to the first DQ-Alpha run that you
+testified about, the results that you produced, and one of the stains
+and substrate controls that we did not discuss yesterday was 47 and the
+47 substrate control. Do you recall that?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did you, as a result of the PCR DQ-Alpha testing in this
+case, did you produce typeable results from that substrate control, a
+reportable result?
+
+*MR. YAMAUCHI:* On item no. 47?
+
+*MR. HARMON:* Yes. Maybe you ought to start out with did you get a C dot
+on that stain or on that strip?
+
+*MR. YAMAUCHI:* Well, let me refer to that particular note.
+
+*MR. HARMON:* Sure.
+
+/(Brief pause.)/
+
+//*MR. YAMAUCHI:* No C dot.
+
+*MR. HARMON:* Okay. And as a result of not having a C dot are you able
+to report a result, typeable result from that strip?
+
+*MR. YAMAUCHI:* No, I don't report one out.
+
+*MR. HARMON:* Okay. And what about the substrate control, was that
+processed in the sequence that you described yesterday?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And did that produce a typeable result?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* And let's shift to another stain that was in that
+sequence, item 42 that was processed, that was one of the potential
+reference samples that was provided to you?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did that produce a typeable result?
+
+*MR. YAMAUCHI:* No, it did not.
+
+*MR. HARMON:* Okay. Is that because of another thing with the C dot?
+
+*MR. YAMAUCHI:* Yes. Once again, the C dot was very weak.
+
+*MR. HARMON:* And when you see whatever you saw in that, how do you
+report that? As inconclusive?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Was the substrate control for 42 also processed in
+the sequence of events?
+
+*MR. YAMAUCHI:* Yes, it was.
+
+*MR. HARMON:* Okay. Did you produce a typeable result on that?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Okay. What does it mean when you don't get a C dot?
+
+*MR. YAMAUCHI:* Well, the C dot is something that the manufacturer had
+to design, because after all, they are the ones that are making these
+strips and balancing out the correct amounts of components in them so
+that we can interpret this and give results and make conclusions on
+them. So they have designed and balanced the C dot in there to help us
+have an indication of where the reliability is. Now, if we know there is
+a C dot and it is distinct, then we can reliably make--draw conclusions
+as to the results we get and that is why they have this developed within
+their system, to help us, the analysts, make these decisions.
+
+*MR. HARMON:* Okay. I believe when we closed yesterday you described
+some of the records that you kept in this first DQ-Alpha run, and one of
+the items that you had described was the DNA electrophoresis record, the
+product gel?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And also a three-page document that is called "Serology
+case work summary sheet"?
+
+*MR. YAMAUCHI:* Serology--yes.
+
+*MR. HARMON:* And just to go back or touch bases on where we left off
+yesterday, you had described the three-page serology case work summary
+sheet as a summary sheet of information derived from other records?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And did you make some sort of misnumbering error
+when you filled out the summary sheet?
+
+*MR. YAMAUCHI:* Yes, I did.
+
+*MR. HARMON:* And can you describe that error, please.
+
+*MR. YAMAUCHI:* Well, we take our records by assigning number runs to
+each of the major steps in our analysis, and then in order, so that
+later on if we are asked questions or we need to access some
+information, we take these number runs and we put them all on to one
+reference sheet. And in that reference sheet, I didn't catch this
+before, but I made an error and I wrote down 60 instead of the actual 61
+run which is written on my sheets that I keep--keep with my analysis.
+
+*MR. HARMON:* Okay. In a moment I will have these marked. May I have
+marked as, excuse me, your Honor, People's 282 for identification a
+three-page document that is entitled "Serology case work summary sheet"
+and the next line says "DNA analysis."
+
+*THE COURT:* All right. So marked, 282.
+
+/(Peo's 282 for id = work sheet)/
+
+/(Discussion held off the record between Defense counsel.)/
+
+//*MR. HARMON:* And then as People's exhibit 283, a sheet entitled "DNA
+electrophoresis record product gel, it is page l-175. May I write those
+numbers on the face of those, your Honor?
+
+*THE COURT:* You may.
+
+*MR. HARMON:* Thank you.
+
+/(Peo's 283 for id = DNA record product gel)/
+
+//*MR. SCHECK:* Your Honor, I have an entireties okay.
+
+*THE COURT:* I'm sorry?
+
+*MR. SCHECK:* Entireties objection.
+
+*THE COURT:* 356 objection?
+
+*MR. SCHECK:* Yes.
+
+*THE COURT:* That is what that is.
+
+*MR. SCHECK:* Yes.
+
+*THE COURT:* All right. Overruled. I mean, you are the adverse party.
+
+*MR. HARMON:* Mr. Yamauchi, let's--I just want to show you what has been
+marked as 282 for identification. Is this the summary sheet that you
+made that numbering error on?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Showing you 38. 283 for identification, is this the sheet
+that had the actual numbers that you wrote when you did the work in this
+case?
+
+*MR. YAMAUCHI:* The product gel?
+
+*MR. HARMON:* The amplification number, yeah. Does that have the correct
+numbers on it?
+
+*MR. YAMAUCHI:* Oh, yes, down this amp tube row, that would be the
+correct number, but there is another sheet for the amplification itself
+that has the number on it.
+
+*MR. HARMON:* Does 283 have the correct number as well?
+
+*MR. YAMAUCHI:* Yes, it does.
+
+*MR. HARMON:* Okay. Could we put 283 on the elmo, your Honor?
+
+*THE COURT:* Yes.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Mr. Yamauchi, could you refer to the column that has the
+correct number on it on 283.
+
+*MR. YAMAUCHI:* Where it says "Amp tube," down that row, that would show
+the series--the amplification series 61.
+
+*MR. HARMON:* And when you say amplification series, can you tell us
+what those numbers mean and why they are in that sequence?
+
+*MR. YAMAUCHI:* Sure. Certainly. We--in order to organize our work, the
+extraction process gets a particular number. In this case the extraction
+would have been the extraction no. 84 and that follows the list of all
+those numbers down. And then in the amplification, the part that I
+talked about where we are putting the thing in the tubes, the actual
+machine, the thermocycler, that gets another number assigned to it for
+each amplification that is done. In this particular case amplification
+no. 61 was the one that was assigned.
+
+*MR. HARMON:* Okay. Under the column item number where it has
+"84-184-2," are those the correct numbers?
+
+*MR. YAMAUCHI:* For the extraction, yes.
+
+*MR. HARMON:* Okay. Can we put just the first sheet of exhibit 282 up
+there, your Honor. This is the serology case work summary sheet.
+
+*THE COURT:* Yes.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Okay. Mr. Yamauchi, can you direct us to the column with
+you made the numbering mistake?
+
+*MR. YAMAUCHI:* Okay. That would be under--I'm going to look at my own copy.
+
+*MR. HARMON:* Sure.
+
+*MR. YAMAUCHI:* /(Witness complies.)/ Where it says "Amp number" that
+series, that 60 dash should all indicate 61.
+
+*MR. HARMON:* Okay. So you made a numerical mistake?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* When did you--when did you actually fill out the serology
+case work summary sheet that we are looking at here?
+
+*MR. YAMAUCHI:* Usually this particular sheet or set of sheets for the
+sample is filled out after the analysis is completed. It is used, as I
+said before, as something to give us a quick reference.
+
+*MR. HARMON:* Okay. Does the sheet on the left-hand column--can you move
+that over a little bit where it says "EX" and the number sign--does that
+have the correct numbers for the individual items?
+
+*MR. YAMAUCHI:* For the extraction, yes, it does.
+
+*MR. HARMON:* Okay. And have you--does--does this misnumbering mistake
+in any way undermine the results that you have described to this jury?
+
+*MR. SCHECK:* Objection, calls for a conclusion.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* No, it doesn't. Like I said before, this is just a sheet
+that we make afterwards to reference the information, to give us an
+easier time in looking up stuff.
+
+*MR. HARMON:* And is there actually some other case that has
+amplification no. 60-1 down the line?
+
+*MR. YAMAUCHI:* Yes, there is.
+
+*MR. HARMON:* And have you actually looked to see if there is such
+another case?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And is it different than this case?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Thanks, Mr. Yamauchi.
+
+*MR. HARMON:* Okay. Mr. Yamauchi, you told us yesterday you went home or
+you checked out shortly after eight o'clock at night on June 14th. Do
+you recall about what time you got to work on the 15th?
+
+*MR. YAMAUCHI:* Probably around 7:00 to 7:30, somewhere in there.
+
+*MR. HARMON:* Okay. When you went home that night did you have any idea
+whether or not there was going to be additional work for you to do on
+this case on June 15th?
+
+*MR. YAMAUCHI:* No, I wasn't.
+
+*MR. HARMON:* Okay. When you got in, did you learn otherwise?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. What was your first contact on June 15th, the next
+day, with respect to this case?
+
+*MR. YAMAUCHI:* I believe I talked to Mr. Matheson.
+
+*MR. HARMON:* Where did you have that conversation?
+
+*MR. YAMAUCHI:* That would be in serology.
+
+*MR. HARMON:* Okay. Do you recall if anybody else was there?
+
+*MR. YAMAUCHI:* Well, eventually Philip Vannatter.
+
+*MR. HARMON:* Okay. And where did you meet Mr. Vannatter or Detective
+Vannatter?
+
+*MR. YAMAUCHI:* As I recall it was in serology also.
+
+*MR. HARMON:* Okay. Did you have a conversation with Mr. Matheson about
+this case?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. What conversation did you have?
+
+*MR. YAMAUCHI:* To the best of my recollection it had to do with, "Yes,
+well, Dennis has some more samples for you and Detective Vannatter has
+some exemplars."
+
+*MR. HARMON:* When you say "Exemplars," you mean reference samples?
+
+*MR. YAMAUCHI:* Yes, I do.
+
+*MR. HARMON:* Did you get those reference samples from Detective Vannatter?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Can you describe the condition they were in when he gave
+them to you?
+
+*MR. YAMAUCHI:* In the regular Coroner's sample they would be in the
+purple-cap tubes in gray envelopes.
+
+*MR. HARMON:* Okay. Did they have Coroner's numbers on them?
+
+*MR. YAMAUCHI:* I will have to refer to my notes.
+
+*MR. HARMON:* Sure. Did you write that sort of information down in your
+notes?
+
+*MR. YAMAUCHI:* Umm, most likely I did. I will have to check.
+
+*MR. HARMON:* Okay. Would you do that?
+
+*MR. YAMAUCHI:* /(Witness complies.)/ actually, according to my notes--I
+said they were in gray envelopes. According to my notes they were in a
+manila envelope and contained one purple-cap tube, "Brown, Simpson,
+Nicole, 94-05136" and that is what was on the tube.
+
+*MR. HARMON:* Okay. That was Nicole Brown Simpson's reference sample?
+
+*MR. YAMAUCHI:* Right. And then another sample, one purple-cap tube,
+"Goldman, Ronald, 94-05135."
+
+*MR. HARMON:* Other than receiving the tubes from Detective Vannatter,
+did you have any other conversation with him?
+
+*MR. YAMAUCHI:* Nothing that stands out in my mind.
+
+*MR. HARMON:* Okay. Did you do anything with those tubes in the analyzed
+evidence envelopes?
+
+*MR. YAMAUCHI:* They were used to make the same exemplar swatch cards.
+
+*MR. HARMON:* And where did you do that?
+
+*MR. YAMAUCHI:* In the serology unit.
+
+*MR. HARMON:* And why did you do it in the serology unit?
+
+*MR. YAMAUCHI:* Well, generally speaking, that is where I'm used to
+doing my work.
+
+*MR. HARMON:* Is that where you were when you received them?
+
+*MR. YAMAUCHI:* Yes, it was.
+
+*MR. HARMON:* Okay. Did you prepare those fitzco cards again?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did you prepare them in the same manner that you prepared
+Mr. Simpson's fitzco card the day before?
+
+*MR. SCHECK:* Objection, your Honor.
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. HARMON:* How did you prepare them in comparison with how you
+prepared Mr. Simpson's reference card the day before?
+
+*MR. YAMAUCHI:* Basically the same technique was used.
+
+*MR. HARMON:* You wore gloves?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did you change gloves between preparation of each of the
+fitzco cards?
+
+*MR. SCHECK:* Objection, objection, leading.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* What did do you with respect to your gloves between
+preparing each of the fitzco cards?
+
+*MR. YAMAUCHI:* Well, as I explained earlier, when you are dealing with
+blood tubes, it--it is highly likely you are going to get blood on them,
+so I changed my gloves between doing these blood tube exemplars.
+
+*MR. HARMON:* And yesterday you described putting a chem-wipe over the
+top of the tube when you--
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Overruled.
+
+*MR. HARMON:* --when you took the cap off. Do you remember that?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did you do that with both of these?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Overruled.
+
+*MR. HARMON:* Were the gray analyzed envelopes sealed when they were
+given to you?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Approach the side bar with the reporter, please.
+
+/(The following proceedings were held at the bench:)/
+
+//*THE COURT:* All right. We are over at the side bar. Counsel, do you
+have a case cite in California Evidentiary Law that states that that
+question, or the one before it, posed by Mr. Harmon is a leading
+question under the laws of evidence here in California?
+
+*MR. SCHECK:* Your Honor, I think a leading question is a question that
+suggests the answer, and I think that ordinarily, and I think the Court
+has noted that it has been my conduct during the course of this trial
+that on areas that are foundational and that are not of in dispute or
+not of great importance, I don't make objections to leading and permit
+the kind of foundational leading that one would ordinarily expect. The
+fact is that the way that this analyst handled the reference tubes and
+what he knew to be the correct procedures I think is an important issue,
+and I think that what is going on here is that Mr. Harmon is asking
+questions that suggest answers that he did it the same way he did the
+other one, et cetera, instead of asking the witness how did you do it,
+which would be the non-leading way of doing it. He doesn't ask the
+witness the non-leading form of the question in what I consider an
+important area because he is afraid the witness won't on his own do it
+correctly, so that is the only--I mean, I understand the Court's concern
+that I seem to be objecting when he is saying, well, did you do it the
+same way you did it before, et cetera.
+
+*THE COURT:* Uh-huh.
+
+*MR. SCHECK:* But in this particular area with this witness on this
+issue it seems to me that the form of these questions are ones which are
+suggesting an answer.
+
+*THE COURT:* Mr. Harmon.
+
+*MR. HARMON:* Well, I mean when you say "Did you," there is two
+possibilities, yes or no, so you know, I'm just trying to move this
+along and get to the results to give Barry the floor so he can do
+whatever he wants with Mr. Yamauchi, but it is clear that those are
+ambivalent questions, ambiguous questions.
+
+*THE COURT:* These aren't close.
+
+*MR. HARMON:* Thanks.
+
+/(The following proceedings were held in open court:)/
+
+//*THE COURT:* All right. Thank you very much, counsel. Proceed.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* Mr. Yamauchi, what sort of instrument or tool did you use
+to draw the blood from the tubes in preparation of the fitzco cards?
+
+*MR. YAMAUCHI:* The pipette-man that I described yesterday.
+
+*MR. HARMON:* Okay. And did you change the tips as you described yesterday?
+
+*MR. YAMAUCHI:* Of course.
+
+*MR. HARMON:* What did you do with those cards after you put the blood
+on them?
+
+*MR. YAMAUCHI:* They were laid out to dry along the edge of the hood
+system I have at the edge of my work station.
+
+*MR. HARMON:* And what kind of hood is that?
+
+*MR. YAMAUCHI:* I'm not sure.
+
+*MR. HARMON:* Did you, before--let's talk about one of these samples at
+a time. Did Nicole Brown Simpson's reference sample, which you've
+described as Coroner's no. 94-05136, was that ultimately assigned an
+evidence item number?
+
+*MR. YAMAUCHI:* Yes, it was.
+
+*MR. HARMON:* What was that?
+
+*MR. YAMAUCHI:* Item no. 59.
+
+*MR. HARMON:* And the same question with respect to Ronald Goldman's
+reference sample, what item was that given?
+
+*MR. YAMAUCHI:* That would be item no. 60.
+
+*MR. HARMON:* When you first observed Nicole Brown Simpson's reference
+sample, which was item no. 59, did you make any specific notation of how
+much blood was in there?
+
+*MR. YAMAUCHI:* No. I--I would have noted whether or not it is an ample
+amount.
+
+*MR. HARMON:* Okay. Have you ever noted how much blood, I mean, recorded
+how much blood was in a reference sample that was provided to you, when
+you first saw it, in your career?
+
+*MR. YAMAUCHI:* Something accurate, no.
+
+*MR. HARMON:* Okay. The same question with respect to Ronald Goldman's
+reference sample. Did you make any notation of how much blood was in
+that tube before you drew any to prepare the fitzco card?
+
+*MR. YAMAUCHI:* Once again, I wrote "Ample" down indicating to me that
+scientifically there was enough there for us to do our analyses.
+
+*MR. HARMON:* Okay. How much blood did you withdraw from item no. 59,
+the reference sample from Nicole Brown?
+
+*MR. YAMAUCHI:* Well, I don't have it in my notes, but once again, going
+by what my normal procedure is, I would have probably drawn up
+approximately one ml.
+
+*MR. HARMON:* Okay. And as you described yesterday with Mr. Simpson's
+reference sample, when you prepared the fitzco card, do you have a
+specific notation in there as to how much you put on the card for the
+one for Nicole Brown?
+
+*MR. YAMAUCHI:* No, but once again, it is approximately 200 microliters
+or so.
+
+*MR. HARMON:* Do you recall if there was any--any of the blood left in
+the pipette tip when you disposed of it?
+
+*MR. YAMAUCHI:* I don't recall. If there was, once again, my practice is
+not to put that back into the tube, but to dispose of the tip with the
+excess blood.
+
+*MR. HARMON:* All right. And how much--do you have a specific
+recollection of how much you put on the reference--on the fitzco card
+for Mr. Goldman?
+
+*MR. YAMAUCHI:* Once again, approximately one ml would be my standard
+practice.
+
+*MR. HARMON:* And same question about the tip. Do you specifically
+recall whether there was anything left in that disposable tip?
+
+*MR. YAMAUCHI:* No, I do not.
+
+*MR. HARMON:* And did you follow your practice, and if there was, not
+put it back in the tube?
+
+*MR. YAMAUCHI:* That's correct.
+
+*MR. HARMON:* Now, just to jump ahead for a second. When these cards are
+dry are they handled or stored in any different way--in any way
+different than the tubes are?
+
+*MR. YAMAUCHI:* They are--well, they have a separate pouch that--that is
+made by the manufacturer that actually stores these--these blood
+swatches, and in them they have a desiccant. That is something that
+allows things to stay dry, kind of like you might find in a pack of
+vitamins, it is very similar, and that is stuck in along with the blood
+swatch in this foil-lined envelope and that is how that is stored.
+
+*MR. HARMON:* Where does it end up?
+
+*MR. YAMAUCHI:* That would be frozen.
+
+*MR. HARMON:* What about the tubes, where are the tubes or how are the
+tubes stored?
+
+*MR. YAMAUCHI:* Well, the tubes, after the analysis and everything, it
+is eventually frozen, too.
+
+*MR. HARMON:* Okay. And when you were finished making your preparations
+for the fitzco card, what did you do with those tubes?
+
+*MR. YAMAUCHI:* Finished--
+
+*MR. HARMON:* You made the fitzco card, you have the tubes. What did you
+do with those tubes?
+
+*MR. YAMAUCHI:* The--I would have been doing extracts? Is that what you
+mean?
+
+*MR. HARMON:* No. Where did the tubes end up?
+
+*MR. YAMAUCHI:* You mean after I was done with the extract and everything?
+
+*MR. HARMON:* After you made the filter cards?
+
+*MR. YAMAUCHI:* Well, I would have made the filter cards before I went
+to go sample the tubes and then put the evidence into the tubes, so they
+wouldn't have been--there wouldn't have been tubes yet.
+
+*MR. HARMON:* Okay. Do you recall giving those tubes to Mr. Fung at any
+point?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* Would it help to refresh your recollection to look at your
+those with regard to what you did with those tubes that morning?
+
+*THE COURT:* When you said "Tubes" are we talking tubes, vials? What we
+are talking about.
+
+*MR. HARMON:* The vial of blood, 59 and 60?
+
+*MR. YAMAUCHI:* I'm sorry. I understand now. I thought you were
+referring to the microcentrifuge tubes. Okay. The vials of blood were
+taken over to Mr. Fung.
+
+*MR. HARMON:* Do you have a specific notation in your records about that?
+
+*MR. YAMAUCHI:* Yes, I do.
+
+*MR. HARMON:* Do you recall what time it was you gave them to Mr. Fung?
+
+*MR. YAMAUCHI:* About 9:25 on the 15th of June.
+
+*MR. HARMON:* And where did you give--where were you when you gave those
+tubes or the reference vials to him?
+
+*MR. YAMAUCHI:* I gave them to him in the evidence processing room.
+
+*MR. HARMON:* Okay. Now, the--does the evidence processing room have a
+similar log that records when you put your badge up to the censor?
+
+*MR. YAMAUCHI:* Yes. Our access cards are recorded somewhere in the lab
+through a computer system.
+
+*MR. HARMON:* At some time soon after you gave those reference samples
+that were in the tubes to Mr. Fung, did you have a conversation with him
+about other evidence items that he had collected?
+
+*MR. SCHECK:* Objection, leading as to--
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* Did you have any conversation with Dennis Fung soon after
+you gave him those reference samples?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* Did you talk to Dennis Fung at any time after you gave him
+the reference samples?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. When was that?
+
+*MR. YAMAUCHI:* Well, sometime after that we would have discussed what
+the evidence items were that he would have had for me to sample.
+
+*MR. SCHECK:* Objection, move to strike; speculation.
+
+*THE COURT:* Overruled.
+
+*MR. HARMON:* And which items did you discuss with Mr. Fung?
+
+*MR. SCHECK:* Objection, hearsay.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* Did you process the items that you discussed with Mr. Fung?
+
+*MR. SCHECK:* Objection, leading. Assumes a fact not in evidence.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* What items did you process after your conversation with
+Mr. Fung?
+
+*MR. YAMAUCHI:* No. 33, no. 23, no. 25, no. 31, no. 34, no. 12 and no. 14.
+
+*MR. HARMON:* And why did you process those items?
+
+*MR. YAMAUCHI:* Because it was discussed with Dennis Fung and he--that
+was his suggestion--
+
+*MR. SCHECK:* Motion, move to strike any hearsay that might follow from
+this conversation.
+
+*THE COURT:* Overruled. It is not hearsay. Offered for a limited purpose
+only, to explain the conduct after that was said. Proceed.
+
+*MR. SCHECK:* Up to this time, what he may say next.
+
+*THE COURT:* Proceed. Ask your next question.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* So you processed 33, 23, 25, 31, 34, 12 and 14?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And how many of those had substrate controls along with them?
+
+*MR. YAMAUCHI:* 33 did not, 23 did have a control, 25 had two control
+swatches, 31 had one control swatch, 34 had one control swatch, 12 had
+one control swatch and 14 had one control swatch.
+
+*MR. HARMON:* Okay. Mr. Yamauchi, let's go back then and talk about how
+many swatches, excuse me, were within each of the stain items in those
+various same samples--you made the same kind of notation and record
+about the sampling process as you did on the run that you did on the 14th?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And if it would help to look at your notes to
+refresh your recollection, let's take them item by item, describe the
+number of swatches. May I supplement that with one more thing and
+describe how much you removed for your own sampling?
+
+*MR. YAMAUCHI:* Okay. On 33, that was--that was something that was
+removed from a shoeprint on a piece of carpet by Dennis Fung and was
+kind of a glump of material and I used that piece of sample for my analysis.
+
+*MR. HARMON:* That is the one with no substrate control?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Next sample?
+
+*MR. YAMAUCHI:* And then no. 23 there were two what appears to be small
+cloth swatches and I used one of those for my analysis. And on no. 25
+there is a test-tube with cloth swatches in it and I have here written
+"Carpet fibers" with two groups of material and one of those was sampled
+for analysis. And then on 31 there is test-tube with cloth swatches, and
+there was one swatch in it, and I sampled half of that for analysis. On
+34, again test-tube with cloth swatches, and there was one swatch in it,
+and I sampled that for analysis. And on no. 12, in a paper bindle, there
+is 1, 2, 3, 4, 5, 6, 7, 8--8 pieces and I sampled one of those pieces
+for analysis. And on no. 14 there is one small piece of swatch or some
+type of transfer material and I used that entire sample up for analysis.
+
+*MR. HARMON:* Now, you have described--just in describing those items,
+you have described some of them were in tubes?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And some of them were in paper bindles?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Now, are you familiar with the drying process that
+Mr. Fung uses to dry wet swatches?
+
+*MR. YAMAUCHI:* Yes, I understand how it works.
+
+*MR. HARMON:* And based on your familiarity with his drying process,
+what is the significance of seeing those things in the tubes that morning?
+
+*MR. SCHECK:* Objection, calls for speculation.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Well, Mr. Fung tends to dry his swatches in test-tubes,
+and that would have been the stage at which this would have taken place.
+
+*MR. HARMON:* Okay. And then what about the two that were in the bindles
+already, 12 and 14?
+
+*MR. YAMAUCHI:* Those would--
+
+*MR. SCHECK:* I think--did he say tubes? I'm sorry. Did you mean--
+
+*THE COURT:* Rephrase the question.
+
+*MR. HARMON:* You have described no. 12, the substrate, the stain and
+substrate control, and 14, the stain and substrate control, as having
+been in bindles. What is the significance of that?
+
+*MR. YAMAUCHI:* Okay. Then I would assume he took the tubes.
+
+*MR. SCHECK:* Excuse me. Motion to strike what he assumes.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* What is the significance of the fact that they are already
+in bindles?
+
+*MR. SCHECK:* Objection, calls for speculation.
+
+*THE COURT:* "Significance" doesn't. What point in the process is this?
+
+*MR. YAMAUCHI:* They would have been dried and placed into the bindles.
+
+*MR. SCHECK:* Motion to strike as to what would have happened.
+
+*THE COURT:* Overruled.
+
+*MR. HARMON:* Now, did you sample the stains and substrate control in
+the same manner that you sampled the stains and substrate control on
+June 14th?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* What manner did you sample the stains and substrate
+controls that you just described; 33, 23, 23 control, 25, 25 control,
+31, 31 control, 34, 34 control, 12, 12 control, 14, 14 control?
+
+*MR. YAMAUCHI:* I would have utilized the same handling proceedings and
+techniques that I did on the previous day.
+
+*MR. HARMON:* Same precautions?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Same reasons?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did you have more than one coin envelope at a time during
+the sampling process on June 15th?
+
+*MR. SCHECK:* Objection, leading.
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* You did ever open more than one coin envelope at a time?
+
+*MR. YAMAUCHI:* You said "Never."
+
+*MR. HARMON:* I said ever. Let's get it--
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Okay. After you sampled all of these items in the manner
+that you sampled the items the day before, what did you do with them?
+
+*MR. YAMAUCHI:* The--after the sampling was done, the rack of
+microcentrifuge tubes would have been carried back to the serology unit
+for further analysis.
+
+*MR. HARMON:* Now, when--strike that. Did you take any samples from 59
+and 60, the two fitzco--strike that. Did you take any cuttings for the
+PCR processing for the two fitzco cards that you've described you made
+earlier that morning?
+
+*MR. SCHECK:* Object to this form of question as leading.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Yes, I did.
+
+*MR. HARMON:* And when did do you that in the sequence of events?
+
+*MR. YAMAUCHI:* I would have sampled those after I got back to the
+serology unit.
+
+*MR. HARMON:* Will you describe the manner in which you sampled those
+two cards?
+
+*MR. YAMAUCHI:* It would have been done in the same fashion as I had
+described for the day before for the other sample card.
+
+*MR. HARMON:* Using the same safeguards?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* At some point, after sampling the two fitzco cards from 59
+and 60, did you begin the PCR process?
+
+*MR. YAMAUCHI:* I would have done the extraction, yes.
+
+*MR. HARMON:* In the same manner you described yesterday concerning the
+run that you did on June 14th?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* In what order did you perform the extraction on these samples?
+
+*MR. YAMAUCHI:* Again, in reference to my extraction record, I have
+listed item no. 23, red stain and then control, item no. 25, red stain
+and then control, item no. 31, red stain and then control, item no. 33,
+red stain, item no. 34, red stain, item no. 34 control, item no. 12, red
+stain, item no. 12 control, item no. 14, red stain, item no. 14 control,
+and then blood exemplar, Coroner's blood exemplar, brown, Nicole--or
+brown, Simpson Nicole, and then again blood exemplar from the Coroner as
+Goldman, Ronald, and then there would be that positive control standard,
+blood standard, followed by the negative control cloth control.
+
+*MR. HARMON:* Now, why do you have the cuttings from the fitzco cards at
+the end of the line as you did in this case?
+
+*MR. YAMAUCHI:* Well, that--that was kind of the order that everything
+took place and for some reason I tend to keep my--my exemplars grouped
+at the end.
+
+*MR. HARMON:* Did you use the chelex extraction process once again?
+
+*MR. YAMAUCHI:* Yes, I did.
+
+*MR. HARMON:* And how long did it take? About the same length of time as
+it took the day before?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And after you performed the extraction process, what did
+you do next with regard to these samples?
+
+*MR. YAMAUCHI:* Well, after the extraction process I would have taken
+the extracts over to PAB where our other amplification lab is held at.
+
+*MR. HARMON:* Perform the amplification there in the manner you
+performed the amplifications the day before?
+
+*MR. YAMAUCHI:* Yes, I did.
+
+*MR. HARMON:* Same safeguards?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. After you performed the amplification, what did you do?
+
+*MR. YAMAUCHI:* After doing the amplification, then the next step would
+be the hybridization.
+
+*MR. HARMON:* Same manner you did the day before?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. SCHECK:* Your Honor, I just have a standing objection.
+
+*THE COURT:* Noted.
+
+*MR. HARMON:* Did you produce results from some of the samples that you
+processed on June 15th in the manner you have just described?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Before we discuss the typing results on the stains, did
+you produce any typing results from any of the substrate controls that
+you processed along with the stains in this case; 23 substrate control,
+25 substrate control, 31 substrate control, 34 substrate control, 12
+control and 14 control?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Did any of the other negative controls that you've
+described yesterday produce any typing results?
+
+*MR. YAMAUCHI:* The negative controls, no.
+
+*MR. HARMON:* Did--did the positive control perform the way it should
+have performed in this case?
+
+*MR. YAMAUCHI:* Yes. It was as expected.
+
+*MR. HARMON:* Mr. Yamauchi, I would like to talk about the results now,
+if we can.
+
+/(Discussion held off the record between the Deputy District Attorneys.)/
+
+//*MR. HARMON:* Your Honor, I would like to display for the jury at this
+time the Bronco photo and result boards which are respectively People's
+172 and People's 260.
+
+*THE COURT:* Proceed.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* Mr. Yamauchi, while we are getting set up with that, to
+move things along, can you tell the jury what typing result you produced
+from item no. 23 from the Bronco?
+
+*MR. YAMAUCHI:* 1.1, 1.2.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Mr. Yamauchi, could you step down and I'm going to ask
+you to look up on our result board for the Bronco automobile, People's
+260 for identification. And you got a 1.1, 1.2 in your typing?
+
+*MR. YAMAUCHI:* In no. 23?
+
+*MR. HARMON:* No. 23. Would you remove the cover under "PCR results" for
+item no. 23. Do you see it up there?
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* Is that the result that you obtained from the Bronco, the
+driver's door interior?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And from among the three reference samples that you typed,
+two on the 15th, Mr. Simpson on the 14th, whom is that result consistent
+with?
+
+*MR. YAMAUCHI:* Mr. Simpson.
+
+*MR. HARMON:* Okay. Could you remove the cover under the "Not excluded."
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* Okay. Did you produce any typing results from item no. 25,
+the driver's side carpet fiber?
+
+*MR. YAMAUCHI:* Yes, I did.
+
+*MR. HARMON:* What result was that?
+
+*MR. YAMAUCHI:* 1.1, 1.2.
+
+*MR. HARMON:* Could you remove the cover over 1.1, 1.2.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* And is that also consistent with Mr. Simpson?
+
+*MR. YAMAUCHI:* Yes, it is.
+
+*MR. HARMON:* And both of those results are inconsistent with Mr.
+Goldman and Nicole Brown?
+
+*MR. YAMAUCHI:* Yes. For this DQ-Alpha system.
+
+*MR. HARMON:* Sure. Could you remove the cover from over the "Not
+excluded" column.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* And did you produce any typing results from item 31?
+
+*MR. YAMAUCHI:* 31 is inconclusive.
+
+*MR. HARMON:* Okay. And in what regard?
+
+*MR. YAMAUCHI:* It contained what appeared to be somewhat of a mixture--
+
+*MR. SCHECK:* Motion to strike, your Honor, inconclusive, if he is going
+to go beyond the Court's ruling.
+
+*MR. HARMON:* Your Honor, maybe we do need to approach.
+
+*THE COURT:* All right.
+
+*MR. HARMON:* Out of caution.
+
+/(The following proceedings were held at the bench:)/
+
+//*THE COURT:* All right. We are over at the side bar. What is his
+answer going to be on this, Mr. Harmon?
+
+*MR. HARMON:* Well, this is why I was very clear before we started, but
+I think we should talk about this. There is a C dot there. There is a
+1.1, 1.2 that is more intense than the C dot. There is a 1.3, 4 that is
+less intense. It is a mixture and it is consistent with the same results
+that DOJ produced on it, but it is a totally different category and this
+is why I don't mind talking about it now, if you want to look at the
+user guide, but there is a C dot there and it is a mixture and it is a
+mixture that could be consistent with a whole bunch of other things.
+
+*THE COURT:* Mr. Scheck.
+
+*MR. SCHECK:* Well, this analyst in this laboratory called it an
+inconclusive and by definition not a reportable result and a result from
+which they can draw conclusions, and they weren't going to over it, so
+it seems to me that they shouldn't be putting inconclusives was up there
+when he says it is inconclusive and it is not even up on their board. So
+to be bringing up this data now seems to be improper and bad foundation
+by admission of the analyst himself.
+
+*MR. HARMON:* Before he got cut off he just said it was a mixture and he
+was going to tell you what the dots were a mixture of, so I mean, you
+know, I'm happy that he can speak for the whole scientific community,
+but he doesn't speak for them. This is evidence. There is a clear 1.1,
+1.2. I think we have got to stop pretending that things aren't there
+just because they don't want them to be. If the stuff--the fact that it
+is not on the board, none of these things are on the board. We are
+putting them up there as they come across, so unless he can refer to
+something in the user guide, if that is what we are operating on, let
+him show you where it is in the user guide, otherwise let's get moving.
+
+*MR. SCHECK:* Your Honor, we broached this subject at one point with Mr.
+Matheson where he--the point here is that where at least he puts in
+caveats here this lab called it inconclusive, they didn't report out a
+result based on their readings at the time, and so I don't understand
+how once it is an inconclusive and to the point where they couldn't even
+put it up on their board, they didn't put any notations on it, that it
+is now proper, relevant evidence with foundation for this jury. It
+doesn't make any sense.
+
+*MR. HARMON:* This is just like the EAP where you can describe the data
+and let the jury understand the significance. That if Mr. Scheck wants
+to cross-examine or bring in other scientists like Blake, let him have
+at it.
+
+*THE COURT:* All right. The objection is overruled.
+
+*MR. HARMON:* Thank you.
+
+/(The following proceedings were held in open court:)/
+
+//*THE COURT:* Thank you, counsel. Mr. Harmon, 10:30.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* Mr. Yamauchi, you had described that--is there a
+difference between reporting a typeable result and describing the
+observations that you made in the context of this PCR DQ-Alpha kit?
+
+*MR. YAMAUCHI:* Well, the science of it all, whatever comes up on the
+strips is there, and scientifically everything has significance, but
+once again, the control dot is there for a specific reason and that is
+to aid in interpretation of these dots, and so that is kind of a--kind
+of a paradox and I would put that on the legal end.
+
+*MR. HARMON:* Okay. You described before--a few minutes ago that what
+you observed on 31 was a mixture; is that correct?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* What did you actually see that led you to conclusion on
+item 31, the center console stain, that it was a mixture?
+
+*MR. YAMAUCHI:* Well, let me finish what I was about to say.
+
+*MR. HARMON:* Oh, sure.
+
+*THE COURT:* No, no, no.
+
+*MR. HARMON:* No.
+
+*THE COURT:* Ask the question. The questions have to be responsive.
+
+*MR. HARMON:* Sure.
+
+*MR. HARMON:* What did you see, and then I will ask you to explain it,
+what did you see on your strip results, your typing results, that led
+you to conclude that it was a mixture?
+
+*MR. YAMAUCHI:* Okay. It is written out 1.1, 1.2 with weak 1.3, 4, and
+there is a side note, "1.3 very weak."
+
+*MR. HARMON:* Okay. And are those results consistent with a mixture of
+the blood from Mr. Simpson, the Defendant, in this case, and Ronald Goldman.
+
+*MR. SCHECK:* Objection, move to strike.
+
+*THE COURT:* Sustained, foundation.
+
+*MR. HARMON:* From among the three reference samples in this case, are
+those results consistent with a mixture of any of the two reference samples?
+
+*MR. SCHECK:* Objection, move to strike.
+
+*THE COURT:* Foundation.
+
+/(Discussion held off the record between the Deputy District Attorneys.)/
+
+//*MR. HARMON:* If you would look up at the board there, if one were to
+mix the reference sample of Mr. Simpson with the reference sample of Mr.
+Goldman, what sort of mixture would you produce?
+
+*MR. YAMAUCHI:* Again, moving back into that C dot, and the reason why
+this was made inconclusive is because we saw some dots that were below
+the level of that C dot--
+
+*MR. SCHECK:* Objection. Move to strike as nonresponsive.
+
+*THE COURT:* The jury is to disregard the last answer. Mr. Yamauchi,
+please answer specifically the question that is posed to you by the
+attorney. The question was what do you get if you mixed Ronald Goldman's
+reference sample with Mr. Simpson's reference sample? What result would
+you get?
+
+*MR. YAMAUCHI:* Well, your Honor, part of this has to do with the levels
+that the blood would be mixed at like if one is a higher concentration.
+
+*THE COURT:* All right. The jury is to disregard that. And ask a
+different question, Mr. Harmon.
+
+*MR. HARMON:* If you were to mix whole blood reference samples from Mr.
+Goldman and Mr. Simpson, what mixture results would show up on a
+DQ-Alpha strip?
+
+*MR. SCHECK:* Objection, irrelevant.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Okay. If you were to mix those two blood samples, I
+would expect to see the represented alleles from both parties.
+
+*MR. HARMON:* And what would they be?
+
+*MR. YAMAUCHI:* Well, Mr. Simpson is 1.1, 1.2, and Mr. Goldman
+is--sorry, I just have to look this up to be sure--a 1.3, 1.4.
+
+*MR. HARMON:* All right. Now--
+
+*THE COURT:* Let's move on.
+
+/(Discussion held off the record between the Deputy District Attorneys.)/
+
+//*MR. HARMON:* Did you say 1.3, 4 or 1.3--
+
+*MR. YAMAUCHI:* I'm sorry, 1.3, 4.
+
+*MR. HARMON:* Okay. Thank you, Mr. Yamauchi. Item no. 33, which is on
+the carpet from the Bronco, were you able to produce my typeable results
+from that stain?
+
+*MR. YAMAUCHI:* No results.
+
+*MR. HARMON:* Item no. 34, on the driver's side, the wall on the outside
+of the--or the inside of the car, but to the out--toward the left side.
+
+*MR. YAMAUCHI:* Item no. 34 is a 1.1, 1.2.
+
+*MR. HARMON:* If you would, Mr. Yamauchi, could you put this cover
+to--just above or below the DOJ results on item 34.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* And would it appear to you your lab--you got the same
+results that DOJ did?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Item 12--your Honor, at this point I would like to put up
+exhibit 120 and the photo board for Rockingham or the rule board for
+Rockingham, exhibit 261.
+
+*THE COURT:* All right.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Your Honor, I have a correction. The interior photo
+board is the one we were looking for. That is exhibit 169.
+
+*THE COURT:* All right.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Mr. Yamauchi, let's talk about the type results that you
+obtained from item 12, which was inside Mr. Simpson's house on the
+wooden floor. What DQ-Alpha result did you get?
+
+*MR. YAMAUCHI:* On no. 12, 1.1, 1.2.
+
+*MR. HARMON:* That is consistent with Mr. Simpson?
+
+*MR. YAMAUCHI:* Yes, it is, for the DQ-Alpha system.
+
+*MR. HARMON:* And item 14 here from the master bathroom floor, what
+result did you get there?
+
+*MR. YAMAUCHI:* Will 1.1, 1.2.
+
+*MR. HARMON:* Okay. And lastly, in this series of tests, we mentioned
+yesterday what type you produced when you typed Mr. Goldman's reference
+sample from that fitzco card. Was--did you detect something in Mr.
+Goldman's blood about--that was somewhat inconsistent with the ultimate
+typing result?
+
+*MR. YAMAUCHI:* You mean--have would it help to look at your notes on that?
+
+/(Brief pause.)/
+
+//*MR. YAMAUCHI:* Observations straight from the strip 1.3, 4, and I
+also note a very faint 1.1.
+
+*MR. HARMON:* And is that--this very faint 1.1, is that something you
+are familiar with that is described in the user guide and scientific
+literature with respect to the DQ-Alpha system?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. HARMON:* Have you read about a typing result of the type that you
+saw in Mr. Goldman's reference sample in either the user guide or any of
+the scientific literature?
+
+*MR. SCHECK:* Objection, still leading.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Well, the user guide refers to what's known as
+cross-hybridization which in the 1 allele, and I don't want to get too
+complex, but basically what happens is on these particular 1 dots, quite
+often they are so similar that when you have enough DNA there, they will
+somewhat to a certain extent cross and hybridize with the wrong point,
+but it only leaves a very, very faint dot that is much less than the C
+dot and that is another function of the C got, to give us information
+like that.
+
+*MR. HARMON:* Okay. Are you familiar with the term DX Activity?
+
+*MR. YAMAUCHI:* Yes. Yes, I am.
+
+*MR. HARMON:* Does that have any relation to because observed, in Mr.
+Goldman's reference sample--
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Sustained.
+
+*MR. HARMON:* What if anything does DX Activity have to do with what you
+observed in Mr. Goldman's reference sample?
+
+*MR. YAMAUCHI:* DX is also another phenomenon and what that is is the
+DQ-Alpha is called a locus and what DX is is another locus from another
+gene that is very similar to DQ-Alpha and some people, but not all, may
+have this, and if they do, occasionally it can show up and it does
+hybridize to that 1.1 dot to a very slight extent, also again showing
+the significance of the C dot so that we can interpret our strips,
+because if these things show up, they are generally very, very low
+inactivity and they would be well beneath the level of the C dot.
+
+*MR. HARMON:* Okay. I forgot to have you remove the covers for item 14
+from the master bathroom floor. Would you remove the cover for the PCR
+results, 1.1, 1.2.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* And also the "Not excluded" column.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* Okay. You can have s seat again, Mr. Yamauchi.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* Mr. Yamauchi, did you calculate a frequency for the
+occurrence of the 1.1, 1.2 DQ-Alpha allele?
+
+*MR. YAMAUCHI:* Yes, approximate general population frequency.
+
+*MR. HARMON:* When you say "Approximate general population frequency,"
+what is that information based from or derived from?
+
+*MR. YAMAUCHI:* It is derived from known studies from the FBI, some from
+people at Roche and other reputable statistics, and that is approximated
+and weighted along with the general population for the county and
+specifically the city of Los Angeles.
+
+*MR. HARMON:* And what approximate percentage of the population--of the
+overall population that has a 1.1, 1.2 allele?
+
+*MR. YAMAUCHI:* Approximately 1 in 15 people.
+
+*MR. HARMON:* Okay. Could we--do you have a marker up there and we've
+got some--will you come up here and I would like you to mark that
+frequency on the Rockingham results board. Right behind the board there.
+
+*MR. YAMAUCHI:* Pardon me?
+
+*THE COURT:* Mr. Harmon, I'm a little leery of the dry erase markers,
+the permanence of them.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Why don't you write it up in the "Frequency" column.
+
+*MR. YAMAUCHI:* /(Witness complies.)/ for this one right here, right,
+/(Indicating)/.
+
+*MR. HARMON:* Okay. Would you, just to complete the balance here, would
+you put this LAPD item no. 12 result up on item no. 12 on the Rockingham
+result board.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* And that is a result that is consistent with what is
+reported up there from Cellmark, a 1.1, 1.2 for the DQ-Alpha marker?
+
+*MR. YAMAUCHI:* Yes, it is.
+
+*MR. HARMON:* Okay. You can have a seat now, Mr. Yamauchi.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* Just one last topic here before the--
+
+/(Discussion held off the record between the Deputy District Attorneys.)/
+
+//*MR. HARMON:* Before the break.
+
+*MR. HARMON:* Mr. Yamauchi, when did you perform the product gels in
+this case with respect to when you did the hybridization that produced
+the typing strips?
+
+*MR. YAMAUCHI:* The product gel was performed afterwards.
+
+*MR. HARMON:* When you say "Afterward," could you give us the dates when
+you ran the product gels for both of the PCR DQ-Alpha runs that you have
+just described to the jury?
+
+*MR. YAMAUCHI:* Okay. Referring to my notes. The 61 series is dated 6/16/94.
+
+*MR. HARMON:* Now, the 61 series was the run that was made on which date?
+
+*MR. YAMAUCHI:* The amplification was done on the 14th.
+
+*MR. HARMON:* Okay. And then with regard to the amplification that was
+done on the 15th, when did you do the product gel on that?
+
+*MR. YAMAUCHI:* That is dated the 17th.
+
+*MR. HARMON:* Okay. Thank you. Would this be a good time, your Honor?
+
+*THE COURT:* Ladies and gentlemen, I'm going to take our recess for the
+morning. Please remember my admonitions to you. Don't discuss the case
+among yourselves, form any opinions about the case, have any contact
+with anybody with regard to the case or conduct any deliberations until
+the matter has been submitted to you. And we will be in recess for
+fifteen. All right.
+
+/(Recess.)/
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* All right. Back on the record. All parties are again
+present. Let's have the jurors, please.
+
+*MR. HARMON:* Your Honor, just one housekeeping matter. I did not write
+the frequencies on the Bronco board. With the Court's permission, can we
+do that out of the presence of the jury? They are the same results.
+
+*THE COURT:* 1 in 15.
+
+*MR. HARMON:* Yes, your Honor.
+
+*THE COURT:* Mr. Scheck, any objection?
+
+*MR. SCHECK:* No. As a matter of fact, Mr. Harmon will tell you, I asked
+him to do it.
+
+*THE COURT:* All right. Sometime later today then we will clean that up.
+All right. Let's have the jury, please.
+
+/(Brief pause.)/
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* Thank you, ladies and gentlemen. Please be seated. The
+record should reflect we have been rejoined by all the members of our
+jury panel. Mr. Yamauchi, would you resume the witness stand, please.
+And Mr. Harmon, about how much do you have left?
+
+*MR. HARMON:* 35 minutes, your Honor.
+
+*THE COURT:* All right. Proceed.
+
+*MR. HARMON:* Mr. Yamauchi, I just want to make a point clear. When you
+took a sampling from all of the evidence items that you've described as
+having sampled for your PCR DQ-Alpha test in this case, did you consume
+all of whatever you sampled in the testing process?
+
+*MR. YAMAUCHI:* Not on every item. Most of the items I just used
+portions of.
+
+*MR. HARMON:* Okay. My question was vague then. The portions that you
+took, the portions that you took for your samplings, were those consumed
+in the testing process by you?
+
+*MR. YAMAUCHI:* Yes, they were.
+
+*MR. HARMON:* Okay. And--and whenever, as you've described them, once
+you took them and processed them in the way that you've described to
+this jury, none of those samplings or the cuttings that you made remained?
+
+*MR. SCHECK:* Objection.
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. HARMON:* Once you remove those items from the bindles and consumed
+them in testing, did those samples cease to exist?
+
+*MR. YAMAUCHI:* No, they don't cease to exist. They are in the extracts.
+
+*MR. HARMON:* Okay. But did they ever--did those extracts ever get sent
+out to any other laboratory?
+
+*MR. YAMAUCHI:* No, they did not.
+
+*MR. HARMON:* Did you prepare what's known as a Los Angeles Police
+Department analyzed evidence report describing the samples that you
+tested in this case?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And do you have that in front of you, Mr. Fung--or Mr.
+Yamauchi?
+
+*MR. YAMAUCHI:* Yes, I do.
+
+*MR. HARMON:* What date did you file that report on?
+
+*MR. SCHECK:* Can I see what he has?
+
+*THE COURT:* The analyzed evidence report. What is the date on it?
+
+*MR. YAMAUCHI:* Okay. The date I started was the 14th and the date that
+I finished was the 17th.
+
+*MR. HARMON:* What's the purpose of that report?
+
+*MR. YAMAUCHI:* To reflect the results of my testing and impart
+conclusions and so on and so forth.
+
+*MR. HARMON:* Okay. And have you detected any errors that you made in
+that--in the compilation of that report?
+
+*MR. YAMAUCHI:* Well, specifics in my notes say that no. 49 is six
+pieces when I first received it.
+
+*MR. HARMON:* Okay. Then in your report how did you describe it?
+
+*MR. YAMAUCHI:* It is listed as five.
+
+*MR. HARMON:* And do you remember what condition those swatches were in
+when you first observed them?
+
+*MR. YAMAUCHI:* Yes. Well, yes, I do, on that particular one.
+
+*MR. HARMON:* Well, could you describe that, please.
+
+*MR. YAMAUCHI:* There was two swatches stuck together and a number of
+other loose swatches.
+
+*MR. HARMON:* Okay. Did you actually receive all the items that you've
+listed on your analyzed evidence report on the same date?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* No, I did not.
+
+*MR. HARMON:* And does the report suggest that you did?
+
+*MR. YAMAUCHI:* No. It collectively includes the--the time frame from
+when I started it to when I finished.
+
+*MR. HARMON:* And you've already described to the jury when you received
+those items?
+
+*MR. YAMAUCHI:* Yes, and it is in my notes.
+
+*MR. HARMON:* Okay. Mr. Yamauchi, did you obtain the reference samples
+from Nicole Brown and Ronald Goldman and the Defendant on June 25th for
+some testing purpose?
+
+*MR. YAMAUCHI:* /(No audible response.)/
+
+*MR. HARMON:* Would it help to refresh your recollection to look at your
+notes for June 25th?
+
+*MR. YAMAUCHI:* Yes, please.
+
+*MR. HARMON:* Okay.
+
+*MR. YAMAUCHI:* /(Witness complies.)/ yes, that's correct.
+
+*THE COURT:* Proceed.
+
+*MR. HARMON:* And what was the purpose that you took possession of
+those--the three items, the Defendant's reference tube, the reference
+tube from Nicole Brown and reference tube from Ronald Goldman?
+
+*MR. YAMAUCHI:* To do conventional analysis on the reference samples.
+
+*MR. HARMON:* And do you actually have detailed notes of what you did
+with those samples on that date?
+
+*MR. YAMAUCHI:* Yes, I do.
+
+*MR. HARMON:* Okay. Let's start out with the sample from Nicole Brown.
+What was the purpose that you took that tube that day?
+
+*MR. YAMAUCHI:* That day it was taken out of property or ECU to do
+conventional analysis, as I previously stated.
+
+*MR. HARMON:* Were those items all sealed?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Yes, they were.
+
+*MR. HARMON:* In preparation for the testing that you were--that was
+about to be performed, what actions did you take with regard to Nicole
+Brown Simpson's reference sample?
+
+*MR. YAMAUCHI:* Well, some blood was removed from that tube to do an ABO
+analysis.
+
+*MR. HARMON:* How much did you remove from Nicole Brown Simpson's
+reference tube?
+
+*MR. YAMAUCHI:* In my notes I have listed approximately three-fourths of
+an ml or a milliliter.
+
+*MR. HARMON:* And when you say "Approximately," can you give us a range
+on how much you withdrew?
+
+*MR. YAMAUCHI:* Well, it--I guess it would be between a half ml and an ml.
+
+*MR. HARMON:* And use the same pipette-man?
+
+*MR. YAMAUCHI:* Yes, I do.
+
+*MR. HARMON:* When you withdraw it from the tube, what are you actually
+doing with it once it is in the pipette-man?
+
+*MR. YAMAUCHI:* It is being transferred to another microcentrifuge tube.
+
+*MR. HARMON:* How much can they hold in terms of liquid volume?
+
+*MR. YAMAUCHI:* They can hold up to about one and a half ml's.
+
+*MR. HARMON:* Do you recall whether you filled this one up all the way?
+
+*MR. YAMAUCHI:* No, I don't.
+
+*MR. HARMON:* Okay. Do you recall whether there was any left in the
+pipette-man, the disposable tip?
+
+*MR. YAMAUCHI:* I'm not sure, but if there was, once again, I would
+throw away that along with the tip.
+
+*MR. HARMON:* Did you make any--
+
+*MR. SCHECK:* Objection, move to strike.
+
+*THE COURT:* Overruled.
+
+*MR. HARMON:* How much did you take from Mr. Goldman's reference tube?
+
+*MR. YAMAUCHI:* Approximately a half an ml.
+
+*MR. HARMON:* Why did you take less from Mr. Goldman's reference tube
+than Nicole Brown Simpson's reference tube?
+
+*MR. YAMAUCHI:* Well, the way the pipette-man works is you press it and
+I usually have it set on one ml, that is the full volume that it can
+take up, and when you stick it into the blood vial, you allow your thumb
+to go up to pull in whatever you consider a suffer amount or what I
+considered a sufficient amount, and once I got to there, I stopped, put
+the tube in the rack, and then opened up my--my microcentrifuge and
+deposited it, so I don't always suck up the full volume that I
+potentially can in my pipette-man.
+
+*MR. HARMON:* And is there any reason to be precise in withdrawing blood
+in terms of the scientific tests that are about to be performed?
+
+*MR. YAMAUCHI:* Well, you need enough to do the ABO testing, and what I
+have listed there is sufficient.
+
+*MR. HARMON:* How much do you need?
+
+*MR. YAMAUCHI:* Well, approximately a half an ml or so to get a good
+separation of the blood.
+
+*MR. HARMON:* Okay. And how much blood do you recall withdrawing from
+the Defendant's reference tube?
+
+*MR. YAMAUCHI:* I wrote three-quarters of an ml, approximately that.
+
+*MR. SCHECK:* Let the record reflect--I'm sorry. Are you finished? The
+record reflect the witness was just looking at his--
+
+*THE COURT:* Yes.
+
+*MR. HARMON:* How accurate is three-quarters of an ml?
+
+*MR. YAMAUCHI:* Once again, it is just an approximation.
+
+*MR. HARMON:* Do you recall whether you filled up the microcentrifuge
+tube that you put Mr. Simpson's blood all the way?
+
+*MR. YAMAUCHI:* No, I don't.
+
+*MR. HARMON:* Make any notation of how much you put in there?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Let's shift, if you will, to July 20th, 1994. I want to
+ask you some questions about item no. 78, Ronald Goldman's shoes.
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Did you do some processing of Mr. Goldman's shoes on July
+20, 1994?
+
+*MR. YAMAUCHI:* Yes. I did an initial search to see what types of
+evidence would be on that item.
+
+*MR. SCHECK:* Excuse me, your Honor. He is looking at a note. May I
+approach?
+
+*THE COURT:* Yes.
+
+/(Brief pause.)/
+
+//*THE COURT:* Proceed.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* And ultimately did you swatch either of the shoes, Mr.
+Goldman's shoes, and in an attempt to remove some apparent evidentiary
+items?
+
+*MR. YAMAUCHI:* Yes, I did.
+
+*MR. HARMON:* Can you describe which shoe you swatched?
+
+*THE COURT:* Excuse me. Mr. Scheck, you are standing between the witness--
+
+*MR. SCHECK:* I know. I'm sorry. I just--
+
+*MR. HARMON:* Can you describe which shoe that you swatched and what you
+did?
+
+*MR. YAMAUCHI:* Okay. It was the left shoe and what I did was I did that
+preliminary screening test that I described earlier, the phenolphthalein
+test, and it came up positive in this particular area and there was a
+notable stain there, and that was transferred to a cotton cloth swatch.
+
+*MR. HARMON:* Okay. How much swatches?
+
+*MR. YAMAUCHI:* There are two in all.
+
+*MR. HARMON:* Okay. Can you describe their relative or respective sizes?
+
+*MR. YAMAUCHI:* One was approximately four times the size of the other.
+
+*MR. HARMON:* Okay. And did those swatches receive item numbers assigned
+to them at some point?
+
+*MR. YAMAUCHI:* Well, one of them was booked as item no. 174. That would
+be the smaller one. The other one was sent off to Cellmark.
+
+*MR. HARMON:* Okay. Was there a substrate control that you removed from
+78, the bottom of that left shoe?
+
+*MR. YAMAUCHI:* On that shoe I could not find an area near that stain,
+particular stain that was, umm--that would indicate there wasn't any
+blood there. In other words, that phenolphthalein test that I was
+telling you about came up positive in all the areas I checked near that
+stain, so I decided not to collect a control.
+
+*MR. HARMON:* Does that happen occasionally?
+
+*MR. YAMAUCHI:* Yes, it does.
+
+*MR. HARMON:* I want to shift to July 27th. Did you examine item no. 97,
+the underwear that Nicole Brown was wearing?
+
+*MR. YAMAUCHI:* No. 87?
+
+*MR. HARMON:* I believe it is 87.
+
+*THE COURT:* Did you say 97 or 87?
+
+*MR. HARMON:* I said 87.
+
+*THE COURT:* I heard 97.
+
+*THE REPORTER:* So did i.
+
+*THE COURT:* Have you figured 87 or 97?
+
+*MR. HARMON:* I said 87.
+
+*THE COURT:* All right. 87.
+
+*MR. HARMON:* Did you find your notes?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* 87?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. July 27?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Will you describe what you were looking for and what
+sorts of tests you performed in that regard?
+
+*MR. YAMAUCHI:* I did an acid phos--excuse me--acid phosphatase test and
+what that is a preliminary screening test for the presence of semen.
+
+*MR. HARMON:* And will you describe how you actually performed that test
+on an item such as the panties that were item no. 87?
+
+*MR. YAMAUCHI:* Well, we do what's called an AP map and what that
+involves is you take a piece of filter paper and you moisten that and
+allow the stain or the target area on the panties, or whatever item you
+are looking at, to transfer some of its components into the wet filter
+paper. Once that transfer is done, you take the filter paper aside and
+then you add the proper chemicals for this test. A purple color after
+approximately thirty seconds is indicative of the presence of semen.
+
+*MR. HARMON:* And what results did you obtain when you processed item
+87, Nicole Brown Simpson's underwear?
+
+*MR. YAMAUCHI:* All the AP tests were negative and semen was not detected.
+
+*MR. HARMON:* How many areas did you try to sample?
+
+*MR. YAMAUCHI:* There were basically three areas.
+
+*MR. HARMON:* Okay. Let's shift or August 4th, 1994, if you will. Did
+you examine item 13, a pair of socks that were found in Mr. Simpson's
+residence in the master bedroom?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Your Honor, may I have the plastic bag containing the
+socks marked as People's 284 for identification?
+
+*THE COURT:* All right. People's 284.
+
+/(Peo's 284 for id = bag w/ socks)/
+
+//*MR. HARMON:* Mr. Yamauchi, I'm going to ask you to open these. We
+will get you some gloves. And do you want to put some paper out there?
+You tell me.
+
+*MR. YAMAUCHI:* Please.
+
+*MR. HARMON:* Okay.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Do you need some paper?
+
+*MR. YAMAUCHI:* Do we have some paper?
+
+*MR. HARMON:* I don't know.
+
+*THE COURT:* I think Mrs. Robertson is getting some.
+
+*MR. HARMON:* We can use our pads here, your Honor.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Why don't you use one of the paper pad items.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* I'm sorry.
+
+*MR. HARMON:* Will you please open People's exhibit 284 which contains
+item 13, the socks.
+
+*MR. YAMAUCHI:* Okay. There is a plastic bag containing a white
+envelope. I am cutting into the plastic bag. I'm removing the white
+envelope.
+
+*MR. HARMON:* Mr. Yamauchi, before you open that, let me just ask you a
+couple of general questions. You've described the tests you performed on
+the panties. Did you, during the course of time from June 13th or June
+14th to August 4th--were there also numerous other items? You described
+Ronald Goldman's shoes that you examined during that time sequence?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* How was a decision made about what to examine and when to
+examine it?
+
+*MR. YAMAUCHI:* All the work that I did was through my supervisor, Greg
+Matheson.
+
+*MR. HARMON:* And how were those assignments communicated to you?
+
+*MR. YAMAUCHI:* Via Mr. Matheson.
+
+*MR. HARMON:* Okay. For example, were they communicated to you
+separately or all at once?
+
+*MR. YAMAUCHI:* All at different points and times.
+
+*MR. HARMON:* Okay. Why don't you go ahead and open up the paper
+envelope which contains item 13, the socks. Should we mark that
+separately, your Honor?
+
+*THE COURT:* No, envelope and contents is fine.
+
+*MR. HARMON:* Okay.
+
+/(Brief pause.)/
+
+//*MR. YAMAUCHI:* Okay. I'm now cutting into the white envelope. I'm
+removing a brown paper bag.
+
+*MR. HARMON:* Do you need some more room? Do you want us to move those--
+
+*THE COURT:* Mr. Yamauchi, why don't you put your notebook up on the
+ledge here.
+
+*MR. YAMAUCHI:* All right.
+
+*THE COURT:* Let's move that paper over because there is a false end there.
+
+/(Brief pause.)/
+
+//*MR. YAMAUCHI:* The latest seal on the envelope is a red seal. Appears
+to be Greg Matheson's initials and a signature and a serial number
+b8927. Under "Division," "Sid." "Date," it appears to be "4/21/95." I'm
+breaking the seal, red seal that I just described. Inside the brown
+paper bag is a white envelope. I have opened the white envelope and I'm
+removing a pair of black socks, dark navy blue, black.
+
+*MR. HARMON:* Is it hard to tell whether they are navy blue or black?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Well, for me it is.
+
+*MR. HARMON:* Okay. Mr. Yamauchi, I will ask you about your exam in a
+second. What were you asked to do with regard to item 13, the two navy
+blue or black socks that you've just opened up in court?
+
+*MR. SCHECK:* Objection as to time.
+
+*THE COURT:* Sustained. Rephrase the question. It is vague.
+
+*MR. HARMON:* When did you receive the assignment from Mr. Matheson to
+look at these socks?
+
+*MR. YAMAUCHI:* I don't have that information with me.
+
+*MR. HARMON:* Okay.
+
+*MR. YAMAUCHI:* It would have to be prior to the date that I analyzed
+it, along with some other items.
+
+*MR. HARMON:* Okay. What other items were you asked to look at?
+
+*MR. YAMAUCHI:* You know, at this time I don't have independent
+recollection of the grouping of items that were asked of me to analyze.
+Mr. Matheson might have notes as to what date he asked me and when he
+actually assigned myself and Sue Johnson or Sue Brockbank this task of
+looking through the items.
+
+*MR. HARMON:* Okay. Well, what other items did you look at? You've
+talked about 87 and 78. 87 is Nicole Brown Simpson's panties and 78 are
+Ronald Goldman's shoes. What other items had you already look at before
+you looked at the socks on August 4th?
+
+*MR. SCHECK:* Objection as to the time.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Well, there was a dress, a shirt, pants, socks. There
+were numerous items.
+
+*MR. HARMON:* Okay. And were those all items that you looked at over a
+period of time before you looked at the socks?
+
+*MR. SCHECK:* Objection, vague as to times.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And when Mr. Matheson gave you this assignment, did he
+tell you which order to look at these items in?
+
+*MR. YAMAUCHI:* No, he didn't.
+
+*MR. HARMON:* It was left up to you?
+
+*MR. YAMAUCHI:* When we--when we had time with our other case work and
+stuff.
+
+*MR. HARMON:* Okay. Looking at dark navy blue or black items like that,
+have you tried to look at an item like that, that is so dark to detect
+the presence of blood, in the past?
+
+*MR. YAMAUCHI:* Yes, I have.
+
+*MR. HARMON:* And what are the general steps that you use when you are
+trying to look to detect the possibility of blood on an item of that sort?
+
+*MR. YAMAUCHI:* Well, first and foremost, when examining evidence, you
+want to take a good visual look at it, and that just simply means taking
+it, holding it up under a good light, observing all sides and angles of
+it and trying to see if there are any types of discolorations or
+anything that could possibly be a stain, and that would be the first step.
+
+*MR. HARMON:* Is that the step you took with respect to the socks in
+this case, item 13?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And when you did hold them up in the way you just
+described, did you notice anything?
+
+*MR. YAMAUCHI:* There were a couple areas of discoloration.
+
+*MR. HARMON:* Do you have to refer to your notes to--that you made
+contemporaneous with this exam?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Why don't you do that.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*MR. HARMON:* Your Honor, shortly may we have the jury have an
+opportunity to view them? I'm not sure what the best place for that is,
+but maybe you can think about that while I go ahead with the next series
+of questions.
+
+*THE COURT:* Well, if I'm thinking about that, how am I going to listen
+to the testimony? Proceed.
+
+*MR. HARMON:* Okay. And can you tell one of those socks from the other
+by any sort of lettering or numbering, as you sit there today?
+
+*MR. YAMAUCHI:* They have what appears to be different individual's
+markings on the socks.
+
+*MR. HARMON:* And those markings were not on there when you examined
+them on August 4th?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Okay. Would you hold up, just pick either of those socks,
+if you would, and just show the jury how you examined them visually?
+
+*MR. YAMAUCHI:* Well, I can't pick up and show them. What I did was I
+laid them out flat and I carefully looked at--looked them over. I could
+hold it up to you, to the jury like this, /(Indicating)/.
+
+/(Discussion held off the record between the Deputy District Attorneys.)/
+
+//*MR. HARMON:* Your Honor, could we move this down in front of the
+jury? We will put the pad of paper up on top of the cart.
+
+*THE COURT:* I'm just wondering the quality of the view for everybody.
+All right. Let's move it down there and let's make sure everybody gets a
+close look. All right. Mr. Yamauchi, would you--actually, Mr. Harmon,
+would you come and grab the packaging materials first.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. And Mr. Yamauchi, would you transfer the socks
+on the paper, please.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*THE COURT:* All right. Mr. Yamauchi, why don't you remove the envelope
+from underneath the socks there so it lies flat.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*THE COURT:* Mr. Harmon.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* Mr. Yamauchi, would you just pick up whichever of those
+socks you feel and show the jury how you examined them?
+
+*MR. SCHECK:* Your Honor, this is all on August 4th?
+
+*MR. HARMON:* On August the 4th?
+
+*MR. YAMAUCHI:* Well, I laid them out flat, just like this, and I tried
+to take a good careful look at it and note any discolorations for a
+phenolphtalein test, and again that is that preliminary blood screening
+test I talked about earlier.
+
+*MR. HARMON:* Initially when you laid them out, did you notice any
+discolored areas?
+
+*MR. YAMAUCHI:* On one of the socks there was something towards the tow
+area that seemed like a discoloration and on the other sock I noticed
+something in the ankle area.
+
+*MR. HARMON:* What did it look like?
+
+*MR. YAMAUCHI:* Just looked like some light discoloration or difference
+in color between the rest of the sock.
+
+*MR. HARMON:* At that point did it look reddish in any way?
+
+*MR. YAMAUCHI:* I really wouldn't say reddish. It just seemed like a
+very subtle discoloration.
+
+*MR. HARMON:* And are those the only two areas of either of those socks
+that you noticed when you looked at them visually the first time?
+
+*MR. YAMAUCHI:* Well, to tell you the truth, what I did was I noticed
+those areas and then I did the phenolphthalein tests. They came up
+positive. I asked my supervisor. I told him, "I got two positive spots
+on them. Should I do anything else with it?" And he said, "No, that's
+it, close it up and we will decide what to do with it," I guess talk
+about it at administrative levels and stuff.
+
+*MR. HARMON:* Now, were those two positive phenolphthalein results on
+the same sock or different socks?
+
+*MR. YAMAUCHI:* One was on one sock and one was on the other.
+
+*MR. HARMON:* Did you mark the socks in any way?
+
+*MR. YAMAUCHI:* I may have initialed it, but on something like
+this--well, actually, I initialed the sock on the inside up here,
+/(Indicating)/, but I didn't mark the areas that I phenolphthalein tested.
+
+*MR. HARMON:* Okay. You said "Up here" somewhere. Could you point to it
+so we can describe for the record what you have pointed to?
+
+*MR. YAMAUCHI:* My initials "C.Y."
+
+*THE COURT:* Excuse me, counsel. Could we get you all to move back a
+little. Thank you.
+
+*MR. YAMAUCHI:* Right here, my initials "C.Y."
+
+*MR. HARMON:* Is there a tag in that sock and that has the "C.Y." And
+you just showed the jury?
+
+*MR. YAMAUCHI:* No, it is in a white pen. It is not real visible.
+
+*MR. HARMON:* May the record reflect that is inside the top of the sock,
+your Honor?
+
+*THE COURT:* Yes.
+
+*MR. SCHECK:* Your Honor, may I request that we just designate the
+socks. They have other markings on them.
+
+*THE COURT:* Yes. Can we tell which one of the socks?
+
+*MR. SCHECK:* A and b or whatever.
+
+*MR. HARMON:* The sock that you just referred to with the "C.Y." Inside
+the top, what is that down there towards the heel? There is some
+lettering down there.
+
+*MR. YAMAUCHI:* There is a "B" and then something that is--I can't
+interpret.
+
+*MR. HARMON:* Okay. Let's look to the--did you mark the other sock as well?
+
+*MR. YAMAUCHI:* Well, I'm not exactly sure that those are my initials.
+One of the problems with this is when you've got a dark surface, we have
+this white pen that we write with and it is often very difficult to get
+legible in certain instances. And to explain the "C.Y." Here, usually I
+put my serial number after that, but in this case I just marked "C.Y."
+And tried to--not to put as much markings or anything on the socks as
+possible because I would want to leave all the areas available for
+further analysis.
+
+*MR. SCHECK:* Excuse me, your Honor. In terms of what he has just been
+pointing to in markings, I think that what he pointed to as a "B" is no.
+13, not a "B" and he was then pointing to initials on both different
+socks. And what I would request is that we designate one sock a, one
+sock b, and then for the record note what he just did, otherwise we
+won't be able to reconstruct this.
+
+*THE COURT:* Mr. Harmon. Your record.
+
+*MR. HARMON:* One sock has "C.Y." In it and the other one has something
+unintelligible in it.
+
+*THE COURT:* All right. Proceed.
+
+*MR. HARMON:* Did you identify the two areas that you have conducted the
+phenolphthalein tests on in any way?
+
+*MR. YAMAUCHI:* Well, in my notes I have approximations on one to help
+my recollection later on, so I knew it was from the ankle, and the other
+one I noted somewhere in the toe area.
+
+*MR. HARMON:* The sock--I'm sorry.
+
+*MR. YAMAUCHI:* But I don't believe I marked the sock up, and I don't
+see anything on the sock in those particular areas.
+
+*MR. HARMON:* Now, what I would like you to do, Mr. Yamauchi, is look
+very carefully and perhaps hold up the sock that you have your clear
+initials in and look at all those little holes in there, if you would,
+both sides.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*THE COURT:* Any juror who needs to stand up, feel free to do so, if you
+want to get a better look.
+
+*MR. HARMON:* Were those--were those holes in the sock when you examined
+them on August 4th?
+
+*MR. YAMAUCHI:* No, they were not.
+
+*MR. HARMON:* And when you conducted your examination on August 4th did
+you notice any discoloration in any of those areas that have been cut
+out from that sock?
+
+*MR. YAMAUCHI:* Well, I indicated before I marked that to the ankle area
+of one and on the toe area of another there were discolorations.
+
+*THE COURT:* Ladies and gentlemen, when we are concluded with this what
+I will have the witness do is move to each part of the jury box and
+display the sock for you.
+
+*MR. SCHECK:* Your Honor, I would ask that the witness indicate which of
+these two socks he just testified about.
+
+*THE COURT:* I think Mr. Harmon characterized it in his question.
+Counsel, would you step back, please. Thank you.
+
+*MR. SCHECK:* He was pointing at socks and the record--
+
+*THE COURT:* Counsel, if you listen to the question, it was directed to
+the one with his initials in it. Proceed.
+
+*MR. HARMON:* Now, the sock with "C.Y." Up inside, the one that has it
+clearly in there, how many cut-out areas do you see if that sock?
+
+*MR. YAMAUCHI:* I count 8.
+
+*MR. HARMON:* Did you notice any signs of discoloration in any of those
+areas on the sock when you examined it on August 4th?
+
+*MR. YAMAUCHI:* Well, there is one down toward the toe area where there
+is a slight discoloration of this particular sock.
+
+*MR. HARMON:* Does that appear to be the sock that you conducted the
+phenolphthalein testing on and in the toe area?
+
+*MR. SCHECK:* Objection, leading.
+
+*THE COURT:* Overruled.
+
+*MR. YAMAUCHI:* Yes, I think that is consistent with my notes. There
+would be some discoloration down toward the toe area.
+
+*MR. HARMON:* Where the other seven areas where there are no holes in
+them, did you notice any discolorations in those areas?
+
+*MR. YAMAUCHI:* /(No audible response.)/
+
+*MR. HARMON:* I'm talking about on August 4th?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Okay. Let's move on to the sock, if you will, the one that
+does not have the clear G.Y. inside.
+
+*MR. YAMAUCHI:* C.Y.
+
+*MR. HARMON:* C.Y. Were those cut areas in that sock on August 4th when
+you examined it?
+
+*MR. YAMAUCHI:* No, they were not.
+
+*MR. HARMON:* How many cut areas are there now?
+
+*MR. YAMAUCHI:* I count five.
+
+*MR. HARMON:* Okay. Did you notice any discoloration in any of the areas
+where the cuttings or where there are cut-out areas on the sock that we
+are focusing on when you examined it on August 4th?
+
+*MR. YAMAUCHI:* I see a discoloration in the ankle area and there is a
+cutting on the edge of that and some initials.
+
+*MR. HARMON:* Whose initials do you see there?
+
+*MR. YAMAUCHI:* It appears to be D something D, D.W.D. Or D.L.D. I'm not
+sure.
+
+*MR. HARMON:* Does that appear to be--does that sock appear to be the
+sock where you did the positive phenolphthalein in the ankle area?
+
+*MR. YAMAUCHI:* Well, that discoloration is consistent with my notes, yes.
+
+*MR. HARMON:* Okay. Okay.
+
+/(Discussion held off the record between the Deputy District Attorneys.)/
+
+//*MR. HARMON:* I have finished my questioning, your Honor.
+
+*THE COURT:* Are you done with the questions with that--with the sock?
+
+*MR. HARMON:* With this item, yes, your Honor.
+
+*THE COURT:* All right. Mr. Yamauchi, with Mr. Harmon's assistance would
+you move the cart down to the end of the jury box there.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*THE COURT:* All right. If you would just pick up each one of the socks
+and display it to the jury, each side.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*THE COURT:* All right. The jurors in the back row, hold on just a second.
+
+*MR. SCHECK:* Your Honor, respectfully, may I make the suggestion when
+he holds them up that he indicates which of the designations he is
+holding up?
+
+*THE COURT:* Yes. Mr. Yamauchi--would you tell us which one you are
+holding up each time you pick it up. Mr. Yamauchi, would you tell us
+which sock you are handling, please.
+
+*MR. YAMAUCHI:* This is the one with the initials that aren't very
+readable or aren't readable and this is the one that I'm holding up at
+this time, and previous to that I held up the other sock.
+
+*THE COURT:* All right. Let's move down to the--
+
+*MR. YAMAUCHI:* With the initials, yes, that's right.
+
+*THE COURT:* --the near end of the jury box, Mr. Harmon.
+
+*MR. HARMON:* I'm sorry?
+
+*THE COURT:* Why don't you assist Mr. Yamauchi in bringing the cart down
+to the bottom end here.
+
+*MR. HARMON:* Sure.
+
+*MR. YAMAUCHI:* /(Witness complies.)/
+
+*THE COURT:* Go ahead and show this end of the jury box, please.
+
+*MR. YAMAUCHI:* All right. Okay. This has my initials in it,
+/(Indicating)/. That is one side. That is the other, /(Indicating)/. And
+this is the one with the initials that are not clear. That is one side
+and that is the other, /(Indicating)/.
+
+*THE COURT:* All right. Thank you. Mr. Harmon.
+
+*MR. HARMON:* Thank you, your Honor. I think maybe we should put these
+away now. Can we do that?
+
+*THE COURT:* Well, Mr. Scheck, do you anticipate cross-examining on
+that? Well, we won't get to that. Okay. Go ahead and package it back.
+
+*MR. HARMON:* Okay.
+
+/(Brief pause.)/
+
+//*MS. CLARK:* Your Honor, while he is doing that, may we approach
+without the reporter?
+
+*THE COURT:* Yes.
+
+/(A conference was held at the bench, not reported.)/
+
+/(The following proceedings were held in open court:)/
+
+//*THE COURT:* All right. Thank you, counsel. Mr. Harmon, let's wind it up.
+
+*MR. HARMON:* Thank you, your Honor.
+
+*MR. HARMON:* Mr. Yamauchi, I'm going to try to direct you to certain
+other items that you processed in this case. On August 16th did you take
+some cuttings from 78, 81 and 86, those are respectively Ronald
+Goldman's jeans, Ronald Goldman's shirt and Nicole Brown's dress?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And what was the purpose of taking those cuttings?
+
+*MR. YAMAUCHI:* They were needed as cloth exemplars. In other words, as
+we use exemplars for blood for individual, clothing articles for the
+same purpose need exemplars from for the trace analysis and that is
+something that will be talked about later, I believe.
+
+*MR. HARMON:* And what did you do with regard to those items?
+
+*MR. YAMAUCHI:* They were sent to the FBI.
+
+*MR. HARMON:* On what date?
+
+*MR. YAMAUCHI:* On the 16th.
+
+*MR. HARMON:* Of which month?
+
+*MR. YAMAUCHI:* August 16th, 1994.
+
+*MR. HARMON:* Do you want to change now to July 29th, 1994. Did you come
+into possession of LAPD items 115, 116 and 117?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And will you describe what you did with those items.
+
+*MR. YAMAUCHI:* They were taken out of the bindle and observed. In other
+words, I just took my usual description notes where I draw somewhat of a
+little sketch of the swatches.
+
+*MR. HARMON:* And then later on September 26th, 1995--1994, were those
+processed or actually processed for shipping somewhere?
+
+*MR. YAMAUCHI:* Yes. They were sent out on the 26th.
+
+*MR. HARMON:* Sent to where?
+
+*MR. YAMAUCHI:* To the Department of Justice.
+
+*MR. HARMON:* Okay. And let me ask you about LAPD items 303, 304 and
+305. Did you come into possession of those items on September 6th, 1994?
+
+*MR. YAMAUCHI:* Item no. 305--303 and 304 I don't have listed for this
+particular date.
+
+*MR. HARMON:* Okay. Maybe we need to look at, with the Court's
+permission, exhibit 177-E.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Mr. Yamauchi, why don't you step down at 177-E, if you
+will, and while it is up there, start out with 115, 116 and 117. Do you
+recognize 115, 116 and 117 as the items that were sent to DOJ on
+September 26th, 1994?
+
+/(Brief pause.)/
+
+//*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. How about 303, 304 and 305?
+
+/(Brief pause.)/
+
+//*MR. SCHECK:* Your Honor, I'm objecting to 303, 304 and 305.
+
+*THE COURT:* Overruled.
+
+*MR. SCHECK:* I objected to 303 and 304 at this point.
+
+*THE COURT:* Proceed.
+
+*MR. HARMON:* Do you recognize those items?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And were 303 and 304 sent to DOJ on the date that is on
+the board, 9/26?
+
+*MR. YAMAUCHI:* Well, let me check my records.
+
+*MR. HARMON:* Sure.
+
+*MR. YAMAUCHI:* Yes, they were.
+
+*MR. HARMON:* And 305, when was that sent to DOJ? Is the board correct
+when it says "9/7/94"?
+
+*MR. YAMAUCHI:* Yes, the board is correct.
+
+*MR. HARMON:* Okay. May I have marked as People's next in order,
+People's exhibit 285, an additional sock examination board and take down--
+
+*THE COURT:* All right. People's 285.
+
+/(Peo's 285 for id = posterboard)/
+
+//*MR. HARMON:* Mr. Yamauchi, while Mr. Fairtlough is getting that board
+up, were you present in the Los Angeles Police Department SID on
+February 16th, 1995, when a Dr. Henry Lee conducted an examination on
+the socks that you've just shown to the jury that are marked as exhibit
+284 for identification?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* And what room was that examination conducted in?
+
+*MR. YAMAUCHI:* It was in our conference room.
+
+*MR. HARMON:* Okay. How many people were in that room, do you recall?
+
+*MR. YAMAUCHI:* There were quite a few; about nine.
+
+*MR. HARMON:* Okay. And where did you sit with respect to where the--Dr.
+Lee conducted his examination?
+
+*MR. YAMAUCHI:* Across the table.
+
+*MR. HARMON:* Did you observe closely Dr. Lee's examination of those gloves?
+
+*THE COURT:* Excuse me. Examination of the gloves?
+
+*MR. HARMON:* I'm sorry, the socks.
+
+/(Brief pause.)/
+
+//*MR. HARMON:* Do you know Dr. Lee?
+
+*MR. YAMAUCHI:* I know his reputation and I met him then.
+
+*MR. HARMON:* And who was he working for when he conducted this examination?
+
+*MR. YAMAUCHI:* I understand he is retained by the Defense in this case.
+
+*MR. SCHECK:* Objection, move to strike the word "Retained."
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. HARMON:* Was he the Defense consultant in this case?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. How long did Dr. Lee perform his examination of
+those socks?
+
+*MR. YAMAUCHI:* Well, it was over an hour.
+
+*MR. HARMON:* Okay. Would you step up to the board and use the pointer,
+if you will, and I would like you to describe what is depicted in the
+photographs starting with--the board is entitled "Henry Lee sock
+examination." Would you point to the photo that says, "Puts arm" paren
+"No lab coat into bag to elbow."
+
+*MR. YAMAUCHI:* /(Indicating)/.
+
+*MR. HARMON:* Did you see Dr. Lee do that?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And what is he actually doing in that photograph?
+
+*MR. YAMAUCHI:* He is reaching in to grab the sock.
+
+*MR. HARMON:* And what kind of bag was it in?
+
+*MR. YAMAUCHI:* I don't know. That was a brown paper bag. I'm sorry. He
+was reaching in there. I don't know for what reason.
+
+*MR. HARMON:* Where were the socks at the point that he--that you see
+him reaching into that paper bag?
+
+*MR. YAMAUCHI:* The socks were in an envelope, a white envelope.
+
+*MR. HARMON:* And was that envelope in the bag at the time he is
+reaching into the bag that is shown in the photograph?
+
+*MR. YAMAUCHI:* No, I don't believe so.
+
+*MR. HARMON:* Okay. Now, the next photo shows Dr. Lee standing up and
+the description under it is "No lab coat or hairnet." Did Dr. Lee wear a
+lab coat at all during this?
+
+*MR. YAMAUCHI:* No, he didn't.
+
+*MR. HARMON:* Did he wear a hairnet?
+
+*MR. YAMAUCHI:* No, he didn't.
+
+*MR. HARMON:* Could you describe what is on the table in front of Dr.
+Lee, the equipment and the other items that are there in front of him?
+
+*MR. YAMAUCHI:* Well, there is a microscope and paper for examining
+stuff on.
+
+*MR. HARMON:* What kind of microscope is that?
+
+*MR. YAMAUCHI:* Well, it is a general stereo scope used in low
+magnification to look over and observe pieces of evidence.
+
+*MR. HARMON:* Okay. Let's just jump to the end of that for a second. It
+appears in the photo on the left there where Dr. Lee is reaching in the
+bag, he has gloves on; is that correct?
+
+*MR. YAMAUCHI:* Yes, he does.
+
+*MR. HARMON:* Did Dr. Lee ever change gloves during this entire one-hour
+examination of both of those socks?
+
+*MR. YAMAUCHI:* I didn't see him change his gloves.
+
+*MR. HARMON:* Does that mean that he did not change his gloves?
+
+*MR. YAMAUCHI:* Well, to the best of my knowledge he didn't.
+
+*MR. HARMON:* Okay. Are the socks shown in the photo where Dr. Lee is
+standing up, two black items down in the lower left-hand corner?
+
+*MR. YAMAUCHI:* Yes, that is the socks.
+
+*MR. HARMON:* Okay. If you would, just try not to block the juror's
+view. The photo at the top right there, what is Dr. Lee doing in that
+photograph?
+
+*MR. YAMAUCHI:* He has a scale in his hand and it looks like he is
+measuring something.
+
+*MR. HARMON:* And what--when you say he has got a scale in his hand, is
+that a ruler?
+
+*MR. YAMAUCHI:* Yeah, it is similar to a small ruler.
+
+*MR. HARMON:* And what is he is doing with that scale or ruler?
+
+*MR. YAMAUCHI:* He is measuring something.
+
+*MR. HARMON:* And is what he is measuring, is he touching the item with
+the ruler?
+
+*MR. YAMAUCHI:* Well, it is hard to tell from this photo, but I have
+seen him when he was doing that, touching the ruler to the item, yes.
+
+*MR. HARMON:* Okay. Did you ever see him flame that ruler when he
+changed to the other sock?
+
+*MR. YAMAUCHI:* No. That is ridiculous.
+
+*MR. HARMON:* Did you ever see him bleach that ruler?
+
+*MR. SCHECK:* Motion to strike the term "Ridiculous."
+
+*THE COURT:* Overruled.
+
+*MR. HARMON:* Did you ever see him bleach that ruler?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Did you ever see him straddle ink that ruler?
+
+*MR. YAMAUCHI:* No.
+
+*MR. HARMON:* Do you know what a straddle ink is?
+
+*MR. YAMAUCHI:* It is a UV contamination process.
+
+*MR. HARMON:* What effect would that have on biological material?
+
+*MR. YAMAUCHI:* Rather degrade DNA, break it down.
+
+*MR. HARMON:* Okay. And in the lower left-hand photo there is actually a
+photo showing a ruler sitting on top of one of the socks. Did you see that?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And then the next photo in the middle shows Dr. Lee
+examining the other sock. Do you remember him examining both socks?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. And then the final photo shows Dr. Lee turning the
+sock inside out.
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Do you remember him--seeing him do that?
+
+*MR. YAMAUCHI:* Yes.
+
+*MR. HARMON:* Okay. Thanks, Mr. Yamauchi. I have no further questions,
+your Honor.
+
+*THE COURT:* Do you need a--
+
+*MR. SCHECK:* Yes.
+
+*MR. HARMON:* Your Honor, could we just show the jury the board a little
+bit better?
+
+*THE COURT:* Yes. I got a conflicting answer. Do you need a break now or
+do you want to proceed?
+
+*MR. SCHECK:* I have to show them boards.
+
+*THE COURT:* Okay, okay.
+
+/(Brief pause.)/
+
+//*THE COURT:* I got a nod and then a shake.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Thank you, Miss Martinez, Mr. Fairtlough. All
+right. Ladies and gentlemen, we are going to take our recess for the
+morning session at this time. Please remember all of my admonitions to
+you. Don't discuss the case amongst yourselves, do not form any opinions
+about the case, don't allow anybody to communicate with you, do not
+conduct any deliberations until the matter has been submitted to you. We
+will stand in recess until 1:30. All right. Mr. Yamauchi, you may step down.
+
+*MR. COCHRAN:* 1:30?
+
+*THE COURT:* 1:30.
+
+/(At 11:52 A.M. the noon recess was taken until 1:30 P.M. of the same day.)/
+
+//*SUPERIOR COURT OF THE STATE OF CALIFORNIA FOR THE COUNTY OF LOS ANGELES*
+
+**Department no. 103 Hon. Lance A. Ito, Judge
+
+The People of the State of California,)
+
+Plaintiff,)
+
+vs.) no. Ba097211)
+
+Orenthal James Simpson,)
+
+Defendant.)
+
+Reporter's transcript of proceedings Thursday, May 25, 1995
+
+Volume 154 pages 29318 through 29428, inclusive
+
+/(Pages 29429 through 29575, inclusive, sealed)/
+
+//-------------------------------------------------------------------------------------------
+
+*APPEARANCES:*
+
+Janet M. Moxham, CSR #4588 Christine M. Olson, CSR #2378 official reporters
+
+*FOR THE PEOPLE:* Gil Garcetti, District Attorney by: Marcia R. Clark,
+William W. Hodgman, Christopher A. Darden, Cheri A. Lewis, Rockne P.
+Harmon, George W. Clarke, Scott M. Gordon Lydia C. Bodin, Hank M.
+Goldberg, Alan Yochelson and Darrell S. Mavis, Brian R. Kelberg, and
+Kenneth E. Lynch, Deputies 18-000 Criminal Courts Building 210 West
+Temple Street Los Angeles, California 90012
+
+*FOR THE DEFENDANT:* Robert L. Shapiro, Esquire Sara L. Caplan, Esquire
+2121 Avenue of the Stars 19th floor Los Angeles, California 90067
+Johnnie L. Cochran, Jr., Esquire by: Carl E. Douglas, Esquire Shawn
+Snider Chapman, Esquire 4929 Wilshire Boulevard Suite 1010 Los Angeles,
+California 90010 Gerald F. Uelmen, Esquire Robert Kardashian, Esquire
+Alan Dershowitz, Esquire F. Lee Bailey, Esquire Barry Scheck, Esquire
+Peter Neufeld, Esquire Robert D. Blasier, Esquire William C. Thompson,
+Esquire
+
+-------------------------------------------------------------------------------------------
+
+*_I N D E X_*
+
+*__*Index for volume 154 pages 29318 - 29428
+
+-------------------------------------------------------------------------------------------
+
+Day date session page vol.
+
+Thursday May 25, 1995 A.M. 29318 154
+
+-------------------------------------------------------------------------------------------
+
+*LEGEND:* Ms. Clark-mc Mr. Hodgman-h Mr. Darden d Mr. Kahn-k Mr.
+Goldberg-gb Mr. Gordon-g Mr. Shapiro-s Mr. Cochran-c Mr. Douglas-cd Mr.
+Bailey-b Mr. Uelmen-u Mr. Scheck-bs Mr. Neufeld-n
+
+-------------------------------------------------------------------------------------------
+
+*_CHRONOLOGICAL INDEX OF WITNESSES_*
+
+*__PEOPLE'S* witnesses direct cross redirect recross vol.
+
+Yamauchi, Collin 154 (Resumed) 29333rh
+
+-------------------------------------------------------------------------------------------
+
+*_ALPHABETICAL INDEX OF WITNESSES_*
+
+*__*Witnesses direct cross redirect recross vol.
+
+Yamauchi, Collin 154 (Resumed) 29333rh
+
+-------------------------------------------------------------------------------------------
+
+*_EXHIBITS_*
+
+*__PEOPLE'S* for in exhibit identification evidence page vol. Page vol.
+
+282 - 3-page document 29340 154 entitled "Serology casework summary
+sheet/DNA analysis"
+
+283 - 1-page document 29341 154 entitled "DNA electrophoresis record -
+product gel"
+
+284 - Analyzed evidence 29398 154 envelope containing two dark-colored socks
+
+285 - Chart 29420 154 entitled "Henry Lee sock examination"
+

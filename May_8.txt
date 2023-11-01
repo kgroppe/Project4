@@ -1,0 +1,4635 @@
+*LOS ANGELES, CALIFORNIA; MONDAY, MAY 8, 1995 9:00 A.M.*
+
+**Department no. 103 Hon. Lance A. Ito, Judge
+
+*APPEARANCES:* (Appearances as heretofore noted.)
+
+(Janet M. Moxham, CSR no. 4855, official reporter.)
+
+(Christine M. Olson, CSR no. 2378, official reporter.)
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* All right. Good morning, counsel.
+
+*MR. SHAPIRO:* Good morning, your Honor.
+
+*THE COURT:* Let's have it quiet in the courtroom, please. All right.
+Back on the record in the Simpson matter. The Defendant is again present
+before the Court with counsel, Mr. Shapiro, Mr. Cochran, Mr. Blasier,
+Mr. Scheck, Mr. Neufeld, People represented by Mr. Darden and Mr.
+Goldberg. The jury is not present. Counsel, anything we need to take up
+before we proceed with our next witness? Mr. Goldberg, my recollection
+is that you had some exhibits to mark.
+
+*MR. GOLDBERG:* Yes. I wanted to mark the printout of the picture of the
+tube, I think it's 231, your Honor, and also the little disposable
+plastic pipette. Maybe we could mark this as part of the 163 series, the
+bag of items.
+
+*THE COURT:* No. I think, because it will appear they're out of logical
+order, I would suggest that we give that a new and separate number.
+
+*MR. GOLDBERG:* So you want this to be 232?
+
+*THE COURT:* Yes. 232, Mrs. Robertson?
+
+*THE CLERK:* Yes.
+
+*THE COURT:* All right.
+
+*MR. GOLDBERG:* Thank you.
+
+/(Peo's 231 for id = printout)/
+
+/(Peo's 232 for id = disp. Pipette)/
+
+//*MR. DARDEN:* Your Honor, the next witness is the tow truck driver.
+He's being transported here by D.A. Investigators. They have radioed us
+and said that they should be here 10 minutes after 9:00.
+
+*THE COURT:* All right.
+
+*MR. DARDEN:* I informed the clerk as soon as I found out. Apparently he
+was here this morning. He had left the document, the impound documents,
+and they had taken him back to Santa Monica to pick up the documents and
+he's on his way back now.
+
+*THE COURT:* All right. And who is this next witness?
+
+*MR. DARDEN:* That will be Mr. Douroux.
+
+*MR. COCHRAN:* May we inquire who will be called after Mr. Douroux?
+
+*MR. DARDEN:* Dr. Cotton.
+
+*THE COURT:* Robin Cotton.
+
+*MR. SHAPIRO:* Your Honor, may I address the Court on another matter?
+
+*THE COURT:* Certainly.
+
+*MR. SHAPIRO:* Your Honor, I have arranged with Mr. Hodgman to have Dr.
+Michael Baden and Dr. Barbara Wolf here today. They are
+presently--actually Dr. Baden is testifying next door for the
+Prosecution in another case. And the purpose of their visit for us is to
+get microscopic slides of tissue from the autopsy of both decedents.
+This has been agreed to by both sides. The only issue that has come up
+now is the cost of those slides. We are informed that the standard
+procedure is for the County Coroner to do those slides and they are
+provided at no cost to the Defense. In this case, the Coroner's office
+did not do any slides and they are now allowing us to do the slides but
+at a cost of $85 per slide. We understand that the true cost for such
+slides in laboratories is four to five dollars. I tried to reach Mr.
+Hodgman on Friday and he had a family emergency and was unable to return
+my call, although we did get word back from someone else in the District
+Attorney's office. We need the Court's guidance. Those slides are going
+to be done this morning, but we--as I understand, there are going to be
+numerous slides necessary. And I don't know the exact amount, but we
+would like to see if the Court can give us some assistance in providing
+these at a reasonable cost and not at an inflated cost that is
+artificially set by the Coroner.
+
+*THE COURT:* Mr. Darden, do you know anything about this?
+
+*MR. DARDEN:* No, I don't. And Mr. Hodgman is upstairs in his office. If
+he's listening, perhaps he can come down and speak to Mr. Shapiro while
+we wait for Mr. Douroux and they can settle the matter if at all possible.
+
+*MR. SHAPIRO:* That will be acceptable.
+
+*THE COURT:* All right. Anything else we can take up before we start
+with the tow truck driver?
+
+*MR. HARMON:* Yes, your Honor. I filed a letter with the Court and
+counsel this morning. I followed up on your suggestion based on Mr.
+Blasier's hypothetical and good faith basis for his questions about EDTA
+on Prosecution evidence. As you recall, Mr. Blasier alleged that their
+experts have reviewed our reports, which is all they could have done
+because they never tested any of the samples from the gate or the sock
+for the presence of EDTA. And I requested Mr.--of Mr. Cochran orally and
+now I've done it in writing--there are no such witnesses on the Defense
+witness list who are qualified in the field of gc/ms/ms, which is the
+form of testing that would have to be done. So it appears that the
+Defense has violated the Court's discovery order by--at a minimum, based
+on Mr. Blasier's offer of proof, that their experts have reviewed our
+work and come to contrary conclusions. Our experts, the FBI, has
+determined that there is no EDTA on 117 or 13-A1. So Mr. Blasier's offer
+of proof was that their experts have reviewed that material--
+
+*THE COURT:* Well, Mr. Harmon, forgive me for interrupting you, but your
+request was for a hearing on this matter on Wednesday.
+
+*MR. HARMON:* Right. I just--
+
+*THE COURT:* So--
+
+*MR. HARMON:* We had time. I thought I'd bring it up, but things are
+getting interesting, your Honor.
+
+*THE COURT:* How about if we do it Wednesday?
+
+*MR. HARMON:* That'd be fine.
+
+*THE COURT:* All right.
+
+*MR. GOLDBERG:* Your Honor?
+
+*THE COURT:* Any other housekeeping matters while we're waiting? Mr.
+Goldberg.
+
+*MR. GOLDBERG:* Just briefly. On the magnetic strips that we used on the
+Defense blood vial chart, I believe those probably should be marked as
+another exhibit as well.
+
+*THE COURT:* However, my recollection is that Mr. Fairtlough took some
+type of digital photograph of that.
+
+*MR. GOLDBERG:* He apparently did to preserve the way the chart looked
+once it was completed. Is it possible for us to mark both the magnetic
+strips and the photograph that was taken of the chart after it was finished?
+
+*THE COURT:* I would say the photograph itself is what we ought to use
+rather than the strips themselves.
+
+*MR. GOLDBERG:* Well, unfortunately the resolution on the photograph
+doesn't appear to be high enough to read all of the markings on it clearly.
+
+*THE COURT:* All right. Well, I would suggest then at a time that the
+Court is in recess, that that chart be put back together in that matter
+and that a still photograph by someone from the District Attorney's
+photo lab be substituted for the digital photograph rather than the
+mag--because the magnetic strips themselves without something to stick
+them on are useless as an exhibit.
+
+*MR. GOLDBERG:* And we can then mark the photographs separately is what
+you're saying.
+
+*THE COURT:* Yes.
+
+*MR. GOLDBERG:* Thank you.
+
+*THE COURT:* Seems to be a more reasonable way to do that.
+
+*MR. GOLDBERG:* Maybe we can mark this one now as 1--
+
+*THE COURT:* 233.
+
+*MR. GOLDBERG:* 233. Can we make it 233-A and then--
+
+*THE COURT:* Well, let's make it 233, and then we'll--if hearing no
+objection from the Defense, we'll substitute a real--a photograph with
+conventional photography when that becomes available.
+
+/(Peo's 233 for id = photograph)/
+
+//*MR. GOLDBERG:* Thank you.
+
+*THE COURT:* All right.
+
+*MR. BLASIER:* Your Honor, one quick item.
+
+*THE COURT:* Yes.
+
+*MR. BLASIER:* We have a letter that we prepared for the Court
+requesting sanctions against Mr. Goldberg for the series of improper
+questions that he asked on Thursday and Friday. We're asking for a
+curative instruction as well as sanctions and we would like to present
+that letter to the Court now for the Court's consideration. I believe
+you have it.
+
+*THE COURT:* Yes, I do. I have not had the opportunity to read it since
+it was just handed to me. All right. We'll take it--since it deals with
+EDTA as well, we'll take that up Wednesday afternoon. Mr. Scheck.
+
+*MR. SCHECK:* One more housekeeping matter. I've asked Mr. Harmon since
+Thursday to inform us of the status of the combination of samples from
+the Bronco that was being tested by DOJ, whether that RFLP analysis had
+started. As I indicated to the Court, I was told as of Monday of last
+week, it hadn't, and I think that creates an issue to be resolved.
+
+*THE COURT:* Yes. We've discussed that informally previously.
+
+*MR. SCHECK:* When shall we do this and what's the Court's pleasure?
+
+*THE COURT:* Well, obviously, if that testing has not even begun yet,
+then there are no results to report. So there's nothing to be produced
+in Court. So I don't see any tremendous urgency to do it this week and
+we have a plethora of other issues to deal with Wednesday.
+
+*MR. SCHECK:* I understand. My only concern is, before the witness from
+the Department of Justice testifies about results from the Bronco, which
+are going to be affected by the tests that they proposed to do seven
+weeks ago, that they did not begin after they obtained permission of the
+Court to do so, which I would submit on its face is deliberate, that we
+have to have some resolution as to--
+
+*THE COURT:* Well, what do you suggest timing wise?
+
+*MR. SCHECK:* Well, first of all, Mr. Harmon hasn't informed us as to
+what the status of the testing is. I want to be careful in my
+representations since my information is a bit old. But my suggestion is
+that we resolve that issue before Mr. Sims testifies from the Department
+of Justice, which could be at the end of this week or the beginning of
+next week.
+
+*THE COURT:* Mr. Darden, do you have any information about that or do
+you want to defer to Mr. Harmon?
+
+*MR. DARDEN:* I would like to defer to Mr. Harmon, your Honor.
+
+*MR. HARMON:* I'm not sure what the question is, Judge.
+
+*THE COURT:* The question is the status of the combination RFLP testing
+at DOJ.
+
+*MR. HARMON:* It's ongoing. And Dr. Blake has open door--the invisible
+but ubiquitous Blake is there more than I am, so I'm not sure. He's
+never been denied access to any information. I can tell you, Mr. Sims is
+not doing that work because he's down here now. So nothing's going on
+right now. But I--you know, I'd rather--if there's a specific legal
+issue involved in it, I would be happy to respond to a legal issue. But
+in terms of where the testing is, Dr. Blake can call up there any time
+and be precise. But it hasn't been completed obviously.
+
+*THE COURT:* All right. Well, Mr. Harmon, when do you antici--after Dr.
+Cotton testifies, who do you anticipate will be after Dr. Cotton?
+
+*MR. HARMON:* Mr. Sims. So he's here until--so wherever things were left
+when he left work on Friday, that's where they are.
+
+*THE COURT:* All right. Then Friday afternoon, 1:30, we'll take this up.
+Mrs. Robertson, would you note that, remind me to cancel my dentist
+appointment again. All right. Mr. Darden, any word on the whereabouts of
+your witness?
+
+*MR. DARDEN:* No, your Honor.
+
+*THE COURT:* Well, could we perhaps start with Dr. Cotton?
+
+*MR. DARDEN:* Do you want to start with DNA and interrupt it with the
+tow truck driver?
+
+*THE COURT:* No. I would rather just--I'd like to do something this morning.
+
+*MR. DARDEN:* Why don't we check that. We've been on the record 12
+minutes. We've been accused of misconduct twice. We're setting a record
+pace at this point, your Honor.
+
+*THE COURT:* Once every six minutes.
+
+*MR. DARDEN:* Yeah, one every six minutes. Besides, Miss Martinez'
+birthday was this--where did she go? There she is. Her birthday was this
+weekend.
+
+*THE COURT:* She knew when to get out of dodge. Ah, the ubiquitous Mr.
+Hodgman.
+
+*MR. DARDEN:* And his sidekick, Mr. Yochelson.
+
+*MR. HODGMAN:* I thought that only applied to Defense experts. Anyway--
+
+*THE COURT:* Good morning, sir. There was some dispute that Mr. Shapiro
+raised concerning cost of production of autopsy slides from the
+Coroner's office. Do you have any information about that?
+
+*MR. HODGMAN:* Yes.
+
+*THE COURT:* Not that I want to get involved in refereeing a dispute.
+
+*MR. HODGMAN:* Yes. Very well. I'm not so sure that it can be
+characterized as a dispute. It's simply the policy and protocol of the
+Coroner's office of which I informed Mr. Shapiro by letter last week,
+and I received a phone message Friday indicating Mr. Shapiro wanted to
+try and work something out in that regard. But I don't control that
+department and that's between the Coroner's office and the Defense. I
+understand Drs. Baden and Wolf are over there today. I had spoken to Dr.
+Wolf Friday, Friday morning just to make sure she had the proper
+information with regard to the arrangements as well as the cost
+procedures, and she did not raise any objection at that time. Mr.
+Shapiro's call did come in after that. So it's something over which I
+really have no control, your Honor.
+
+*THE COURT:* All right. Well, Mr. Shapiro has raised the issue. Mr.
+Shapiro, I think the burden is on your shoulders at this point to
+indicate that those costs are somehow out of the ordinary or unlike
+those that are assessed to other individuals seeking this information.
+
+*MR. SHAPIRO:* Your Honor, I can just relate what has been related to me
+by our experts, and that is that in the normal course, these are
+provided for at no cost whatsoever and that the medical costs and
+laboratory costs that are involved are between four and five dollars a
+slide. In addition, since Mr. Hodgman is here, in his letter, they
+indicated that the approximate cost--and I don't have the figures in
+front of me--of Dr. Lakshsmanan and Dr. Golden to watch our experts do
+this is approximately $500 an hour for us, to have them watch us do what
+they should have done. And we just think this is a violation of due
+process. We have no choice but to go ahead with it because the doctors
+are here, but we would ask the Court to intervene and to conduct a
+hearing regarding the real fair cost of this and that we should not be
+gouged because it's being done by the Defense and not by the Prosecution.
+
+*THE COURT:* All right. About the only thing I can suggest, Mr. Shapiro,
+is if you want to file a motion to that effect, you're welcome to do so.
+It would be my inclination to--since it would involve a Coroner's
+policy, which would apply not only to this case, but other cases, is
+then ask the supervising Judge, Judge Bascue to set the matter for a
+hearing since it would be a system-wide impact. So some other Judge
+should probably hear that issue and not take our time with that.
+
+*MR. SHAPIRO:* Thank you.
+
+*MR. HODGMAN:* Yes, your Honor. And it would indeed be a system-wide
+impact because I am informed that this policy applies across the board
+for all defendants, that there is nothing unusual that's being done in
+this case, that there is no denial of due process. This is simply the
+normal protocol and usual procedure of the Coroner's office. So nothing
+special is being done for the Defendant in this case.
+
+*THE COURT:* Okay. All right.
+
+*MR. DARDEN:* The witness will be here any minute.
+
+*THE COURT:* Well, should I put the jury in the box and we can all wait?
+
+*MR. DARDEN:* That's no fun. Wait until the Defense case, your Honor. He
+is on the "s" level. There's only one elevator operating from the "s" level.
+
+*THE COURT:* All right.
+
+*MR. SHAPIRO:* Your Honor, there is one additional thing I want to add
+for the record so the record is clear. In addition, they want a copy of
+our slides that we are doing and they want to charge us $85 per slide
+that we are doing to turn over to them because they didn't do it.
+
+*THE COURT:* Sounds like a good business to me. All right. We'll--if you
+want to file a formal motion, we'll look into it.
+
+*MR. SHAPIRO:* I will, your Honor.
+
+*THE COURT:* All right.
+
+*MR. DARDEN:* You could go into chambers and read, you know, some of the
+sanction motions.
+
+*THE COURT:* Well, the problem is, if I leave, then the audience has to
+be cleared. Then we have to go through all of that rigmarole each and
+every time. So I'd just as soon stay here upon your representation that
+that person will be here in two or three minutes.
+
+*MR. DARDEN:* Well, okay.
+
+*MS. CLARK:* I just thought of an interesting sidebar we could have.
+
+*THE COURT:* All right. Well, perhaps you could ask Mr. De La Vine for
+some advice. Never mind.
+
+*MS. CLARK:* I thought maybe he was here.
+
+*THE COURT:* He could be.
+
+/(Brief pause.)/
+
+//*MR. DARDEN:* If I could have 60 minutes outside with Defense counsel
+so that I can speak to Mr. Douroux.
+
+/(Brief pause.)/
+
+//*THE COURT:* Miss Clark, what's your time estimate for the next witness?
+
+*MS. CLARK:* I'm sorry?
+
+*THE COURT:* What's your time estimate for the next witness?
+
+*MS. CLARK:* People's time estimate or estimate for cross?
+
+*THE COURT:* Your time estimate.
+
+*MS. CLARK:* About 15 minutes or that, very brief.
+
+*THE COURT:* All right.
+
+*MS. CLARK:* That means--you know, that's direct. So cross, figure, be
+about two hours.
+
+*THE COURT:* Depends on what the issues are here. All right. Which of
+the tow truck drivers is this?
+
+*MS. CLARK:* I'm sorry?
+
+*THE COURT:* Which of the--
+
+*MS. CLARK:* The first one who towed to Rheuban's, the print shed.
+
+*THE COURT:* Okay.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Deputy Smith, would you ask the lawyers to
+step in with their witness, please.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Mr. Darden, are the People ready?
+
+*MR. DARDEN:* Yes, your Honor. Thank you.
+
+*THE COURT:* Deputy Magnera, let's have the jurors, please. Mr. Darden,
+who is going to be handling the next witness for the People?
+
+*MR. DARDEN:* I believe Mr. Clarke is going to handle Dr. Cotton. Yes.
+
+*THE COURT:* How about this witness now?
+
+*MR. DARDEN:* I am.
+
+*THE COURT:* All right.
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* All right. Thank you, ladies and gentlemen. Please be
+seated. Let the record reflect that we've now been rejoined by all the
+members of our jury panel. Good morning, ladies and gentlemen.
+
+*THE JURY: *Good morning.
+
+*THE COURT:* All right. Mr. Darden, you may call the People's next witness.
+
+*MR. DARDEN:* Thank you, your Honor. Good morning.
+
+*THE JURY: *Good morning.
+
+*MR. DARDEN:* The People call Mr. Douroux, your Honor.
+
+*THE COURT:* All right. Mr. Douroux, would you come over here to the
+witness stand, please. Raise your right hand and face the clerk, please,
+
+/Bernie Douroux, called as a witness by the People, was sworn and
+testified as follows:/
+
+//*THE CLERK:* Raise your right hand, please. You do solemnly swear that
+the testimony you may give in the cause now pending before this Court,
+shall be the truth, the whole truth and nothing but the truth, so help
+you God?
+
+*MR. DOUROUX:* I do.
+
+*THE CLERK:* Please have a seat on the witness stand and state and spell
+your first and last names for the record.
+
+*MR. DOUROUX:* Bernie Douroux.
+
+*THE CLERK:* Can you spell your first and last names for the record?
+
+*MR. DOUROUX:* B-E-R-N-I-E D-O-U-R-O-U-X.
+
+*THE COURT:* All right. Mr. Darden.
+
+*MR. DARDEN:* Thank you, your Honor.
+
+*_DIRECT EXAMINATION BY MR. DARDEN_*
+
+*__MR. DARDEN:* Mr. Douroux, who were you working for on June 13, 1994?
+
+*MR. DOUROUX:* Rheuban motors.
+
+*MR. DARDEN:* Rheuban motors?
+
+*MR. DOUROUX:* Yes.
+
+*MR. DARDEN:* Okay. Could you pull the microphone a little closer there
+and speak into it?
+
+*MR. DOUROUX:* Rheuban motors.
+
+*MR. DARDEN:* Sounded the same for some reason.
+
+*MR. DOUROUX:* This better? Rheuban motors.
+
+*MR. DARDEN:* Okay. And Rheuban motors is a towing--automobile towing
+company?
+
+*MR. DOUROUX:* It's police impound. Yes.
+
+*MR. DARDEN:* And what do you do for Rheuban motors?
+
+*MR. DOUROUX:* Impound vehicles at LAPD, to request have impounded or
+private towing.
+
+*THE COURT:* Mrs. Robertson, would you crank that up. Mr. Darden.
+
+*MR. DARDEN:* Thank you.
+
+*MR. DARDEN:* On the afternoon of June 13th at around 3:06 P.M., did you
+receive a radio call from your dispatcher?
+
+*MR. DOUROUX:* Yes, we did.
+
+*MR. DARDEN:* And after receiving that radio call, did you go somewhere?
+
+*MR. DOUROUX:* Yes, I did.
+
+*MR. DARDEN:* Where did you go?
+
+*MR. DOUROUX:* 360 Rockingham.
+
+*MR. DARDEN:* And why did you go to 360 Rockingham?
+
+*MR. DOUROUX:* We were requested by LAPD to pick up a vehicle.
+
+*MR. DARDEN:* Okay. And what time did you arrive at 360 north Rockingham?
+
+*MR. DOUROUX:* Approximately 3:30.
+
+*MR. DARDEN:* Okay. And did you speak to a police officer at that location?
+
+*MR. DOUROUX:* I spoke to a couple of them, yes.
+
+*MR. DARDEN:* Okay. And were you given any instructions?
+
+*MR. DOUROUX:* Yes, I did. Yes, I was.
+
+*MR. DARDEN:* Okay. What instructions were you given by the officers?
+
+*MR. DOUROUX:* Not to touch the vehicle, not to open it and to take it
+downtown.
+
+*MR. DARDEN:* Okay. And were you directed toward a certain vehicle, to a
+certain vehicle?
+
+*MR. DOUROUX:* Yes, I was.
+
+*MR. DARDEN:* And what vehicle was that?
+
+*MR. DOUROUX:* Ford Bronco.
+
+*MR. DARDEN:* Okay. The Ford Bronco that's been on--
+
+*MR. DOUROUX:* Yes.
+
+*MR. DARDEN:* Okay. Mr. Simpson's Ford Bronco?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* And did you tow that Ford Bronco?
+
+*MR. DOUROUX:* Yes, I did.
+
+*MR. DARDEN:* Did you touch it prior to hooking it up to your tow truck?
+
+*MR. DOUROUX:* Not prior. But after I hooked it up, I did touch the
+front right tire just to make sure it was locked, the steering column
+was locked.
+
+*MR. DARDEN:* Okay. Now, during the time that you were at 360 north
+Rockingham, did you ever see any civilian touch the Ford Bronco?
+
+*MR. DOUROUX:* No, I didn't.
+
+*MR. DARDEN:* And did you ever touch the doors or the--
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* Did you look inside the Ford Bronco?
+
+*MR. DOUROUX:* I glanced inside, but didn't check to see anything.
+
+*MR. DARDEN:* Okay. You took a glance inside?
+
+*MR. DOUROUX:* See, make sure it was in full-time four-wheel drive.
+There's a little button sometimes tells you it's four-wheel full-time,
+but there was nothing.
+
+*MR. DARDEN:* Now, to take this glance inside the vehicle, did you open
+the door?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* Did you ever touch the door handle?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* Okay. What did you do to take this glance inside the Ford
+Bronco?
+
+*MR. DOUROUX:* Just--just look like that and that was it, took a quick
+peek /(Indicating)/.
+
+*MR. DARDEN:* Could you tell whether or not the Ford Bronco was locked?
+
+*MR. DOUROUX:* Yes, it was locked because it had little--the buttons
+were down on the Bronco.
+
+*MR. DARDEN:* Okay. It was locked when you first saw it?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* Did you unlock that vehicle?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* And did you tow that vehicle?
+
+*MR. DOUROUX:* Yes, sir, I did.
+
+*MR. DARDEN:* Where did you tow the Ford Bronco to?
+
+*MR. DOUROUX:* To Parker Center to print shed over here.
+
+*MR. DARDEN:* Okay. To Parker Center over here on Los Angeles Street?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* To the print shed?
+
+*MR. DOUROUX:* Yes, sir.
+
+*THE COURT:* Hold on. Mr. Douroux, would you allow Mr. Darden and the
+other lawyers to finish asking the question before you start to answer?
+
+*MR. DOUROUX:* Okay. Yes, sir.
+
+*THE COURT:* See, you just did it right now. The problem we have is that
+you speak very softly. The court reporter has to be able to write down
+everything that is said. If you start to speak when Mr. Darden is still
+speaking, she can't take down what's being said. All right?
+
+*MR. DOUROUX:* Okay.
+
+*THE COURT:* Thank you, sir. Just let everybody finish their questions.
+Mr. Darden.
+
+*MR. DARDEN:* What time, sir, did you leave Rockingham with the Bronco?
+
+*MR. DOUROUX:* Oh, approximately 3:40.
+
+*MR. DARDEN:* Okay. And what time did you arrive downtown at Parker
+Center, if you know?
+
+*MR. DOUROUX:* It took me about an hour to get there. So probably about
+4:40, 4:30.
+
+*MR. DARDEN:* Okay.
+
+*MR. DOUROUX:* Something like that.
+
+*MR. DARDEN:* And did you arrive at the print shed?
+
+*MR. DOUROUX:* I was told to meet someone at the shed. There was nobody
+there. So I had to go out to the front of Parker Center and request for
+the detective.
+
+*MR. DARDEN:* So you arrived at the print shed and there was no one there?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* And you say that you went inside Parker Center?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* Okay. And why did you do that?
+
+*MR. DOUROUX:* To let the officer know, the desk person that was there
+that I had the Bronco and that I was supposed to meet a detective. And
+he called the detective, they came down and we went down to the print shed.
+
+*MR. DARDEN:* Okay. And where was the Bronco during the time that you
+were speaking to the officers inside Parker Center?
+
+*MR. DOUROUX:* In front of Parker Center.
+
+*MR. DARDEN:* Okay. Was there media there?
+
+*MR. DOUROUX:* A few feet away. Well, actually about 15 yards away.
+
+*MR. DARDEN:* Okay. Did anyone pay or seem to pay any attention to the
+Ford Bronco?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* Did you see anybody approach the Ford Bronco at that time?
+
+*MR. DOUROUX:* No, sir. I'm sorry.
+
+*MR. DARDEN:* Okay. And after you spoke to the officers inside Parker
+Center, what did you do next?
+
+*MR. DOUROUX:* Went back to the truck and stayed with the vehicle until
+the detective came out.
+
+*MR. DARDEN:* Okay. And at that point, did you return to the print shed?
+
+*MR. DOUROUX:* Yes, sir, we did.
+
+*MR. DARDEN:* Okay. Along with the detective?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* Now, the print shed, is this a locked facility?
+
+*MR. DOUROUX:* Yes, it is.
+
+*MR. DARDEN:* Okay. And how do you know that?
+
+*MR. DOUROUX:* We had to open it with a key. It was steel doors and it's
+all locked from the inside.
+
+*MR. DARDEN:* So you saw the detective open the locked doors?
+
+*MR. DOUROUX:* Yes, sir, I did.
+
+*MR. DARDEN:* And what did you do after that?
+
+*MR. DOUROUX:* I backed the Bronco in, unhooked it. He took information
+down off the impound sheet and that was it.
+
+*MR. DARDEN:* Did you see the detective open the Ford Bronco?
+
+*MR. DOUROUX:* No, I didn't.
+
+*MR. DARDEN:* And when you left the Ford Bronco at the print shed, was
+it still locked?
+
+*MR. DOUROUX:* Yes, sir, it was.
+
+*MR. DARDEN:* Now, at some point, you left the print shed, correct?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. DARDEN:* Okay. And as you left the print shed, did you notice
+whether or not the detective locked the doors to the shed?
+
+*MR. DOUROUX:* Yes, he did.
+
+*MR. DARDEN:* And how do you know that?
+
+*MR. DOUROUX:* I saw him shut the doors behind me as I was leaving.
+
+*MR. DARDEN:* Your Honor, I have here a vehicle investigation impound
+report. May it be marked People's next in order?
+
+*THE COURT:* 234.
+
+/(Peo's 234 for id = veh. Impound report)/
+
+//*MR. DARDEN:* Okay. And with the Court's permission, after the witness
+completes his testimony, I would like to substitute this document with a
+Xerox copy.
+
+*THE COURT:* All right. Hearing no objection.
+
+*MR. DARDEN:* Mr. Douroux, showing you what has been marked as People's
+234, is that a copy of the impound report?
+
+*MR. DOUROUX:* Yes, sir, it is.
+
+*MR. DARDEN:* Now, is there a box on that report that indicates whether
+or not a vehicle is locked when it's recovered?
+
+*MR. DOUROUX:* No, there isn't. Doesn't say. It just says "keys" and it
+says "no" for keys, but doesn't indicate that it was locked. There's no
+box that shows it.
+
+*MR. DARDEN:* Now, let me direct your attention to the upper left-hand
+corner of the report, that portion entitled "stolen, lost, embezzled."
+
+*MR. DOUROUX:* Yes.
+
+*MR. DARDEN:* Is there a box here that indicates whether or not the
+doors are locked?
+
+*MR. DOUROUX:* Yeah, right here /(Indicating)/.
+
+*MR. DARDEN:* Now, does that portion of the report apply only to stolen
+or stolen vehicles that are recovered or does that box apply to vehicles
+that are impounded like the Ford Bronco in this case?
+
+*MR. DOUROUX:* Well, according to this, just lost, stolen, embezzled
+vehicles.
+
+*MR. DARDEN:* Okay. And have you been interviewed by the LAPD and D.A.
+Investigators?
+
+*MR. DOUROUX:* Yes, I have.
+
+*MR. DARDEN:* Have you also been interviewed by Defense investigators?
+
+*MR. DOUROUX:* Yes, I have.
+
+*MR. DARDEN:* Thank you.
+
+*THE COURT:* Mr. Cochran.
+
+*_CROSS-EXAMINATION BY MR. COCHRAN_*
+
+*__MR. COCHRAN:* Good morning, Mr. Douroux.
+
+*MR. DOUROUX:* Good morning.
+
+*MR. COCHRAN:* Good morning, ladies and gentlemen.
+
+*THE JURY: *Good morning.
+
+*MR. COCHRAN:* Mr. Douroux, you and I just met about five minutes ago in
+the hall for the first time; is that correct, sir?
+
+*MR. DOUROUX:* Yes, sir, it is.
+
+*MR. COCHRAN:* And with regard to your towing of this vehicle, as I
+understand it, this took place on or about June 13th of 1994 in the
+afternoon; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And can you tell the jury, ladies and gentlemen of the
+jury what time you received a call in response to this, sir?
+
+*MR. DOUROUX:* We received a call from the mike room, LAPD's mike room
+at approximately 3:06.
+
+*MR. COCHRAN:* And then you responded to that call and arrived at the
+location on Rockingham?
+
+*MR. DOUROUX:* Yes, sir. Around 3:31.
+
+*MR. COCHRAN:* All right. Around 3:31 in the afternoon?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* And when you got to that location, was the media present
+at that time, sir?
+
+*MR. DOUROUX:* Yes, they were.
+
+*MR. COCHRAN:* And did you see a lot of media there?
+
+*MR. DOUROUX:* Yes, there was.
+
+*MR. COCHRAN:* While you were there at Rockingham, did you ever see a
+lady walk up or run up and touch this particular vehicle while you were
+there?
+
+*MR. DOUROUX:* I--not myself, no.
+
+*MR. COCHRAN:* You never saw that personally?
+
+*MR. DOUROUX:* No.
+
+*MR. COCHRAN:* Did you become aware of that at some point?
+
+*MR. DOUROUX:* I was told that when I was doing the interviews with the
+Defense and with LAPD, they had mentioned it to me.
+
+*MR. COCHRAN:* So you learned about it afterwards; is that correct?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* With regards to this particular vehicle, prior to the
+time that you started preparing it for towing, did you have occasion to
+look at that vehicle, exterior of the vehicle at all?
+
+*MR. DOUROUX:* No, I didn't. Just after I hooked it up just to make sure
+it was nothing--there wasn't full-time four-wheel drive.
+
+*MR. COCHRAN:* You described for us that you touched I guess the front
+wheel part of the vehicle; is that correct?
+
+*MR. DOUROUX:* Yes, sir. The front right tire.
+
+*MR. COCHRAN:* Did you have occasion to look at any of the doors of that
+vehicle at all?
+
+*MR. DOUROUX:* No, I didn't.
+
+*MR. COCHRAN:* And you didn't notice anything on the exterior of that
+vehicle that you can recall presently; is that correct?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* Did you have occasion to look at the driver's side door
+down by the sill, down at the bottom of that particular vehicle?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* You never looked at that?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* Did you see what appeared to be any coffee cup stains on
+the hood of that vehicle?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* You didn't see that either?
+
+*MR. DOUROUX:* No.
+
+*MR. COCHRAN:* All right. So I understand this is a fairly routine tow
+for you at that time; is that correct?
+
+*MR. DOUROUX:* Yes, sir, it was.
+
+*MR. COCHRAN:* The only different from this scene from other scenes
+you've been to was the fact there were a lot of media present; is that
+correct?
+
+*MR. DOUROUX:* That was it, yes.
+
+*MR. COCHRAN:* All right. You were working by yourself that day, sir?
+
+*MR. DOUROUX:* There was--there was three other drivers that day, but I
+was the one who got dispatched to the call.
+
+*MR. COCHRAN:* All right. When you say "three other drivers," three
+other drivers who responded to the call?
+
+*MR. DOUROUX:* No. No. Just on the shift.
+
+*MR. COCHRAN:* Working for Rheuban's that day?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* But you responded to the call, and when you got there to
+Rockingham at about 3:30 in the afternoon, you were the only driver
+there; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* All right. You talked to a police officer once you got to
+the Rockingham location, did you?
+
+*MR. DOUROUX:* Yes, I did.
+
+*MR. COCHRAN:* And do you know the name of that police officer?
+
+*MR. DOUROUX:* I can't remember his name, no.
+
+*MR. COCHRAN:* Was this police officer in civilian clothes or was he in
+uniform?
+
+*MR. DOUROUX:* He was in civilian. The one who instructed me where to
+take the Bronco was.
+
+*MR. COCHRAN:* He was in what?
+
+*MR. DOUROUX:* In civilian clothes.
+
+*MR. COCHRAN:* All right. You don't know his name?
+
+*MR. DOUROUX:* No, sir, I don't.
+
+*MR. COCHRAN:* All right. So at any rate, you then proceeded, as I
+understand your testimony, to hook this vehicle up and then to transport
+it downtown; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And it was your understanding that you were going to meet
+a detective somewhere in or about the print shed?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* Is that correct?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* And then you described for us that it took you perhaps an
+hour or more to drive easterly downtown to Parker Center to the print
+shed; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* Where is the print shed located, sir, downtown here in L.A.?
+
+*MR. DOUROUX:* Directly behind Parker Center on San Pedro Street.
+
+*MR. COCHRAN:* All right. And you went to that location, and did you see
+any detective when you first went there?
+
+*MR. DOUROUX:* No, I didn't.
+
+*MR. COCHRAN:* All right. So how long did you wait at that location?
+
+*MR. DOUROUX:* Approximately 10 minutes, 10, 15 minutes.
+
+*MR. COCHRAN:* All right. And what time was that by now?
+
+*MR. DOUROUX:* I would say about 3--3:30, 3:40, somewhere around that time.
+
+*MR. COCHRAN:* Let's see.
+
+*MR. DOUROUX:* No. No. About 4:30, 4:40, around that time. About an hour
+after I left Rockingham.
+
+*MR. COCHRAN:* All right. So 4:30, 4:40?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* All right. Did you talk to anybody at the print shed when
+you first got there?
+
+*MR. DOUROUX:* There was nobody there.
+
+*MR. COCHRAN:* All right. Nobody. It was like locked?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* All right, sir. So then you had--you waited about 10
+minutes and them thereafter, as I understand your testimony, you drove
+around to Parker Center; is that correct?
+
+*MR. DOUROUX:* That's correct. To the front of Parker Center.
+
+*MR. COCHRAN:* And you were by yourself at this point. And so when you
+went in to try to locate the detective, you left the vehicle on the
+street; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And so how long were you away from that vehicle when you
+left it?
+
+*MR. DOUROUX:* Approximately three minutes. Just to go inside.
+
+*MR. COCHRAN:* All right. Now, what street did you park the vehicle on, sir?
+
+*MR. DOUROUX:* Los Angeles.
+
+*MR. COCHRAN:* On Los Angeles Street?
+
+*MR. DOUROUX:* Yes, sir, right--
+
+*MR. COCHRAN:* And is that in front of Parker Center?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* Out on the street. So you would be heading northbound on
+Los Angeles?
+
+*MR. DOUROUX:* I thought it was eastbound.
+
+*MR. COCHRAN:* Well, you're on Los Angeles Street, right?
+
+*MR. DOUROUX:* Yeah. I was directly right in front of Parker Center in
+front of the doors. So thought it was eastbound. Maybe--
+
+*MR. COCHRAN:* All right. You headed toward Union Station would you?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* Toward Olvera Street?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* So let's call that north now.
+
+*MR. DOUROUX:* Okay.
+
+*MR. COCHRAN:* All right. And you parked the car--parked your vehicle
+there and your vehicle; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And you left it and then you went inside Parker Center,
+in the front doors of Parker Center?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* When you left the vehicle to go inside, the media was
+outside also?
+
+*MR. DOUROUX:* Yes, they were.
+
+*MR. COCHRAN:* Can you approximate for the Court and jury how many
+members of the media were there, sir?
+
+*MR. DOUROUX:* It was a group. I couldn't--maybe 10, 15 more.
+
+*MR. COCHRAN:* A group like a pack of media?
+
+*MR. DOUROUX:* Yeah. They're all hanging out on the lawn.
+
+*MR. COCHRAN:* A pack? How about a swarm, a swarm of media, your Honor?
+So how many would--how many would--
+
+*MR. DOUROUX:* I would say probably about 10, maybe more.
+
+*MR. COCHRAN:* All right. So 10--about 10 different cameras and that
+sort of thing?
+
+*MR. DOUROUX:* Yes. Exactly.
+
+*MR. COCHRAN:* And how far away were they from you at the time that you
+went inside, when you left the vehicle to go inside Parker Center?
+
+*MR. DOUROUX:* It was about 15 yards.
+
+*MR. COCHRAN:* 15 yards away?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* And then you then left the vehicle and went inside; is
+that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And you went inside to try to find a detective; is that
+correct?
+
+*MR. DOUROUX:* I went inside and I asked the desk sergeant there, the
+person in charge I had a Bronco with me from 360 Rockingham. He called
+upstairs and he told me the detective was on his way down.
+
+*MR. COCHRAN:* All right. And then--and that's kind of at the front desk
+when you walk inside Parker Center, it's at the front desk there inside?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And during this time while you were inside, there was
+nobody outside with the Bronco at that point; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* All right. So your best recollection is, you stayed
+inside for how long--did you--strike that. Did you wait for the
+detective inside?
+
+*MR. DOUROUX:* No, sir, I didn't.
+
+*MR. COCHRAN:* All right. After you talked with this desk sergeant and
+you were told a sergeant--a detective would be coming down, did you go
+back outside then?
+
+*MR. DOUROUX:* That's correct. I did.
+
+*MR. COCHRAN:* All right. And then you walked back outside to the vehicle?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* All right. And I presume it was still parked at the same
+place; is that right?
+
+*MR. DOUROUX:* Yes, it was.
+
+*MR. COCHRAN:* And did you wait outside with the vehicle at that point?
+
+*MR. DOUROUX:* Yes, I did.
+
+*MR. COCHRAN:* When you went back outside to wait for the detective, how
+long did you wait before a detective came out?
+
+*MR. DOUROUX:* About three minutes.
+
+*MR. COCHRAN:* All right. And--
+
+*MR. DOUROUX:* Less than five minutes.
+
+*MR. COCHRAN:* Less than five minutes?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* During that period of time, Mr. Douroux, did you have
+occasion to look at the exterior of the Bronco at all at that point?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* So up to the time that you left that particular vehicle
+on June 13th, 1994, you never had occasion to visually inspect the
+exterior of that vehicle. Is that a fair statement?
+
+*MR. DOUROUX:* Umm, yeah. Just--I mean, took a quick glance, see that
+there was no damages, and that was it.
+
+*MR. COCHRAN:* Did you have to log on any particular form whether or not
+there was damages at any place on that particular--
+
+*MR. DOUROUX:* It's usually marked on this. When we look--we can look
+over the vehicle, make sure there's no damages on the vehicle. If there
+are, we mark them down on the impound sheet.
+
+*MR. COCHRAN:* And that's called some sort of inventory, this sheet that
+you have before you?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* And in completing that particular inventory form, for
+instance, there are--the form is called "inventory" in the middle of the
+particular form; is that correct, "inventory"?
+
+*MR. DOUROUX:* Well, right where it says "remarks," that's where we put
+all the damages down.
+
+*MR. COCHRAN:* Okay. And you have a "y" column, I presume that's for
+yes, and a "n" column for no; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And did you fill this form out?
+
+*MR. DOUROUX:* No, sir. That was already filled out by LAPD.
+
+*MR. COCHRAN:* It was filled out by LAPD?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* When you got the form?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* Where did you get that form?
+
+*MR. DOUROUX:* From the LAPD on Rockingham.
+
+*MR. COCHRAN:* When you first arrived there?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* All right. And so that we're clear--
+
+*MR. COCHRAN:* May I approach, your Honor?
+
+*THE COURT:* You may.
+
+*MR. COCHRAN:* This form--for the record, your Honor, we are referring
+to People's 233 is it?
+
+*THE COURT:* 234.
+
+*MR. COCHRAN:* 234 for identification.
+
+*MR. COCHRAN:* If we can look at 234, this particular form where there's
+an indication of tow information and inventory, these kind of "x" marks
+here under "y" and "n"--
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* These were filled out by someone else; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* Did you fill out any portion of this form at all?
+
+*MR. DOUROUX:* Just the part here where my signature is and the tow fee
+and the storage fee.
+
+*MR. COCHRAN:* All right. You filled out just the part where it
+indicates, "garage employee, complete this section" and where it says,
+"garage employee signature"?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* That's your signature. And your name is Bernie Douroux?
+
+*MR. DOUROUX:* Douroux, yes, sir.
+
+*MR. COCHRAN:* All right. Anything else filled out by you on this
+particular form?
+
+*MR. DOUROUX:* No. That's it.
+
+*MR. COCHRAN:* All right. And so with regard to the inventory on the
+vehicle, you just quickly looked at it; is that correct?
+
+*MR. DOUROUX:* That's correct. Just the exterior to make sure there was
+no damages, which there were none.
+
+*MR. COCHRAN:* Now, you mentioned also, sir, that at some point, you had
+occasion to glance inside the vehicle; is that correct?
+
+*MR. DOUROUX:* Yes, sir. Just the front--the window, just to look, see
+if it was four-wheel--slide vehicles sometimes are full-time four-wheel
+drives. So we just have to make sure they're not engaged, which I didn't
+see anything when I glanced. So I didn't bother looking.
+
+*MR. COCHRAN:* And where were you when you glanced inside the vehicle?
+
+*MR. DOUROUX:* On the right-hand side, passenger side.
+
+*MR. COCHRAN:* All right. And more specifically, what location were you at?
+
+*MR. DOUROUX:* Oh, in the front.
+
+*MR. COCHRAN:* No. What--where were you? At Rockingham or--
+
+*MR. DOUROUX:* Oh, yes. Yes. I'm sorry. Yeah, Rockingham.
+
+*MR. COCHRAN:* So as I understand it then, you looked inside the vehicle
+while you were still at 360 Rockingham?
+
+*MR. DOUROUX:* Yeah. We just glanced in, looked.
+
+*MR. COCHRAN:* And you did this from the passenger side of the vehicle;
+is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And you don't recall seeing anything that you noted
+inside that particular vehicle; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* All right. This would have been shortly after you arrived
+about 3:30 in the afternoon?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* That you looked inside? All right. Now, when you went
+back outside after talking to the desk sergeant, you waited for a period
+of time, perhaps less than five minutes and a detective came out; is
+that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* Do you know the name of that detective, sir?
+
+*MR. DOUROUX:* No. I don't remember.
+
+*MR. COCHRAN:* And you talked briefly with that detective. You had a
+conversation with that person?
+
+*MR. DOUROUX:* Yeah, weather.
+
+*MR. COCHRAN:* You talked about the weather?
+
+*MR. DOUROUX:* Just weather and how--because it a was nice, warm day.
+Other than that, no, no conversation.
+
+*MR. COCHRAN:* June 13th was a warm day?
+
+*MR. DOUROUX:* It was.
+
+*MR. COCHRAN:* All right. And so after you had this conversation with
+the detective, did you then take the vehicle back over to the print shed?
+
+*MR. DOUROUX:* Yes. We took it over there. He got in the truck and we
+went to the print shed.
+
+*MR. COCHRAN:* So the detective rode with you?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* All right. You went back to the print shed, and at that
+time, you gained entrance inside the print shed; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And you I presume took the vehicle inside and parked it
+in some location; is that correct?
+
+*MR. DOUROUX:* That's correct. I backed it in and dropped the vehicle.
+
+*MR. COCHRAN:* And about what time was it at that time, sir?
+
+*MR. DOUROUX:* God, maybe quarter to 5:00, maybe almost 5:00 by that time.
+
+*MR. COCHRAN:* Somewhere around 5:00 o'clock in the afternoon?
+
+*MR. DOUROUX:* I believe it was before 5:00.
+
+*MR. COCHRAN:* All right. And you then left the vehicle; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* While you were there, did you ever see any--any person
+get inside that vehicle at all?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* And did you ever get inside it?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* By the way, do you carry--in the course of your work as a
+tow truck driver, do you have one of these things called a slim jim?
+
+*MR. DOUROUX:* Yes, I do.
+
+*MR. COCHRAN:* And that is a kind of instrument that works to open
+vehicles; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* And with regard to that slim jim, you could open that
+vehicle real quickly, couldn't you?
+
+*MR. DOUROUX:* Yes, I could.
+
+*MR. COCHRAN:* I mean, in other words, you're an experienced tow truck
+driver?
+
+*MR. DOUROUX:* Yes.
+
+*MR. COCHRAN:* How long would it take you to use your slim jim to open a
+vehicle like that Bronco?
+
+*MR. DARDEN:* Objection. Irrelevant.
+
+*THE COURT:* Overruled.
+
+*MR. COCHRAN:* How long would it take?
+
+*MR. DOUROUX:* Couple minutes, if I had to open it.
+
+*MR. COCHRAN:* If you wanted to open it, couple minutes?
+
+*MR. DOUROUX:* Yeah.
+
+*MR. COCHRAN:* Did you see whether or not the detective who rode back
+over with you to Parker Center, did you see whether or not he had a slim
+jim with him?
+
+*MR. DOUROUX:* I didn't notice one, no.
+
+*MR. COCHRAN:* And did you ever see the detective open the vehicle while
+you were there?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* You then left the vehicle, and that ended your
+involvement with this vehicle on that day; is that correct?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* All right. Did you--strike that. With regard to the form
+that's before you again, People's 234 for identification, you were asked
+by Mr. Darden whether or not there was any indication on the form of
+whether or not this vehicle was locked, and you indicated there's
+no--there's no indication one way or the other; is that correct?
+
+*MR. DOUROUX:* That's correct. I really didn't even notice the part up
+there.
+
+*MR. COCHRAN:* All right. So look at it now for me, will you?
+
+*MR. DOUROUX:* Yes. I'm looking at it.
+
+*MR. COCHRAN:* In an area called "stolen, lost or embezzled," there's an
+indication the right part of that block that--of whether or not the
+ignition was locked, right?
+
+*MR. DOUROUX:* That's correct.
+
+*MR. COCHRAN:* There's nothing checked, right?
+
+*MR. DOUROUX:* Nothing.
+
+*MR. COCHRAN:* There's an indication whether the doors are locked.
+There's nothing indicated, right?
+
+*MR. DOUROUX:* Nothing.
+
+*MR. COCHRAN:* All right. And you had not noticed that before you
+brought the form with you today; is that right?
+
+*MR. DOUROUX:* Naw. That's correct.
+
+*MR. COCHRAN:* You then left the print shed and it was about 5:00
+o'clock or so that afternoon?
+
+*MR. DOUROUX:* About 5:00, yes, sir.
+
+*MR. COCHRAN:* And what time did you check out that day from
+your--terminate your employment that day, if you recall?
+
+*MR. DOUROUX:* 7:00 o'clock.
+
+*MR. COCHRAN:* And did you pick up any other vehicles on that day that
+you recall?
+
+*MR. DOUROUX:* Before or--
+
+*MR. DARDEN:* Objection. Irrelevant.
+
+*THE COURT:* Overruled.
+
+*MR. COCHRAN:* I didn't hear your response.
+
+*MR. DOUROUX:* Before--a few cars before.
+
+*MR. COCHRAN:* No. Afterwards.
+
+*MR. DOUROUX:* No.
+
+*MR. COCHRAN:* May we approach just for a second?
+
+*THE COURT:* Do we have to?
+
+*MR. COCHRAN:* Yes. Just very brief.
+
+/(A conference was held at the bench, not reported.)/
+
+/(The following proceedings were held in open court:)/
+
+//*MR. COCHRAN:* Thank you very much.
+
+*THE COURT:* All right. Mr. Cochran.
+
+*MR. COCHRAN:* Did you write any other notes with regard to any of your
+observations on that--from that particular date other than your
+signature on People's 234 for identification?
+
+*MR. DOUROUX:* No, sir. That's just--that's it.
+
+*MR. COCHRAN:* Pretty much it?
+
+*MR. DOUROUX:* Yes, sir.
+
+*MR. COCHRAN:* And with regard to your observations or lack thereof of
+things either outside the Bronco or inside the Bronco that you saw, did
+you write those down anywhere at all?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* And you never saw anything inside in the interior of that
+vehicle; is that correct?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* Never said any blood inside that vehicle?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* Never saw any blood on the outside of that vehicle?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* Did you see anything in the rear of the vehicle at all
+that you recall?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. COCHRAN:* All right. Thank you very kindly, Mr. Douroux.
+
+*MR. DOUROUX:* Okay.
+
+*MR. COCHRAN:* Thank you.
+
+*THE COURT:* Mr. Darden, any redirect?
+
+*MR. DARDEN:* Just a couple questions.
+
+*_REDIRECT EXAMINATION BY MR. DARDEN_*
+
+*__MR. DARDEN:* Mr. Douroux, you didn't notice any unusual stains on the
+steering wheel of the Bronco?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* Did you see any unusual stains on the console of the Bronco?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* How about the interior driver's door panel? Did you see
+any unusual stains there?
+
+*MR. DOUROUX:* No, sir.
+
+*MR. DARDEN:* Okay. Thank you, sir.
+
+*THE COURT:* Mr. Cochran.
+
+*MR. COCHRAN:* Nothing further, your Honor. Thank you very much.
+
+*THE COURT:* All right. Mr. Douroux, thank you very much. You are
+excused as a witness. Thank you for coming in. And if you'll give that
+document, please, to Mr. Darden. All right. Mr. Darden, do you have your
+People's next witness available?
+
+*MR. DARDEN:* I think so. If we could just have one moment.
+
+/(Brief pause.)/
+
+//*MR. DARDEN:* Yes, we do, your Honor. Your Honor, Mr. Clarke has
+prepared the next witness.
+
+*THE COURT:* All right. Give me two seconds here. Change water glasses
+here. Mr. Fairtlough, can we do that someplace else? Great. Mr. Clarke,
+you may call the People's next witness.
+
+*MR. CLARKE:* Yes. Thank you, your Honor. Dr. Robin Cotton, please.
+
+*THE COURT:* Dr. Cotton.
+
+/Robin Cotton, called as a witness by the People, was sworn and
+testified as follows:/
+
+//*THE CLERK:* Please raise your right hand. You do solemnly swear that
+the testimony you may give in the cause now pending before this Court,
+shall be the truth, the whole truth and nothing but the truth, so help
+you God?
+
+*DR. COTTON:* I do.
+
+*THE CLERK:* Please have a seat on the witness stand and state and spell
+your first and last names for the record.
+
+*DR. COTTON:* My first name is spelled R-O-B-I-N and the last name is
+C-O-T-T-O-N.
+
+*THE COURT:* All right. Dr. Cotton, why don't you just lean back and
+pull the microphone towards you, please.
+
+*MR. CLARKE:* Your Honor, with the Court's permission, may I reintroduce
+myself to the jury?
+
+*THE COURT:* You may.
+
+*MR. CLARKE:* All right. Thank you. Ladies and gentlemen, my name is
+George Clarke. Actually has an "e" on the end. So I'm no relation to
+Miss Clark. Thank you, your Honor, and good morning, ladies and gentlemen.
+
+*MS. CLARK:* I think you need that disclaimer, your Honor. My brother.
+
+*_DIRECT EXAMINATION BY MR. CLARKE_*
+
+*__MR. CLARKE:* Dr. Cotton, who are you employed by?
+
+*DR. COTTON:* I'm employed by Cellmark Diagnostics in Germantown, Maryland.
+
+*MR. CLARKE:* What is Cellmark Diagnostics?
+
+*DR. COTTON:* We are a private company and we do DNA testing for
+paternity and for criminal cases.
+
+*MR. CLARKE:* As far as your formal education, do you have any higher
+level or upper level degrees?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. CLARKE:* Could you describe that, please?
+
+*DR. COTTON:* I have a masters degree with a major in biology and I have
+a Ph.D. with a major in biochemistry and molecular biology.
+
+*MR. CLARKE:* When you say biochemistry, could you explain what that is?
+
+*DR. COTTON:* It's just the methods and information that's gathered by
+those methods in an attempt to understand basically all cellular processes.
+
+*MR. CLARKE:* When you say "cellular processes," can you tell us a
+little bit about that?
+
+*DR. COTTON:* Well, except for viruses, all organisms are made up of
+cells. Bacteria is a cell, a yeast is a cell, and we are made up of
+many, many cells, and biochemistry and molecular biology are the tools
+that a biologist uses to try to understand how cells function and how
+they are able to do the things that they do.
+
+*MR. CLARKE:* Could you also pull the microphone perhaps just a little
+bit closer to you?
+
+*DR. COTTON:* How's that?
+
+*MR. CLARKE:* That's fine. Thanks. You also described that your higher
+level of degree was also in molecular biology; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Could you describe what that is, please?
+
+*DR. COTTON:* Molecular biology is sort of a generic term and really
+refers to a set of tools that biologists may use to help them understand
+any number of things. Maybe a biologist would use the tools of molecular
+biology to find out where a particular gene or genetic characteristic
+was or they might use the tools to understand how a particular gene or
+genetic characteristic causes a cell to do a particular thing. And that
+can be applied to research in animals and research in humans, research
+in bacteria. It's really the set of tools that is used in understanding
+cellular processes.
+
+*MR. CLARKE:* To what extent did your formal education deal with DNA itself?
+
+*DR. COTTON:* Most of my graduate--well, actually the work that I did
+for my masters degree didn't have anything to do with DNA. The work that
+I did for my Ph.D. and research that I've done since then has all had
+something to do with understanding DNA.
+
+*MR. CLARKE:* All right. I would like to return to your qualifications
+later. But first, what is DNA, Dr. Cotton?
+
+*DR. COTTON:* DNA is that part of the chromosomes that carries the
+information that programs an organism from the point of conception; that
+is from the point when an egg and a sperm come together. The DNA in the
+egg and the DNA in the sperm now makes up the total DNA for that
+organism, and the information in that DNA programs the development of
+that organism all the way through childhood, if it was a human,
+adulthood and on through aging until that human being isn't alive anymore.
+
+*MR. CLARKE:* What is DNA itself? How would you describe it?
+
+*DR. COTTON:* DNA is a--is correctly described as a polymer. That is,
+it's a long series of components that are all attached together and it's
+basically our cellular alphabet.
+
+*MR. CLARKE:* You use the term "polymer." could you spell that, please?
+
+*DR. COTTON:* P-o-l-y-m-e-r.
+
+*MR. CLARKE:* What role does DNA play in terms of inheritance from
+parents to children?
+
+*DR. COTTON:* When the egg and the sperm come together to start a new
+animal or a new human being, the egg contains half of the DNA from that
+human being--for that new--we'll talk about people so I don't have to
+keep referring back and forth, people, animals. It's generic. But
+anyway, the egg contains half of that DNA for that new person, the sperm
+contains the other half. So we inherit one half of our DNA from our
+mother and we inherit the other half of our DNA from our father.
+
+*MR. CLARKE:* As far as DNA's role in the body--and you've described the
+fact that it provides for the structure, for instance, of human beings;
+is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And when you say "structure" or I've used the word
+"structure," what role does DNA have in creating our bodies?
+
+*DR. COTTON:* You could take an entire series of college courses that
+would answer that question. So let me see if I can make a simple answer
+for you. All of the information that predicts our structure, our height,
+our build, our skin color, our organs, you have a liver, that
+information on how that liver is going to be formed as the organism
+developed is contained in the DNA; and the DNA does that by containing
+the information that's eventually translated into proteins, and those
+proteins do the major part of the work in the cell. And so basically the
+DNA contains all information to make a specific organism.
+
+*MR. CLARKE:* Sometimes the term "genetic blueprint" has been attached
+to DNA. Is that--
+
+*DR. COTTON:* And it's a good description.
+
+*MR. CLARKE:* In what way?
+
+*DR. COTTON:* Well, if you think of a blueprint as all--I don't know
+much about how you build a building, but if I--if we make the assumption
+that a blueprint contains all the information for how to build your
+house, the DNA--the analogy is, the DNA contains all the information on
+how to build you.
+
+*MR. CLARKE:* Where is DNA actually found in our bodies?
+
+*DR. COTTON:* It's found in the nucleus of each cell.
+
+*MR. CLARKE:* Okay. Do we have and in fact have you and I discussed the
+fact that we will be drawing some charts for this jury?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And will we in fact be talking to your knowledge about
+some of these very same items that you've just described?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Is there a term called "chromosomes"?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What is that?
+
+*DR. COTTON:* The chromosomes are really the DNA molecules packaged up
+in what's a more manageable form for the cell. There are 46 chromosomes
+and you get 23 of those from your mother, you get the other 23 from your
+father, and the chromosome is literally the DNA molecule packaged up by
+some proteins. So we'll sort of disregard those proteins. We don't
+really care about those for purposes of this discussion. But there would
+be if there--since there are 46 chromosomes, there are really 46
+molecules of DNA in each nucleus of each cell of a human being.
+
+*MR. CLARKE:* Would it help to illustrate that point about chromosomes
+and DNA for you to draw a chart for the jury?
+
+*DR. COTTON:* Probably.
+
+*MR. CLARKE:* All right. Your Honor, then with the Court's permission,
+may the witness utilize the tripod that Mr. Fairtlough has--
+
+*THE COURT:* Yes.
+
+*MR. CLARKE:* --and draw on a--
+
+*THE COURT:* Could we possibly put this over on this side over here?
+
+*MR. CLARKE:* My only concern is that some of the jurors will be at some
+distance.
+
+*THE COURT:* Well, the problem is, I need--Defense counsel needs to be
+able to see it as well. So what we'll do is, after we complete the
+drawing, we'll exhibit it to the full jury panel.
+
+*MR. CLARKE:* All right. Very well. Your Honor, perhaps this--what will
+be I believe a drawing by the witness be marked as People's next in order.
+
+*THE COURT:* 235. All right. First drawing by Dr. Cotton will be 235.
+
+/(Peo's 235 for id = drawing)/
+
+//*THE COURT:* Mr. Fairtlough, is that about as high as that goes?
+
+*MR. FAIRTLOUGH:* Yes, your Honor.
+
+*THE COURT:* All right. And let's see if we can move that back so we're
+not cutting off juror no. 1.
+
+*MR. CLARKE:* I'm sorry, your Honor?
+
+*THE COURT:* I'll just ask Mr. Fairtlough to move that back so we're not
+cutting off juror no. 1 here.
+
+*MR. CLARKE:* I was going to suggest if we could use the other tripod
+for the drawings, that will get it higher I think.
+
+*THE COURT:* I don't know that it's attachable to that tripod, is it?
+
+*MR. CLARKE:* All right.
+
+*MR. FAIRTLOUGH:* We could try.
+
+*THE COURT:* Well, let's make due with what we have here and then we'll
+exhibit it to the jurors.
+
+*MR. CLARKE:* All right. Dr. Cotton, then with the Court's permission,
+could you use this chart that's now been marked or will be shortly
+marked People's exhibit 235 to describe for the jury this concept of DNA
+and chromosomes?
+
+*MR. NEUFELD:* I'm sorry, your Honor. Perhaps it could be turned a
+little bit so the Defense can see it.
+
+*THE COURT:* Well, counsel, who is going to be handling this witness on
+cross-examination?
+
+*MR. NEUFELD:* I will.
+
+*THE COURT:* All right. Mr. Neufeld, why don't you sit over next to Mr.
+Goldberg there.
+
+*MR. NEUFELD:* Also, the problem is that Mr. Simpson is not able to see it.
+
+*THE COURT:* I understand that, counsel, but it's going to be exhibited
+for everybody. We have to make do with the angles we have.
+
+*MR. NEUFELD:* Oh, I can see it.
+
+*MR. CLARKE:* And is there a color, Dr. Cotton--do you have a pen in
+your hand? All right. Very good. Then if you could, please, for the jury
+describe again DNA and this concept of chromosomes and its packaging.
+
+*DR. COTTON:* Let's go back just briefly to the fact that we have each
+in each cell 46 chromosomes. These come 23 from mother and 23 from father.
+
+*THE COURT:* Mr. Goldberg, Mr.--I'm sorry. Can we just have you--Mr.
+Goldberg, could you give Mr. Neufeld that seat, please, and slide over a
+little? All right. Proceed.
+
+*DR. COTTON:* To make a very simplistic drawing of a cell, you have the
+nucleus somewhere in the middle which contains the 46 chromosomes. The
+rest of the cell on the outside is referred to as cytoplasm. And just as
+fast as I write this down, you don't really need to know or remember
+this. We're just going to focus on the DNA that's in the nucleus. People
+who are expert at looking at chromosomes under a microscope can
+distinguish the 46 chromosomes as pairs because they stain slightly
+differently if you put a dye on them and they have somewhat different
+shapes. So we'll just make a crude drawing here of a chromosome pair.
+And someone who is expert at this could actually say, well, this is
+chromosome pair no. 1, and the pairs are numbered 1 through 23 and very
+well characterized. So to look at it under a microscope, if I could find
+each of the two chromosome no. 1, I couldn't tell which came from mother
+and which came from father by looking at them, but will just in my
+example here say that this first one came from the father and the second
+one came from the mother. Now, if you think of the chromosome as the
+packaging of the DNA, if you unwind the DNA from the chromosome for each
+one, you would have a very long thread. And the best analogy that I can
+give to you is that it's not very different from going and having a
+spool of thread, and the spool of thread has dimensions that are maybe
+an inch high and an inch in diameter or something. But if you unwind
+that thread, it's many yards long. And in the same way, if you unpackage
+the DNA from each individual chromosome, it would be very, very long.
+And my drawing isn't at all in proportion if I unpackaged--if I had
+chromosomes that were this size and I unpackaged the DNA, it might be
+several stories worth of length. So it's a very long thread. If we then
+look closer at the DNA, we see that each strand is actually what's
+referred to as being double stranded. And if we did this for an entire
+cell rather than having just two chromosomes as I've shown here, you
+would have 46. So you would have 46 long strands of DNA if you were able
+to unravel each chromosome and lay out each piece of DNA.
+
+*MR. CLARKE:* First of all, is this entire molecule of DNA--first of
+all, is DNA a molecule?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Is this entire molecule the same in every cell of our bodies?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* In terms of this concept of chromosomes, if DNA were a
+book, would a chromosome be something like a chapter to a book?
+
+*DR. COTTON:* Yeah. That's good.
+
+*MR. CLARKE:* Okay. Now, you've introduced this idea of two strands.
+What do you mean by two strands to DNA?
+
+*DR. COTTON:* You mean these two that I've drawn close together?
+
+*MR. CLARKE:* Yes.
+
+*DR. COTTON:* Umm, you might want to go to an additional diagram to try
+to illustrate that better than I could draw here.
+
+*MR. CLARKE:* All right. A diagram of a ladder of DNA?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. Very good.
+
+*MR. CLARKE:* Your Honor, this second chart, would the Court prefer to
+have it marked People's exhibit 236 since the witness went to a second page?
+
+*THE COURT:* Yes. 236.
+
+/(Peo's 236 for id = diagram)/
+
+//*MR. CLARKE:* All right. All right. I think we have a prepared
+diagram, your Honor, that I would ask be marked People's exhibit 237.
+
+*THE COURT:* All right. Diagram, 237.
+
+/(Peo's 237 for id = diagram)/
+
+//*MR. CLARKE:* I'm just wondering where we could put this chart, where
+would be appropriate.
+
+*THE COURT:* How about right there for the time being?
+
+*MR. NEUFELD:* Your Honor, while they're displaying the next one, can we
+show the ones that are already done to counsel or would you rather we wait?
+
+*THE COURT:* Hold on. We have a break coming up in 10 minutes. So we'll
+do the other expedition at the break.
+
+*MR. CLARKE:* Your Honor, for the record, this chart could be identified
+as labeled at the top with DNA and depicting what appears to be a ladder
+with various notations.
+
+*THE COURT:* All right. Mr. Fairtlough, could you raise that up, please?
+
+*MR. FAIRTLOUGH:* Sure.
+
+*THE COURT:* All right. Thank you. Mr. Clarke.
+
+*MR. CLARKE:* Thank you, your Honor.
+
+*MR. CLARKE:* By Mr. Cotton: Dr. Cotton, with respect to this diagram
+that's been marked People's exhibit 237, can you describe for the jury,
+please, what it shows? And we have pointers right at your left hand
+there, if that would help.
+
+*DR. COTTON:* Oh, this thing? No.
+
+*THE COURT:* Left hand.
+
+*DR. COTTON:* Left hand.
+
+*MR. CLARKE:* Or shorter ones.
+
+*DR. COTTON:* Okay. DNA is two strands wound together to--in a helical
+formation. And the reason I didn't try and draw it on my drawing here, I
+just drew two stands side by side is because I can't draw this shape
+very well. But the two strands are wrapped around as if you took two
+ribbons and twisted them one around the other. DNA has four basic
+component--components. They are referred to as bases spelled b-a-s-e-s.
+So there are four bases that make up all the DNA, and they have the
+names adenine, guanine, thymine and cytosine. And they are
+abbreviated--just by their first letter, A, T, G and C. These form bases
+are the DNA alphabet. They exist along the length of the DNA molecule in
+a specific order, and that order has meaning to the cell. And it's just
+like if you look at the English alphabet, it has 26 letters, and you can
+put those letters together in--to make words, which in turn make
+sentence which in turn make paragraphs. The order of these four bases or
+four components on the DNA has meaning to the cell and that order is
+translated into information that the cell can use.
+
+The other important or another important feature is that these four
+components or bases come in pairs. Along one strand, you'll have some
+particular order. So this order is first a G, then an A, then another G,
+a T, a C and a T. Always across from a G, there is a C. So people talk
+about a base GC being one kind of base pair. Always across from a t is
+an A. So in the DNA, there are two kinds of base pairs, an at pair or a
+GC pair. They are paired together like that and the pairing is very
+specific because in the structure of the molecule, this distance from
+one strand to the other strand is constant, and if you add up the
+distance that a C takes or the space that a C takes up and you add up
+the space that a G takes up, it's always the same and it is the same as
+the space that an at pair takes up. So if you can think of it as if you
+had a zipper, but you had four different shaped teeth and the zipper
+would only come together when every a was paired with a t and very G was
+paired with a--every G was paired with a C.
+
+*MR. CLARKE:* Would it then be correct that if a G was paired with an A,
+that it simply wouldn't match or stick together?
+
+*DR. COTTON:* Well, if--if there was a single mismatch like that, then
+it would be very loose there. But you can't have a lot of mismatches or
+the two strands won't stay together.
+
+*MR. CLARKE:* Incidentally, this structure of DNA as you've described
+it, when was it discovered?
+
+*DR. COTTON:* The structure was discovered and published in 1953 by
+Watson and Crick.
+
+*MR. CLARKE:* Is that Dr. Watson and Dr. Crick?
+
+*DR. COTTON:* Dr. Watson and Dr. Quik--Cripp--Crick and I believe that
+the article was published in 1953.
+
+*MR. CLARKE:* So a little over 40 years ago?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* As far as this diagram--and it shows these A's and T's
+that match at least in three instances and then it looks like three more
+instances where the g's and the C's match, is this simply a small
+portion of an entire segment or an entire molecule of DNA?
+
+*DR. COTTON:* A very small portion. There are altogether six billion
+base pairs. And this is of course an approximate. But in human beings,
+you would have six billion base pairs of information. One of the
+important things to note from this diagram is that when people talk
+about DNA, you talk about DNA as being a particular length. It is
+possible to get a physical measurement of the length, but that's not the
+common way that it's discussed. People talk about--scientists talk about
+DNA in terms of how many base pairs long a particular piece of DNA is.
+So the particular piece of DNA that's on this diagram is one, two,
+three, four, five, six base pairs in length. And you can discuss DNA and
+it is discussed in terms of how many base pairs long is a particular piece.
+
+*MR. CLARKE:* When you described the entire molecule being roughly six
+billion bases, is that in each cell of our bodies that has a nucleus?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And in terms of the cells of our bodies that have a
+nucleus, is that all cells?
+
+*DR. COTTON:* No. That is almost all cells. And the major exception or
+the only exception that I commonly would refer to--in fact, I'm not sure
+if there are others or not--is red blood cells. And red blood cells in
+the development and the formation of a red blood cell, the nucleus is
+lost and there is no nucleus in a red blood cell. So if one were to get
+DNA from blood, the DNA is not coming from the red blood cells. It's
+coming from the white blood cells.
+
+*MR. CLARKE:* While we're on that topic, can you describe, please, what
+are the various sources of DNA; in other words, various parts of the
+body that DNA can be taken from?
+
+*DR. COTTON:* Well, DNA can being taken from almost any source. You can
+get DNA from bone, from any tissue, liver spleen, pancreas, kidney,
+brain, skin if you have enough blood, semen, hair roots. Not the part of
+the hair that you're washing and combing. It's just protein. If you pull
+out a hair and you get the hair follicle with it, there are cells around
+that that are part of that hair follicle, and they contain DNA.
+
+*MR. CLARKE:* When you use the term "follicle," is that the bulb like
+material--
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* --at the very bottom of a hair?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. As far as this structure--and you've described
+on this chart the fact that DNA is shown here in a double stranded form?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Does DNA also or can it exist in a single-stranded form?
+
+*DR. COTTON:* It can be made to be single stranded. It occasionally in
+the process of making two cells out of a single cell will exist for
+short stretches in single-stranded form, but that's again something we
+really don't need to be worried about. But experimentally, you can take
+a piece of DNA and either treat it with heat, which would be the common
+method--and if you think of this as a zipper, the two strands will
+simply come apart, so that you would have one strand that had a G, A, G,
+T, C, then the other strand would have a C, T, C, A, G. So it's like
+unzipping the zipper. You can do that chemically. You can do it with
+heat and you--and because of the specific nature of the base pairing,
+you can also bring it back together. The two--two single strands will
+come back together as long as each G is paired with a C and each a is
+paired with a T. So, again, it's like having that zipper have four
+different shaped teeth and the only way you can zip it up is if all the
+teeth mesh together properly and a with a t and a G with a C.
+
+*MR. CLARKE:* All right. Your Honor, I was going to have the witness
+start with a new drawing. Would the Court prefer that now or--
+
+*THE COURT:* No. We need to take a break for a juror issue. All right.
+Ladies and gentlemen, please remember all of my admonitions to you; do
+not discuss the case amongst yourselves, don't form any opinions about
+the case, do not conduct any deliberations until the matter has been
+submitted to you, do not allow anybody to communicate with you. We'll
+stand in recess for 15 minutes. All right. Mr. Clarke, in the interim,
+would you show the exhibits, please. Mr. Clarke.
+
+/(Recess.)/
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* Back on the record in the Simpson matter. Mr. Neufeld,
+has your client had the opportunity to review the diagrams?
+
+*MR. NEUFELD:* Sorry.
+
+*THE COURT:* I said during the break I wanted you to do that. Why don't
+you do that real quick. Mr. Fairtlough, do you want to flip the page
+down, please.
+
+/(Brief pause.)/
+
+//*MR. FAIRTLOUGH:* Move it in.
+
+*THE COURT:* No, right there. Right there is fine.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Thank you, Mr. Fairtlough.
+
+*MR. NEUFELD:* Thank you.
+
+*THE COURT:* All right. Let's have the jury, please.
+
+/(Brief pause.)/
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* Let the record reflect we have now been rejoined by all
+the members of the jury. Thank you, ladies and gentlemen. Please be
+seated. And Dr. Cotton, would you resume the witness stand, please. Good
+morning again, Dr. Cotton. You are reminded you are still under oath.
+Mr. Clarke, you may continue with your direct examination.
+
+*MR. CLARKE:* Thank you, your Honor.
+
+*MR. CLARKE:* Dr. Cotton, with regard to this diagram that is on the
+easel at the moment, People's exhibit 237, you described how that shows
+DNA in a double-stranded form, correct?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* All right. Could you, with the help of a new diagram, or
+actually, would it assist in your describing DNA in a single-stranded
+condition to use and draw on what I believe would be People's exhibit
+238, a new chart, new diagram, rather?
+
+*DR. COTTON:* Yes, it would
+
+/(Peo's 238 for id = chart)/
+
+//*MR. CLARKE:* All right. Then with the Court's permission would you go
+ahead and use the diagram again to illustrate this single-stranded
+versus double-stranded DNA.
+
+*DR. COTTON:* All I'm basically going to do is straighten out the helix
+to make a second diagram that is a little bit easier for me to draw, so
+if we make two strands, now all I have done is really just straightened
+this out, so that when you look at the bases, if you have an a on one
+side, you will have a t on the other. If you have a G on one side, you
+will have a C on the other. And there is a bonding between the a and the
+t and the G and the C that we are not going to bother to draw, but there
+is a force that is keeping these together, so you can make up any
+sequence here. T, A, C, C, G, for example, and if I have made up this
+sequence on this side of the double-stranded, then I would automatically
+know I have the t on this side, I must have an a on the other. I have an
+a on this side, I must have a t on the other and so forth. I have a C on
+this side, so I will have a G on the other strand, and a G on this side,
+so I must have a C on the other. And again, you can think about the size
+of the piece of the DNA that I have drawn by counting the bases. Here I
+have 7, so this piece of DNA that I have illustrated is 7 base pairs
+long. Now, if we take it apart, we haven't really left a lot of room
+here, but we will just put up here this is double-stranded, so I think
+we better--
+
+*MR. CLARKE:* Go to a new page then if we could make that 239.
+
+*THE COURT:* 239.
+
+*MR. CLARKE:* 239. Thank you.
+
+/(Peo's 239 for id = chart)/
+
+//*DR. COTTON:* I'm not going to be able to remember the same series of
+letters that I wrote down on the previous one, but if I took that piece
+that was double-stranded and I heated it, strands would come apart, so I
+would have nothing attached to this side and I would have nothing
+attached to the other side. However--
+
+*MR. CLARKE:* I'm sorry, when you say you heat it, what type of
+temperatures are you talking about?
+
+*DR. COTTON:* You have to heat it to about 95 or a hundred degrees in
+order to get the two strands to come apart, and there is some--there are
+some temperature--some strands of DNA, if you had a lot of C's and g's,
+you have to heat those a little--you have to heat that a little bit more
+than you have a lot of A's and g's. But basically, if you think of it as
+heating to a hundred degrees, and when I say a hundred degrees, I'm not
+talking a hundred degrees centigrade.
+
+*MR. CLARKE:* So a hundred degrees Fahrenheit?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* You are talking about something very hot in Fahrenheit
+temperature?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Not a body temperature and not something out in the
+desert, something much hotter?
+
+*DR. COTTON:* Much hotter.
+
+*MR. CLARKE:* Go ahead.
+
+*DR. COTTON:* If you wanted to put these back together, you can see that
+if you just move them back together, you are able to do that, they would
+all be correctly paired and thus they could come back together and zip
+up. However, if I took this strand, say, and moved it down so that I had
+an a or--I was trying to put a t back together with this C and an a back
+together with this C and a G back together with this G, it would not
+come back together like that. It will only come back together when the
+A's and T's and g's and C's are properly paired up.
+
+*MR. CLARKE:* So therefore DNA is at its happiest, would that be correct
+to say, when the pairs match up correctly?
+
+*DR. COTTON:* Yes. It is happy and it is stable when they are paired up
+correctly. It is pretty happy when they are completely separate, but not
+as happy as when they are together.
+
+*MR. CLARKE:* As far as this ability to separate DNA and to have it
+return to its double-stranded form, why is that important?
+
+*DR. COTTON:* It becomes important in the process of doing DNA testing
+and for many other reasons, because it allows you--suppose I have this
+DNA sequence, single-stranded, and I have this one in my hand in a
+test-tube and I mix them together. They will come back together. If I
+have some kind of a tag on here, some kind of tag and the tag could be a
+radioactive tag or other types of tags, if I have this piece in a
+test-tube and I have this piece in some other forms and I mix them
+together and I let them come back together, they will zip up together
+correctly given some time, and now I can find out where this
+single-stranded piece has gone to by looking at whatever kind of tag I
+have stuck to it.
+
+*MR. CLARKE:* And is the ability to do that or does that ability play a
+role in DNA typing itself?
+
+*DR. COTTON:* It plays a role in every form of DNA typing that is
+currently in use.
+
+*MR. CLARKE:* Okay. We'll talk about that a little bit later. Now, as
+far as this overall concept of what you have described, do we in fact,
+to your knowledge, have a diagram that describes where DNA is found?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Okay. With the Court's permission then, I would like to
+have marked as People's exhibit 2--
+
+*THE COURT:* 240.
+
+*MR. CLARKE:* --40 a diagram entitled "where is DNA found?"
+
+/(Peo's 240 for id = chart)/
+
+/(Brief pause.)/
+
+//*MR. CLARKE:* All right. Dr. Cotton, we had marked as People's exhibit
+240 a large diagram entitled "where is DNA found?" can you tell us what
+that diagram shows?
+
+*DR. COTTON:* Yeah. I'm going to move over here so I can see it a little
+better.
+
+*MR. CLARKE:* Why don't we move--would you be able to discuss this
+diagram with or without referring to this particular chart that you have
+just made?
+
+*DR. COTTON:* We can move it.
+
+*MR. CLARKE:* Move it? Okay.
+
+/(Brief pause.)/
+
+//*MR. CLARKE:* All right. Dr. Cotton, if could you describe what
+People's exhibit 240 shows?
+
+*DR. COTTON:* This exhibit is basically a summary of the things that I
+drew earlier on the chart, so you have an example or diagram of a cell
+that has a nucleus and a cytoplasm and in the nucleus there are
+chromosomes. Now, they don't have 46 of them drawn out here, but they
+have several and the real number would be 146. You take one of those
+chromosomes out and unwind the DNA, this is a depiction of the DNA that
+is packaged up into the chromosomes, and to make it larger and look at
+it still magnified yet further, you see again the double helix with the
+at and GC base pairs.
+
+*MR. CLARKE:* So then does this chart "where is DNA found?" then
+basically take step-by-step by showing with greater magnification each
+portion or actually each way DNA is packaged down ultimately to the
+individual base pairs themselves?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Okay. As far as this DNA molecule, and you have described
+it being the same basically in every cell that has a nucleus in our
+bodies, does that mean all of us are the same?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* Can you describe that further?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And if you would have a seat.
+
+*DR. COTTON:* /(Witness complies.)/ Well, it is pretty obvious that we
+are definitely not all the same. All you have to do is look around the
+room and you will pick that out right away, so within any given
+individual in all of my cells, the DNA will be exactly the same from one
+cell to the next, and that would be true for each one of us. But from
+one individual to the next the DNA will be different. Now, that isn't to
+mean that--we will use Mr. Clarke as an example--all the DNA in all of
+his cells is the same in each cell. That is, if you look at a liver cell
+and a blood cell, the DNA in the liver cell will be exactly the same as
+the DNA in the blood cell. His DNA will be different than anyone else's
+in the courtroom, but that is an overall difference. The great majority
+of the DNA, greater than 99 percent of the DNA, is going to be the same
+from person-to-person and that is because we are all human beings, our
+basic body structure is all the same. We all have a liver, we all have
+hairs, we all have a kidney and so forth. So all of that DNA information
+that creates those things that we have in common will be this
+base--basically the same from one person to the next. There is then a
+small portion of the DNA that is different from person-to-person and
+that is intuitively obvious because you can look around even in a very
+large room or a very--many, many people, and you will see that with the
+exception of identical twins, people are different. Even closely related
+people, brothers, two brothers are different. You can al tell them
+apart. And the exception is identical twins and identical twins are
+identical because they have identical DNA, and that is the only exception.
+
+*MR. CLARKE:* With regard to then these portions of DNA where we
+differ--and I believe you said that is something less than one percent
+where we differ from one another?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* Why is that of interest? Why do you as a scientist care
+about that region or those regions where we are different?
+
+*DR. COTTON:* Many scientists would not care about those regions that
+are different, but if you are interested in being able to distinguish
+one human being from the next, then it doesn't help you to look at the
+parts that are the same. In order to distinguish people, especially at
+the DNA level, you want to be looking at those sections of the DNA that
+are different from one person to the next, so you have to single out
+those sections. And for purposes of identifying or telling apart
+individuals, then you want to look at those sections of the DNA that are
+not the same from one person to the next.
+
+*MR. CLARKE:* You described brothers and sisters as being different and
+yet similar in some respects; is that right?
+
+*DR. COTTON:* Well, they will be similar in some respects, because if
+you think about it, you have a mother and a father and they are going
+to--and they are going to have children. Each child will not get
+identically the same characteristic from the mother, so--but if you had
+three children, two children might get the mother's hair color and the
+third child might get the father's hair color and the first two children
+who both got the mother's hair color, one of them might get the father's
+stature and be big-boned and tall, and if the mother was short and
+small-boned, then the other child might get that characteristic. So that
+even though they had some characteristics in common, they both got
+mother's hair color, they don't have all their characteristics in
+common, and that is a very simplistic example, but it works.
+
+*MR. CLARKE:* So then children would or would not have the same DNA as
+that child's parents?
+
+*DR. COTTON:* The child will not, definitely not have the same DNA as
+either parent, because the child only gets half of the mother's DNA,
+so--and the other half comes from the father, so that child is a blend
+of the mother and father and the child will not be identical to either
+the mother or the father.
+
+*MR. CLARKE:* As far as, and perhaps we can go back to the chart that is
+currently on the easel, "where is DNA found?" these chromosomes, do they
+package DNA molecules or simply a portion of the entire DNA molecule in
+a cell?
+
+*DR. COTTON:* They package the DNA molecules in the cell. One chromosome
+can generally be considered to be a packaged up DNA molecule.
+
+*MR. CLARKE:* Okay. Now, this Court has heard testimony about serology.
+Are you familiar with that term?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Which, as the jury has heard, involves testing various
+genetic markers like PGM and EAP. Are you familiar with those terms?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Is DNA different than the times of testing that go on that
+test proteins like PGM and EAP?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* In what way?
+
+*DR. COTTON:* The protein markers that are mainly used in serology are
+coded up, that is in some--you can think of them as a product of the
+information that is in the DNA, so when you look at the DNA you are
+looking at the most basic level of information that you can look at.
+When you look at a protein, that is a product of the information that is
+in the DNA, so you are sort of looking at a secondary level of information.
+
+*MR. CLARKE:* So if I understand correctly, by typing a protein you are
+really looking a little bit indirectly at the particular genetic marker;
+is that right?
+
+*DR. COTTON:* You are, that's right.
+
+*MR. CLARKE:* As opposed to DNA typing where you are looking directly at
+basically the blueprint itself?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* All right. Dr. Cotton, I would like to take you back and
+shift topics a little bit and go back to Cellmark Diagnostics itself.
+
+*DR. COTTON:* Okay.
+
+*MR. CLARKE:* First of all, how long have you been with Cellmark?
+
+*DR. COTTON:* I have been at Cellmark about 7 and a half years. I began
+to work there in January of 1988.
+
+*MR. CLARKE:* When was the laboratory itself formed?
+
+*DR. COTTON:* The laboratory opened up in October of 1987.
+
+*MR. CLARKE:* What is Cellmark Diagnostics? What type of work do you do?
+
+*DR. COTTON:* We do DNA testing and we really--we basically do DNA
+testing for two purposes: One is to answer questions in criminal cases,
+and I will just give you an example. Umm, if you had a bloodstain and
+you had a known individual, could be a suspect or a victim, it doesn't
+matter, you would attempt to say could the known individual have been
+the donor of the DNA that was taken from the bloodstain? It is exactly
+the same question that serology is used for in a crime lab. The other
+type of testing that Cellmark does is paternity testing and for that
+purpose we are usually receiving a blood sample from a mother, from a
+child and from an alleged father and the question is, is--could this
+alleged father be the father of this child or is it impossible for this
+man to be the father of this child? And that kind of testing can be done
+using DNA.
+
+*MR. CLARKE:* Going back to your education, and you briefly mentioned
+the fact that you had a Master's as well as a Ph.D., could you describe
+a little bit in more detail when you received those degrees and at what
+schools.
+
+*DR. COTTON:* I received both a Bachelor of Science and a Master of
+Science degree from Southern Methodist University in Dallas, Texas, and
+for the both of those degrees I was biology major. Later on I moved to
+California and attended graduate school at UC Irvine and finished a
+Ph.D. in molecular biology and biochemistry.
+
+*MR. CLARKE:* You touched a little bit on DNA played a role in your
+higher identification. Can you describe basically and briefly, from your
+undergraduate work through your graduate work, what contact, what work
+did you do in the area of DNA itself?
+
+*DR. COTTON:* Along the whole way?
+
+*MR. CLARKE:* Well, if there is a way of briefly summarizing it, perhaps
+you can package all three different degrees.
+
+*DR. COTTON:* I did--for a bachelor of science degree you take a series
+of biology courses and you learn about DNA and you learn some
+biochemistry and you learn some cell biology and you do laboratory
+experiments. And I don't actually recall that any of my laboratory
+experiments specifically had anything to do with DNA, but actually it
+has been a while ago, so I'm not really positive. And for my master's
+degree I did do work in a laboratory, but that work involved electron
+microscopy which is a method of achieving extreme magnifications and
+that didn't have anything to do with DNA. And in graduate school at UC
+Irvine my research focused on DNA and how it is packaged into
+chromosomes and how the information in DNA is translated for the cell,
+and so for the four to five years that I was in graduate school, umm,
+all of my research work had to do with DNA, and then I took the required
+graduate classes and some of those had something to do with DNA and some
+of them did not.
+
+*MR. CLARKE:* As far as your graduate work, did it include actual
+hands-on work with DNA testing itself?
+
+*DR. COTTON:* Well, it included a lot of hands-on laboratory work,
+because the whole point of being in graduate school is to learn how to
+do research. You just asked me whether it had to do with DNA testing.
+The kind of--if you are talking about the kind of testing that Cellmark
+does, no, it didn't, because that wasn't being done at that time. It had
+to do with other aspects of DNA.
+
+*MR. CLARKE:* All right. As far as your employment, and then once you
+obtained your degrees, did you then seek employment?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And could you describe where you have been employed in the
+past?
+
+*DR. COTTON:* I worked for about three and a half years in the
+Department of Biochemistry at the University of Iowa and I did research
+there, which was also related to basically how DNA is packaged up into
+chromosomes. And then I went to work at the national institutes of
+health in Bethesda, Maryland, and I did research there for about five
+years, and that also involved DNA and that--at that point now did
+involve doing basically the same types of procedures that are currently
+used in DNA testing.
+
+*MR. CLARKE:* What are the national institutes of health?
+
+*DR. COTTON:* It is basically sort of looks like, if you were to go
+visit there, it looks like a big college campus and--but not--there
+isn't very much in the way of teaching done there or not certainly at
+the undergraduate level. There is some, but not a lot. And it is groups
+of researchers and it is divided into different institutes. I used to
+know all the various institutes. There is a heart, lung and blood
+disease institute. I happened to work this institute for alcoholism and
+alcohol abuse. There is the nci, National Cancer Institute. So there
+are--i don't remember how many institutes there are in all, probably
+more than 20, but these various institutes altogether comprise the
+national institute of health and the main campus for the national
+institute of health is in Bethesda, Maryland, and then there are other
+areas where researchers are located also besides that main campus.
+
+*MR. CLARKE:* Once you left the national institute of health, is that
+when you joined Cellmark?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* In what role when you joined them?
+
+*DR. COTTON:* When I joined Cellmark I was the director of research and
+development.
+
+*MR. CLARKE:* Do you currently hold that position at Cellmark or a
+different position?
+
+*DR. COTTON:* A different position.
+
+*MR. CLARKE:* What is that?
+
+*DR. COTTON:* I am now the laboratory director.
+
+*MR. CLARKE:* In that position as laboratory director what are your duties?
+
+*DR. COTTON:* My main duty is that I am ultimately responsible for the
+scientific work that is done at Cellmark, so that is my sort of umbrella
+overall responsibility. My duties include, along with two other Ph.D.
+staff, supervising the research that is done at Cellmark and reviewing
+cases that are done at Cellmark. When we receive samples in the lab and
+we analyze those samples and write a report, the person who has done the
+work at the bench, which is not me, signs the report and I--and myself
+or one of the other two Ph.D. staff would review the report and sign it
+also. And I testify in court when required.
+
+*MR. CLARKE:* All right. We will return to both of those a little bit
+later. As far as your position as laboratory director, how long have you
+been in that role?
+
+*DR. COTTON:* About two years.
+
+*MR. CLARKE:* This jury has heard testimony previously about an
+organization known as the American Academy of Forensic Sciences. Are you
+a member of that group?
+
+*DR. COTTON:* Yes, I am.
+
+*MR. CLARKE:* Are you a member of any other organizations or societies?
+
+*DR. COTTON:* I'm a member of the American Society of Cell Biology, the
+American Society of Human Genetics and the American Association of Blood
+Banks.
+
+*MR. CLARKE:* The American Academy of Forensic Science, I assume the
+title describes it, involves forensic science; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And when you use the term "forensic science," what are you
+referring to?
+
+*DR. COTTON:* When I use the term "forensic science," I am generally
+referring to the work that we would do in the analysis of samples where
+a criminal case is involved.
+
+*MR. CLARKE:* The other organizations you described then, I think one of
+them was, for instance, the American Society of Human Genetics that you
+are a member of?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Is that a forensic organization?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* What is it?
+
+*DR. COTTON:* It is an organization or a group of scientists that are
+interested in all--that is the scientists that are members of that
+organization would be interested in some aspect of human genetics. They
+might be interested in disease diagnosis, they might be interested in
+gene mapping. They might be interested in forensic science, but it is
+sort of a generic group of scientists whose overall interest would
+encompass human genetics.
+
+*MR. CLARKE:* I think you also mentioned was it the American Association
+of Blood Banks that you are a member of?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What is that group briefly?
+
+*DR. COTTON:* Mostly it is people who are knowledgeable about the
+storage of blood and blood typing and the use of blood in--for medical
+purposes.
+
+*MR. CLARKE:* Such as transfusions?
+
+*DR. COTTON:* Such as transfusions and certainly that is not my area of
+expertise. The reason that I am a member of that organization is that
+that organization has a program for accreditation of laboratories that
+do paternity testing and we are a participant in that program and they
+usually at their national meeting will get together scientists who are
+interested in paternity testing and have a specific forum for that small
+group, so that is a very small group within the American Association of
+Blood Banks.
+
+*MR. CLARKE:* Do you attend meetings, as you are able to and as your
+case work permits, of these organizations?
+
+*DR. COTTON:* Yes, I do.
+
+*MR. CLARKE:* Do you present lectures at these meetings?
+
+*DR. COTTON:* Not at every meeting, but I do present lectures at some
+meetings.
+
+*MR. CLARKE:* On what types of topics?
+
+*DR. COTTON:* Generally it is related to perhaps a new technique that
+could be used in criminal cases or a case study that was done in a very
+unusual case, something like that.
+
+*MR. CLARKE:* All right. As far as publications--and there is scientific
+literature in the area of DNA; is that correct?
+
+*DR. COTTON:* There is a huge amount of scientific literature generally
+in the area of DNA.
+
+*MR. CLARKE:* As far as that literature is concerned, do you attempt to
+stay current or do you stay current on that portion of the literature
+that directly impacts your job at Cellmark Diagnostics?
+
+*DR. COTTON:* I mainly am now able to stay current with the scientific
+literature on DNA as it impacts on human identification issues. I do
+stay current with some of the other literature, but it is in a
+relatively narrow area.
+
+*MR. CLARKE:* You have used this term "human identification." what do
+you mean by that?
+
+*DR. COTTON:* Basically I mean being able to distinguish one human being
+from another, and as the ability of science gets more and more
+sophisticated in this area, given enough information, you can
+distinguish one human being from basically all others.
+
+*MR. CLARKE:* Incidentally, as far as the literature is concerned, do
+you act as a peer reviewer for that literature?
+
+*DR. COTTON:* I am sometimes asked to review articles that have been
+submitted to journals and give my opinion on the quality of the work
+that is in that paper.
+
+*MR. CLARKE:* All right. I believe you described that one of your duties
+as laboratory director includes testifying in courts across the United
+States?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Have you previously testified in courts across this country?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And I am referring now to the area of human identification
+as a result of DNA typing?
+
+*DR. COTTON:* That's the only area in which I have given testimony.
+
+*MR. CLARKE:* Could you describe for us approximately how many times
+that has occurred before today.
+
+*DR. COTTON:* Umm, I don't keep a running total, but I've probably
+testified in about ninety or so cases.
+
+*MR. CLARKE:* Do you have any idea approximately how many states of this
+country that involves?
+
+*DR. COTTON:* Well, again, I don't keep a running total of that, but I'm
+sure it is at least twenty.
+
+*MR. CLARKE:* Would this be your first time in the County of Los
+Angeles, or not, testifying as an expert in DNA typing?
+
+*DR. COTTON:* It is definitely not my first time in the County of Los
+Angeles.
+
+*MR. CLARKE:* Dr. Cotton, I would like to shift gears a little bit and
+talk with you about DNA typing itself. Is there more than one or just
+one approach to typing DNA for purposes of human identification?
+
+*DR. COTTON:* There is more than one approach.
+
+*MR. CLARKE:* All right. Are there two primary approaches that are used
+commonly in forensic science?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What are those called, first of all?
+
+*DR. COTTON:* The two primary approaches are generally referred to by
+their acronym or their initials. One is called RFLP analysis and that is
+the acronym standing for restriction fragment length polymorphism, and
+obviously you don't have an explanation of that. The word polymorphism
+just is referring to differences meaning it means many forms, so it is a
+technique that is allowing you to look at many forms of the DNA, and
+that is one major type of DNA testing that is done in this country today
+and actually many other countries as well. The other type is referred to
+as PCR. Now, there are many different kind of PCR tests, and PCR is the
+basic procedure that allows you to do the test and PCR--the initials
+stand--and again this won't make any sense yet--the initials stand for
+the polymerase chain reaction. It is a procedure and that procedure can
+be applied to different types of genetic markers and different types of
+tests, but any test that uses that procedure is generally referred to as
+a PCR type test.
+
+*MR. CLARKE:* I would like to start with the RFLP process first, if we
+could. And first of all, could you describe for this jury, taking weeks,
+what the RFLP process is and how it actually is conducted?
+
+*DR. COTTON:* You mean could I take several weeks to describe it?
+
+*MR. CLARKE:* Yes.
+
+*DR. COTTON:* Oh, I'm sure we could.
+
+*MR. CLARKE:* To your knowledge--
+
+*DR. COTTON:* I don't think we want to do that.
+
+*THE COURT:* I don't think we are going to do that.
+
+*MR. CLARKE:* To your knowledge are we going to in fact limit it to
+something substantially shorter than that?
+
+*DR. COTTON:* We are going to--based on my discussions with you, we are
+going to try to make it much shorter than that and pick out just those
+sections that are really important to have an understanding of what the
+final result looks like and what it means.
+
+*MR. CLARKE:* Okay. This RFLP process, when was it developed?
+
+*DR. COTTON:* It wasn't developed on a special day. It is a series of
+procedures that all tied together are called RFLP. Some of those
+procedures were developed in the mid-seventies and some of the
+information that scientists needed to actually finally put all this
+together was not developed until the early eighties. So you can't give
+it a date, but you can give it a time frame from about 1975 to about
+1985. The information that is used in RFLP testing for identification
+was discovered during that time frame.
+
+*MR. CLARKE:* Was there a time when locations on the DNA molecule that
+you have already described were found to be different amongst people, as
+you earlier testified to?
+
+*DR. COTTON:* That has been known for a long time. Early on of course it
+was just known sort of intuitively that there had to be sections that
+were different since people are very different. The information about
+heredity and how it relates to DNA was described back in the late 1800's
+and early 1900's, but the discovery of the specific types of differences
+that this test looks at was basically about 1983, `84, and `85.
+
+*MR. CLARKE:* Was that as a result of in particular one or two
+scientists in this country and outside this country?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Who were those individuals?
+
+*DR. COTTON:* Umm, the two major contributors in this area, and again it
+is very hard to say this, because without previous information they
+wouldn't have been able to make their major contributions, so you have a
+whole series of scientists that are kind of contributing here, but the
+two contributors to the kind of information we are looking at in this
+testing would be Dr. Ray white from Utah and Dr. Alec Jeffries from the
+University of Lester in England.
+
+*MR. CLARKE:* Incidentally, was Dr. Jeffries in England honored for any
+of his work in this area?
+
+*DR. COTTON:* Yes, he has received several honors, including being
+knighted for his discoveries in this area.
+
+*MR. CLARKE:* By "knighted," does that mean he is addressed as Sir Alec
+Jeffries?
+
+*DR. COTTON:* I know it is Sir and then he is also a Professor and some
+other things, so there is sort of a series of Sir, Professor things that
+go in front of his name, but I don't know that I could get it right.
+
+*THE COURT:* I think they are called titles.
+
+*MR. CLARKE:* Did Dr. Jeffries play a role in any manner in the
+formation of Cellmark Diagnostics?
+
+*DR. COTTON:* Basically he did. The University of Lester where Dr.
+Jeffries works owns the patents to his discoveries, so the series of
+events was he made these discoveries, certain of this information was
+patented, and the parent company that owns Cellmark Diagnostics
+purchased the rights to those patents, and they, along with Dr.
+Jeffries' help, did the developmental work to take it from--excuse
+me--umm, being a procedure that he did daily in his lab to having a
+protocol that could be followed in what's more like a production lab,
+where you are doing the same type of test on each sample that comes in
+the lab.
+
+*MR. CLARKE:* Is there any relationship between your laboratory in this
+country, as well as Cellmark in the United Kingdom?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What is that relationship?
+
+*DR. COTTON:* We are both owned by a parent company. The name that have
+company is Zeneca.
+
+*MR. CLARKE:* Was Cellmark in the United States formed before or after
+Cellmark in the United Kingdom?
+
+*DR. COTTON:* I think it was just about a half a year after the
+formation of Cellmark in the United Kingdom.
+
+*MR. CLARKE:* As far as the procedures that were used at Cellmark in
+this country at its formation, did you have anything to do with what had
+been used before or even at that time in England?
+
+*DR. COTTON:* At the time that Cellmark began doing case work in the
+United States we were using the identical procedures to those that were
+used in England. Umm, now the procedures are probably not identical.
+They don't do very much testing for criminal cases in that lab any more
+and so our procedures would no longer be identical, but they would still
+be very similar.
+
+*MR. CLARKE:* Incidentally, why don't they do as many criminal cases now
+in England?
+
+*DR. COTTON:* Umm--
+
+*MR. NEUFELD:* Objection, irrelevant as to what they do in England.
+
+*THE COURT:* Overruled.
+
+*DR. COTTON:* There is a very large lab in London and they do almost all
+of the forensic testing for the United Kingdom.
+
+*MR. CLARKE:* Now, with regard to--and you have used this term RFLP
+typing process that we will get into a little more detail later. Is this
+RFLP testing approach used exclusively in human identification?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* What else is it used for?
+
+*DR. COTTON:* The--the--let me give you an answer in sort of two phases.
+A very similar procedure can be used to identify animals and in fact
+there is a lab in Oregon and another lab in Canada that uses the same
+types of procedures to look at poaching. Somebody has, you know, some
+meat in their freezer, and they say, well, this is just a deer, you
+know, and the--I don't know what the organization would be that would be
+checking on this, but whatever organization it is, they would say, well,
+no, this is some endangered prong-horn antelope--I am sort of making
+this up as you can see--then they can use these same kind of procedures
+to determine whether or not the meat in the person's freezer is in fact
+from a deer or from the endangered species, so that is a very analogous
+type of thing to what is being done in a criminal case. The general
+procedures that are used in this testing are used in genetic diagnosis
+and in gene mapping and in a lot of other research applications other
+than human identification.
+
+*MR. CLARKE:* Let me stop you and ask you about when you use the term
+"genetic diagnosis" that this technique is used for, is that determining
+whether or not an individual suffers from a genetic disease?
+
+*DR. COTTON:* Yes, or you might--a parent might want to know if they
+were the carrier of a specific genetic disease or you might, in the
+process of diagnosing a disease, want to know if this was a
+genetically--a specific genetically inherited disease, and there may be
+a test for that that uses these kind of procedures. Another use, for
+example, is in bone marrow transplantation. You have two--you have a
+donor and you have a recipient of the bone marrow from the donor, and
+after the transplant is done, you can use these procedures to follow
+whether or not the transplant has been effective by looking at the blood
+cells in the recipient and saying is the original genetic source of
+those cells those of the recipient, which you are hoping it won't be, or
+those of the blood marrow donor, and you are hoping that it will be that
+and you can track the progress of the transplant using the very same
+procedures that are used for paternity or identification testing.
+
+*MR. CLARKE:* As far as disease diagnosis, if I can return to this, is
+this RFLP procedure then used to determine, for instance, whether an
+individual suffers from cystic fibrosis?
+
+*DR. COTTON:* It can be. There are now easier tests than the RFLP
+procedure, but that was certainly early on the procedure in the research
+stages that that would have been used.
+
+*MR. CLARKE:* You also brought up the use of this technique, for
+instance, in the poaching scenario. Is this RFLP technique also used to
+help save endangered animals?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What about this technique, this RFLP technique, in for
+instance, plants? Does it have any role there?
+
+*DR. COTTON:* There are--the main role that I am aware of, and I am not
+a plant biologist, so there may be many other aspects that it is useful
+for that I am not aware of, but in plant breeding where a company has a
+corn hybrid that has specific characteristics, those characteristics can
+be identified and attracted in that hybrid using RFLP analysis with
+exactly the same types of procedures that are used in testing for paternity.
+
+*MR. CLARKE:* Does this RFLP testing technique play any role in, for
+instance, identifying the remains of American war dead?
+
+*DR. COTTON:* It has, yes.
+
+*MR. CLARKE:* And does that include, for instance, remains from soldiers
+killed in battle?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Now, you have described a number of general areas,
+including human identification, that this RFLP technique is used. Would
+the human identification use of this technique be the majority or most
+or a small portion or what?
+
+*DR. COTTON:* Overall it would be a small portion--if you look at anyone
+in science who might use this procedure or this set of procedures that
+makes up RFLP analysis, human identification would be a very, very small
+fraction of its total application.
+
+*MR. CLARKE:* Is this a technique that was basically born out of
+forensic science or did forensic science borrow it from the greater
+scientific community?
+
+*DR. COTTON:* It would be that forensic science borrowed it from the
+research community.
+
+*MR. CLARKE:* What about in terms of how wide this technique is used and
+I'm talking about geographically? Is it used in the United States, in
+England alone, or is it used elsewhere?
+
+*MR. NEUFELD:* Objection, your Honor. Ask for clarification when he says
+"this technique."
+
+*THE COURT:* Sustained. Rephrase the question.
+
+*MR. CLARKE:* As far as the RFLP typing approach, is it used strictly in
+English-speaking countries, for instance, or is it used in some wider
+area than that?
+
+*DR. COTTON:* No, it is used in a much wider area than that.
+
+*MR. CLARKE:* And would that include, for instance, in countries around
+the world?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Now, if I can return to the RFLP method, first of all,
+would it assist, if I asked you to describe briefly this method, to use
+again the drawing pad for purposes of demonstrating what happens?
+
+*DR. COTTON:* I probably can't do it without scribbling on a pad.
+
+*MR. CLARKE:* Okay. Fair enough. Your Honor, perhaps this could be
+marked as People's 241.
+
+*THE COURT:* 241.
+
+/(Peo's 241 for id = chart)/
+
+//*THE COURT:* Call this RFLP drawing.
+
+*MR. CLARKE:* Thank you.
+
+*MR. CLARKE:* In fact, Dr. Cotton, if we could, before we do that, could
+we go back and perhaps if you could step down, I'm going to ask you to
+put just very brief titles on the previous exhibits, the previous drawings.
+
+/(Brief pause.)/
+
+//*MR. CLARKE:* And perhaps we could start with the 46 chromosomes chart
+that I believe is People's exhibit 236. No, 235, excuse me. That is
+labeled "46 chromosomes." would that be an appropriate title for that chart?
+
+*DR. COTTON:* It would be.
+
+*MR. CLARKE:* Okay. Perhaps you could just underline it and then we will
+underline the titles on each one.
+
+*DR. COTTON:* /(Witness complies.)/
+
+*THE COURT:* All right. 235 will be labeled "chromosomes" underlined.
+
+*MR. CLARKE:* All right. If you could go to the next drawing that you
+made, which is exhibit 236. Does that drawing depict on the left the
+single pair of chromosomes and then the two strands of DNA to the right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What would be a short title for that drawing?
+
+*DR. COTTON:* Umm, why don't we just put "chromosome pair."
+
+*MR. CLARKE:* Okay.
+
+*DR. COTTON:* Does it matter where?
+
+*MR. CLARKE:* If you have a different color, I think you could put it in
+the middle will be fine, as long as you underline it.
+
+*DR. COTTON:* /(Witness complies.)/
+
+*MR. CLARKE:* And then as far as the two strands of DNA to the right,
+would it be appropriate to give that a title?
+
+*DR. COTTON:* That is just the two strands from these two chromosomes,
+so it is still a chromosome pair.
+
+*MR. CLARKE:* Okay. Then if you would go to the next diagram, which I
+think has already been titled "double-stranded." would that be an
+appropriate title for what I believe to be People's 238?
+
+*DR. COTTON:* Sure.
+
+*MR. CLARKE:* Okay. That just leaves us then the next page.
+
+*DR. COTTON:* Let's add "DNA" here.
+
+*MR. CLARKE:* Okay. And then if you would go to 239, the last drawing.
+
+*DR. COTTON:* /(Witness complies.)/
+
+*MR. CLARKE:* And is that a demonstration of single-strand DNA?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Does your "t" have a cross on it?
+
+*DR. COTTON:* Oh.
+
+*MR. CLARKE:* And again, your Honor, that would be People's exhibit 239.
+Now, Dr. Cotton, let's provide you with a new page, which will be
+People's 241, I believe. First of all, why don't we label it at the top
+"RFLP method."
+
+*DR. COTTON:* /(Witness complies.)/
+
+*MR. CLARKE:* And if you would now use that particular piece of paper to
+help describe this RFLP testing process.
+
+*DR. COTTON:* Okay.
+
+*MR. CLARKE:* Go ahead.
+
+*DR. COTTON:* Do you want me to just--okay. What I want to do is go back
+to the idea that you have two chromosomes or you have a chromosome pair
+and that we are going to look at the DNA from that specific chromosome
+pair and I want to explain to you what the--we keep talking about
+looking at differences in the DNA. I want to show you an example of the
+kind of difference that we are looking at, because I think that is the
+only way it will really make any sense, and then once we have done that
+we can sort of walk through the procedure.
+
+*MR. CLARKE:* All right.
+
+*DR. COTTON:* So let's go back and say we have our two chromosome's
+worth of DNA here and they have, you know, the a and t and GC base pairs
+all along, and so if we are looking around on these chromosomes, you
+will come to a section that contains what is referred to as repeated
+sequences. I'm going to make a very short and simple--"short" meaning
+short in physical length--simple example of this, but this is not an
+unrealistic example. Suppose we come along and we are looking down the
+sequences of bases and we see that we have a C followed by an a followed
+by a t with another C followed by another a followed by another t and
+another C followed by another a followed by another T. Now, what I'm
+going to do is only draw one side, so if you will just assume with me
+that the other side has the appropriate matching base. So we have this
+sequence, C, A, T, repeated three times. Now, if we went and looked at
+another chromosome, this is now you know from one person and you are
+going down the chromosome and you are looking at the base pairs and you
+come to sort of a matching section and you find that it has a C followed
+by an a followed by a T. And you see that that sequence of three base
+pairs is repeated quite a number of times, but on this chromosome it is
+repeated more times. Here we have--on the one on the left we had three
+repeats and here, /(Indicating)/, we have on the one on the right, we
+have five repeats. So we have this short section of something that is
+repeated over and over again. Now you have to sort of think about if we
+made this same drawing for yet another individual and another and
+another, what you would find is that another individual might have a
+section--they would have this--you would go along the chromosome and
+they would have this same repeat, C, A, T, but it might be repeated ten
+times on one of their chromosomes and 18 times on the other. So that
+everybody has the C, A, t sequence on their chromosome, but not
+everybody has the same number of repeats. That is the difference that
+RFLP testing looks at. So if you imagine in your head that we had a
+method to cut out this section and then you add to that that we had a
+method to measure how long this section was that we cut out, for this
+person we--if we could do that measurement, we would have a section that
+was nine base pairs long and for their other chromosome we would have a
+section that was 15 base pairs long, so this one becomes nine. And I'm
+going to use the abbreviation "BP" to stand for base pairs, base pairs
+being the GC or the at pairs, and over here, /(Indicating)/, are five
+repeats is equal to 15 base pairs. So--and then if we had another
+person, we could make another diagram just like this. If they had a
+chromosome that had ten repeats, that would be a section that was 30
+base pairs. So it is those lengths that are different from
+person-to-person. And in this abbreviation, the "p" standing for
+polymorphism, the "l" stands for length. This test looks at length
+differences in the DNA and the length differences are created by the
+number of repeats that happen to be end to end at a specific location on
+a chromosome pair.
+
+*MR. CLARKE:* So is it then the case that this RFLP method is simply a
+tool to determine how we vary from one another as human beings at this
+particular region of DNA where these repeats vary?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* As far as the method itself, to your knowledge do we have
+a prepared chart that illustrates how this difference is actually
+determined using the RFLP test?
+
+*DR. COTTON:* We have or you have, and I have looked at, a prepared
+chart that doesn't illustrate this, but illustrates the set of
+procedures that allows you to ultimately look at these length differences.
+
+*MR. CLARKE:* And is it these length differences that are simply what
+you are looking for as a DNA scientist when you are using this RFLP
+method for identification?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* All right. Your Honor, with the Court's permission I ask
+to be marked as People's exhibit I believe it is 242--
+
+*THE COURT:* People's 242.
+
+/(Peo's 242 for id = chart)/
+
+//*MR. CLARKE:* --a fairly large prepared diagram entitled, I believe,
+"the RFLP method."
+
+/(Brief pause.)/
+
+//*MR. CLARKE:* Now, Dr. Cotton, first of all, as you have described on
+your drawing, People's exhibit 241, where you have described these
+differences among us as human beings and the number of times we repeat a
+particular sequence, how are these particular regions of DNA picked out
+or selected to use for identification purposes?
+
+*DR. COTTON:* (No audible response.)
+
+*MR. CLARKE:* Does that question make sense?
+
+*DR. COTTON:* It makes perfect sense, but it takes that whole procedure
+to do that.
+
+*MR. CLARKE:* Okay. All right. Then why don't we go ahead and then if
+you would describe this RFLP method in the basic steps that are
+delineated and perhaps I can ask you a question first. Have you had an
+opportunity to look at this large chart entitled "the RFLP method" that
+was previously prepared before coming to court today?
+
+*DR. COTTON:* Yes, I have.
+
+*MR. CLARKE:* And in that review does this diagram basically describe
+the individual steps that are part of this RFLP DNA typing method?
+
+*THE COURT:* Excuse me, Mr. Clarke. Let me interrupt you for just a
+moment. Let me see counsel here without the court reporter.
+
+/(A conference was held at the bench, not reported.)/
+
+/(The following proceedings were held in open court:)/
+
+//*THE COURT:* All right. Thank you, counsel.
+
+*MR. CLARKE:* All right. Dr. Cotton, with regard to this diagram then,
+could you describe--if you would utilize this diagram and the drawing
+you have previously made to describe how this RFLP typing method
+actually works?
+
+*DR. COTTON:* The diagram on the board has everything numbered so I will
+try to relate what I'm saying to the number. So let's say you have a
+sample, some biological sample. The diagram illustrates either a tube of
+blood or a blood stain, but there could be, as I said before, a hair
+root, it could be a semen stain. We will just say we have some
+biological sample. And the first thing that happens is that the DNA is
+extracted from this sample. What that means is the DNA is purified from
+the other components of the sample that you don't care about. The DNA is
+in the cell and you have all these proteins. Proteins are nice, but for
+purposes of DNA testing we don't need them, so you are purifying the DNA
+away from the other cellular components which include proteins and cell
+membranes and things like that. That is step no. 1.
+
+*MR. CLARKE:* All right.
+
+*DR. COTTON:* Okay. Step no. 2 on the chart says the DNA is cut into
+fragments by a restriction enzyme. When I said a little while ago that
+if you had a method of cutting out these sections where the repeat
+exists, that you could look at how long it was, the method is to use a
+protein that is called a restriction enzyme and these enzymes have the
+characteristic that they can locate a specific short set of base pairs.
+Experimentally it is predetermined--there are many restriction enzymes.
+There are over a hundred different restriction enzymes. And let me just
+give you an example so it doesn't sound so--let's just say we have a
+double-stranded piece of DNA and you have this series of bases, C, C, G,
+G, and you go down the DNA and you find another set where it happens to
+have C, C, G, G. If you have a restriction enzyme that recognizes this
+site, it would make a cut wherever it happened to see a C, C, G, G. And
+I am just giving you one example. There are many others.
+
+*MR. CLARKE:* Actually, while you are on that drawing, Dr. Cotton,
+perhaps you can label that "restriction enzyme."
+
+*DR. COTTON:* Well--
+
+*MR. CLARKE:* Would this be an appropriate description or not?
+
+*DR. COTTON:* Let's call it the--this is just an example of a
+restriction enzyme cutting site.
+
+*MR. CLARKE:* Your Honor, could that be marked People's 243?
+
+*THE COURT:* 243.
+
+*MR. CLARKE:* Thank you.
+
+/(Peo's 243 for id = chart)/
+
+//*MR. CLARKE:* All right. Continue if you would, Dr. Cotton.
+
+*DR. COTTON:* I'm going to go back to the previous diagram. The test is
+set up so that you are using a specific restriction enzyme that we know
+will cut outside the area of the repeats, so the enzyme that is used in
+the test is designed so it will cut at the beginning, just before the
+beginning of the repeat and just after the repeat or somewhere close to
+that. So you purify your DNA, you add your restriction enzyme and you
+make these cuts. Now, the enzyme cuts many other places, so basically if
+you think--if you go back to the spool of thread analogy and you have
+rolled out your spool of thread and it is very long, you now take a pair
+of scissors and cut it up into a whole bunch of small pieces and among
+those small pieces are these two that we are interested in.
+
+*MR. CLARKE:* All right. What step do you take next to locate those
+interested fragments?
+
+*DR. COTTON:* The next step--actually the next series of steps are the
+steps that allow you to locate those fragments, so the first thing you
+do, now that you've got all these little fragments, is that you use a
+procedure that is called electrophoresis. It is used--it has many uses.
+You can do electrophoresis with proteins, but in this case we are doing
+electrophoresis with DNA. And that electrophoresis will allow you to
+separate out the pieces according to how big they are, so if I had--if I
+had a test-tube full of pieces of DNA that were all different size, at
+the end of the electrophoresis it is as if I had been able to reach in
+and put the small pieces down here and the medium-sized pieces over here
+and the larger pieces down at that end.
+
+*MR. CLARKE:* If this jury had heard previous testimony about the use of
+electrophoresis to type proteins such as PGM and EAP, would this be the
+same tool that you are talking about in the RFLP typing process?
+
+*DR. COTTON:* It is very similar, but it is not exactly the same.
+
+*MR. CLARKE:* All right. Go ahead.
+
+*DR. COTTON:* The picture on the diagram that is numbered 3 is the
+illustration of separation of the DNA fragments on an agarose gel. That
+illustration is pretty opaque, but let me try on my own and see if I can
+make it a little more graphic. The gel is about the size of--a little
+smaller than an 8-by-10 piece of paper. Actually it is about the size of
+your notebook, a little bit wider and about that long. It is about a
+quarter of an inch thick and it is made of agarose. Agarose comes as a
+powder and you boil it up sort of like Jell-O, and it goes into solution
+and when you pour it into a tray it solidifies so it has some of the
+same characteristics of gelatin, although it is not gelatin.
+
+So you are pouring this gel into a tray and if I look at that tray from
+the side after I've poured the gel, this is about one-fourth inch thick
+here. I also use a small mold to make an indentation at one end. If I
+take that same gel and I draw it as if it was sitting on the countertop
+where I could look down on it, I would have a series of these
+rectangular indentations across the top of the gel. Now, on the diagram
+they are sort of showing you where two samples have gone in that gel, so
+that the red lines, the red lanes, are sort of one that represents one
+indentation where you could put a sample. Anyway, you have your DNA
+sample and the sample is placed into this indentation in the gel which
+is called a sample well, and the DNA moves through the gel. The DNA has
+a charge, it carries a slight negative charge, so if there is a positive
+electrode at this end and a negative electrode at this end, DNA is
+forced to move through the gel and the gel acts like a sieve. Short
+segments of DNA can move through the gel rapidly. They can work their
+way through this sieve pushed around by the electric current and
+longer--so shorter pieces will move through the gel the farthest. The
+longer strands of DNA cannot move as rapidly through the gel and they do
+not go as far, so this is the way of taking these two pieces of DNA,
+these are now the pieces that we are interested in. Remember, they are
+part of the group that we are looking at. We have these two pieces in
+our mass of bits. We want to see where they are. This piece is shorter
+than this piece, /(Indicating)/, so in the gel the shorter piece, let's
+say, moves this far and the other piece cannot move as far. So now these
+two pieces have separated. The piece that was only nine base pairs is in
+a different position than the piece that was 15 base pairs.
+
+*MR. CLARKE:* All right. Could we, with this diagram that you have just
+drawn--would "electrophoresis" be an appropriate title?
+
+*DR. COTTON:* Sure.
+
+*MR. CLARKE:* I believe that would be People's 244, your Honor.
+
+*THE COURT:* Yes.
+
+/(Peo's 244 for id = chart)/
+
+//*THE COURT:* All right. Mr. Clarke, I need to allow the jurors to take
+a comfort break at this point. Ladies and gentlemen, I forgot to mention
+to you this morning, I don't know if the bailiffs mentioned to you, that
+we have a modified court session today. I have a funeral to attend this
+afternoon, so we are going to go through until one o'clock and then
+break at one o'clock. So we will take a ten-minute comfort break at this
+point and we will resume again at 12:00 sharp. All right. Please
+remember my admonitions to you.
+
+/(Recess.)/
+
+/(The following proceedings were held in open court, out of the presence
+of the jury:)/
+
+//*THE COURT:* All right. Back on the record in the Simpson matter.
+Let's have the jurors, please.
+
+/(The following proceedings were held in open court, in the presence of
+the jury:)/
+
+//*THE COURT:* All right. Thank you, ladies and gentlemen. All right.
+Dr. Cotton, would you resume the witness stand, please.
+
+*MR. CLARKE:* Actually, perhaps the witness could stay there. That's
+where I was going to direct her next.
+
+*THE COURT:* All right. Great. Good afternoon, Dr. Cotton. You're
+reminded you are still under oath. Mr. Clarke, you may proceed.
+
+*MR. CLARKE:* Thank you, your Honor.
+
+*MR. CLARKE:* Now, Dr. Cotton, this process of electrophoresis, and are
+we talking about what is in basically step no. 3 on the large--the RFLP
+method diagram?
+
+*DR. COTTON:* Yes, we are.
+
+*MR. CLARKE:* And you've described the fact that through the use of
+electrophoresis, these fragments that differ in size basically go to a
+different portion of the gel; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Now, this electrophoresis process--
+
+*MR. CLARKE:* And, your Honor, if I may, I'd like to utilize a previous
+chart which has been labeled People's exhibit 215.
+
+*THE COURT:* All right.
+
+*MR. CLARKE:* And in particular, Dr. Cotton, I'd like you to assume
+there's been previous testimony about the use of this chart in a
+description of the use of electrophoresis in typing of proteins.
+
+*DR. COTTON:* Okay.
+
+*MR. CLARKE:* First of all--and I'd like to direct you specifically to
+what's labeled no. 3, load gel in the photograph above that. Does that
+appear to be a gel?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. Is that the same, different or similar from the
+gels that you're describing as part of the RFLP process?
+
+*DR. COTTON:* Well, I'm sure it's different. I'm not exactly sure what
+kind of gel that is. If it was the RFLP process--and that looks to me
+like a glass plate although I can't tell that well. If it was the RFLP
+process, it would be a plastic tray that has sort of like boring
+something into a square or rectangular cake pan. But the edges of the
+tray are maybe about three-quarters of an inch high.
+
+*MR. CLARKE:* Okay. Then taking you on to step 4 on this diagram,
+People's exhibit 215, that's labeled, "4, electrophoresis," is that the
+same or similar to the electrophoresis process you've described in the
+RFLP method?
+
+*DR. COTTON:* The tank that's shown in photograph 4 doesn't look very
+different from the type of tank we use. It has space at either end where
+buffer or some kind of a wick goes. It has a plastic lid that comes down
+to protect the user. What's really different here is that if you look at
+photograph no. 3 where it says "load gel," first of all, the position
+where the samples are loaded on an RFLP gel is very close to the top,
+more like what I've drawn in this diagram where's there, it's maybe
+quarter of a way down the gel. And these are--in the RFLP procedure,
+these are liquid samples that are loaded using the pipetter with a
+disposal plastic tip.
+
+*MR. CLARKE:* Okay. And then lastly on this exhibit 215 where it's
+labeled, "running the gel," do you in fact run gels during the RFLP
+method typing process?
+
+*DR. COTTON:* Yes. You--it shows there a series of gels and two power
+supplies up on a shelf and we have a similar looking power supply that's
+connected to the gel tank such that you have a negative and a positive
+electrode which is creating the current, electric current which is
+pushing these DNA fragments along through the gel.
+
+*MR. CLARKE:* All right.
+
+*MR. CLARKE:* Your Honor, with the Court's permission, could 215 just be
+brought over to this side so the remaining jurors can have a look at it?
+
+*THE COURT:* Yes. Mr. Fairtlough.
+
+*MR. FAIRTLOUGH:* Yes, your Honor.
+
+/(Brief pause.)/
+
+//*THE COURT:* Thank you, Mr. Fairtlough.
+
+*MR. CLARKE:* Now, Dr. Cotton, at the time the electrophoresis or step 3
+on People's exhibit 242 is completed, can you see these different
+fragments on the gel?
+
+*DR. COTTON:* No, you can't see them.
+
+*MR. CLARKE:* What's the next step in the process?
+
+*DR. COTTON:* The next step in the process is to create a permanent
+record of the separation of the DNA fragments in the gel. If you try to
+pick up a agarose gel with your hands, it would be like trying to pick
+up a quarter inch slab of Jell-O. It would break apart in your hands. So
+whereas all the information you want is in this gel, you have to have a
+permanent way of storing this information. Can I backtrack for one second--
+
+*MR. CLARKE:* Sure.
+
+*DR. COTTON:* --and then start a new diagram?
+
+*MR. CLARKE:* Yes.
+
+*DR. COTTON:* Let's still consider this two chromosome or the two DNA
+pieces from the diagram a few places back. Let me make sure that I
+straighten one thing out and then go on. I talked about a fragment of
+DNA that was nine base pairs and another fragment that was 15. Let's put
+this more into reality for this test. The sizes we might look at, you
+could look at a size that was 900 base pairs and a size that was 1500
+base pairs. This is more like the size range. And actually you can look
+considerably larger than this. But this is more like the size range of
+pieces that you would be looking at in this test. Still, do where the
+differences in size, we do to the different number of repeats in that
+section of DNA. So that if we go back, we have our 900 base pair piece
+has moved further down through the gel and the 1500 base pair piece has
+not moved as far.
+
+When you have this separation in the gel, this is the information that
+you really want. And the entire rest of the procedure are the set of
+steps that allow you to visualize where these pieces of DNA went. So if
+you understand that where the DNA came to in the gel is rel--is a
+measure, an indirect measure of its size. That is, this distance
+traveled is an indirect measure of the size; the further the distance
+traveled, the smaller the piece of DNA. The shorter distance traveled,
+the larger the size is. This is the information you're after, and the
+entire rest of the procedure is how you see this visually.
+
+*MR. CLARKE:* All right. And, your Honor, for the record, the witness
+has been referring and writing "further" on People's exhibit 244.
+
+*THE COURT:* Yes.
+
+*MR. CLARKE:* All right. Dr. Cotton, then would you be or are we
+proceeding to step 4 on the diagram, the RFLP method?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And could you describe that, please?
+
+*DR. COTTON:* Yes. And I won't actually--maybe I won't draw another one
+because this is pretty nice here on step 4. What you want to do now is
+keep this record or make a permanent record of where these DNA fragments
+are. And the way that's done is to transfer the DNA in the same relative
+positions from the gel onto a nylon membrane. And that step or that
+process is illustrated in step 4.
+
+*MR. CLARKE:* All right. Would a laser light pointer help you with the
+diagram or not?
+
+*THE COURT:* How about the good old fashion pointer.
+
+*MR. CLARKE:* Or a pointer. If you can reach--I think we've got a
+pointer right at the entrance to the--in fact, Dr. Cotton, did we or did
+you bring one of these membranes to court today?
+
+*DR. COTTON:* I gave it to you and presumably you brought it to court.
+
+*MR. CLARKE:* At this point, I hope I did.
+
+*MR. CLARKE:* All right, your Honor. I would ask to have marked as
+People's next in order, I believe 245?
+
+*THE COURT:* 244 I believe. I think it is 244. Mrs. Robertson, 244?
+
+*THE CLERK:* 245.
+
+*THE COURT:* 245. I stand corrected.
+
+/(Peo's 245 for id = membrane)/
+
+//*MR. CLARKE:* And I have provided the Defense one of these items as well.
+
+*THE COURT:* All right. Proceed.
+
+*MR. CLARKE:* Dr. Cotton, if I can show you what seems to be an object
+about the size of what, eight inches by eight inches or so?
+
+*DR. COTTON:* Yes. It's actually 20 centimeters by 20 centimeters.
+
+*MR. CLARKE:* Okay. That sounds like a more precise description. What
+is--and referring to what will be marked People's exhibit 245, what is that?
+
+*DR. COTTON:* This is how the membrane comes to us. It's in these red
+pieces of--this is just a piece of paper and it has written on it MSI,
+and that's the manufacturer of the membrane that we use; and sandwiched
+in between the two pieces of paper is a nylon membrane. Now, if I were
+doing this in the lab, I wouldn't be touching it with my fingers. You
+would be handling it with gloves because fingerprints wouldn't be
+helpful. Any of the oil from your fingers is really the problem. And
+this hasn't been used in the lab, so it's clean. And this is the nylon
+membrane.
+
+So in the example here, you have a sponge. And in our lab, we use
+something that's called a wick. But it's all going to do the same thing,
+so even though this is slightly different from my lab, I'm just simply
+going to stick with this. And then on top of the--and the sponge is
+soaked with some solution, and on top of the sponge, you place the gel.
+So you can see the gel here is green and you have a green layer here.
+That's the gel. The gel isn't really green. It's really just kind of
+white. And you can see that the membrane isn't really orange, but they
+made it orange. And--anyway, so you have that gel, and you simply--I had
+a gel here. I'll use the top of this thing. You would very carefully
+take this nylon membrane and lay it down--
+
+*MR. CLARKE:* Actually--I'm sorry, Dr. Cotton. Perhaps you could
+demonstrate that on the actual bar in front of the jury so that more can
+see.
+
+*DR. COTTON:* I had my gel sitting right here. I would carefully lay
+this nylon membrane down on top of the gel and let it fall down easily.
+And it--it would be wet beforehand and the gel is damp. And then you
+can--when I did this in research, I used my fingers, but in the lab, we
+now use a pipette. But you would smooth down the nylon membrane so that
+it was in easy close contact with the gel.
+
+*THE COURT:* All right. Dr. Cotton, could you keep your voice up, please?
+
+*DR. COTTON:* Yes, sir. Thank you. Now, what's the purpose of this is to
+have the DNA move out of the gel and come in contact with the nylon
+membrane. So if you go back to the diagram here, the salt solution
+that's in the sponge will move up through--oh, well, wait. Let me--let
+me finish the order here. We have the sponge, the gel, the membrane, a
+big stack of paper towels and a weight. So the idea is that the solution
+moves up that's soaking in the sponge, moves up through the gel and
+carries with it the DNA and it's sucked up--the solution is sucked up
+into the paper towels, but the DNA becomes trapped on the nylon
+membrane. So if you were to go back to this diagram, the membrane would
+be layered right on top of the gel and the DNA would move up through the
+gel and become attached to the nylon membrane. The paper towels and the
+weight serve the obvious purpose, the same as if you had a puddle on the
+counter and you put the paper towels on it. The solution would be soaked
+up onto the paper towel. It's not a very elegant contraption, but this
+is one of the most important procedures in all of molecular biology and
+it's used all over the world.
+
+*THE COURT:* Mr. Clarke, the diagram that Dr. Cotton referred to again,
+the drawing, I believe that's the electrophoresis diagram?
+
+*MR. CLARKE:* Correct. 244.
+
+*THE COURT:* All right.
+
+*DR. COTTON:* Now, I have omitted one important feature here, and
+I--somehow I always have trouble getting this in the right order. Just
+before you set this setup up, you treat your gel so the DNA fragments
+that are double stranded will come apart and become single stranded. And
+you do this by soaking the gel in a solution of sodium hydroxide. So
+basically--and the other method that we talked about was heating it, but
+if you heat it, the gel will just melt. So you can't do that. So you're
+going to separate this what was double stranded to now be single
+stranded in the gel and then you're going to do this transfer so that as
+the DNA is bound to that nylon, it's in a single stranded form. And
+that's the important thing that I left out.
+
+*MR. CLARKE:* Actually two questions if I can. First of all, why doesn't
+the DNA travel through the membrane and up into the paper towels?
+
+*DR. COTTON:* The DNA binds to the membrane and it becomes trapped
+there. The membrane doesn't have sufficiently large pores in it for the
+DNA to get through.
+
+*MR. CLARKE:* Okay. And then you also referred to this process as not
+being particularly elegant; is that right?
+
+*DR. COTTON:* Well, it's very elegant, but it's not very fancy. It
+doesn't require a lot of equipment. You don't need any electricity. You
+could set it up in your kitchen if you really wanted to.
+
+*MR. CLARKE:* Is this particular step limited to forensic science or is
+it applicable or is it actually used in any technique involving use of
+the RFLP method?
+
+*DR. COTTON:* It's used in any technique where RFLP is used and it has
+other uses as well. But if you go into any of the scientific journals,
+you probably can't go through a journal that talks about molecular
+biology or biochemistry without finding an article where this procedure
+is used. This procedure is called a southern blot. And it doesn't have
+that title--oh, yes, it does have the title here on the diagram where it
+says, "by a technique known as southern blotting." it's called a
+southern blot because the scientist who devised this procedure in
+19--late 1970's, mid 1970's is--his name is Ed Southern and he's from
+England, and his last name became attached to the procedure because it's
+so widely used. So it's called southern blot. That's the name of the
+scientist who devised the procedure and it's been used since that time.
+
+*MR. CLARKE:* All right. So now is it correct then that this membrane
+that will be marked 235 in this process now has single stranded DNA
+attached to it?
+
+*DR. COTTON:* Yes. And the important thing is, however the strands were
+separated in the gel, they are now--that is, however the DNA fragments,
+that is the large one versus the small one, were separated in the gel,
+that same spacial separation is now on the nylon membrane. So the DNA is
+attached to the same nylon mem--attached to the nylon membrane and the
+pieces are in the same relative positions that they were in the gel when
+the gel was turned off.
+
+*MR. CLARKE:* What's the next step in this RFLP typing process after you
+have the membrane with the DNA attached to it?
+
+*DR. COTTON:* The next step--I have to read what's on the board for a
+second to see where I am on this.
+
+*MR. CLARKE:* All right.
+
+*DR. COTTON:* Okay. So over here /(Indicating)/, after the blot, you
+have this statement on the board which is correct; "the DNA fragments
+are now on the nylon membrane, but are not yet visible." now, actually
+it shows you as if something was visible, but really, when you put the
+nylon down and you take the nylon off the blot, it looks just plain just
+like you saw it. It doesn't--except it's wet. And now you get to the
+point of the next few steps that allow visualization. And here--here's
+where it becomes important that you understand that you can take DNA
+fragments apart and put them back together, because now you're going to
+take what's called the DNA probe, which is simply a piece of DNA that
+you've made in the laboratory and has a radioactive tag on it. It's
+single stranded. And if your repeat was CAT, your probe would be GTA.
+
+*MR. CLARKE:* Actually you used an earlier drawing that demonstrated a
+tag; did you not?
+
+*DR. COTTON:* I did.
+
+*MR. CLARKE:* Perhaps you can refer back to that.
+
+*MR. CLARKE:* And, your Honor, that would be People's exhibit 239
+labeled "single-stranded DNA."
+
+*DR. COTTON:* So in my single-stranded DNA drawing, I didn't draw the
+repeat cat, but let's suppose this is our repeat. If this is our repeat,
+the DNA that's on the nylon is now single stranded. So you have this
+available to collect the second strand and you would have the other side
+available to collect a second strand. So you take the nylon membrane and
+put it in a plastic tub or you can put it in a tube-like thing. But I'm
+going to use the example for a tub because it's a little easier. We use
+in the lab a Tupperware container, a square one, in which it was just
+about the size of that nylon membrane. So the membrane would be flat in
+the bottom and it's--and then the membrane is covered with a salt
+solution. The radioactive DNA probe is added to that solution and that
+solution is let sit at a specific temperature overnight. So overnight
+being, you know, about 16 hours perhaps. And during this time, this
+radioactive probe DNA, which is simply--the probe is actually, for what
+we do in the lab, attached to C's and g's. During this time, this probe
+that you've added will zip up with any DNA on the membrane that it can
+appropriately zip up with. The radioactivity is something that you can
+follow. If you take your membrane, add your probe, let it go overnight,
+take your membrane out, rinse off the excess probe, if I held a Geiger
+counter up to it, I would get a few clicks, the Geiger counter being
+able to detect the radioactivity. But that's not accurate enough. So
+instead of a Geiger counter, you would then--if we can go back here,
+here's our membrane that now has some probe bound to it. To detect where
+that probe has bound, you lay an x-ray film over the membrane. You do
+this in the dark. You put it in a metal cassette that sort of looks like
+the two--like two book covers then close up together. And the
+radioactivity that's on the membrane will expose the silver grains on
+the x-ray film creating a dark spot or a line. It's really a line. And
+that is the image of where the probe bound to the DNA. So if we go way
+back--if we go back to this diagram, this was originally our gel. Now
+this pattern of DNA is on the membrane and now you've added a probe to
+it, and the probe has bound specifically--if we make the probe so it
+binds specifically to the cat repeat, that's what it's going to do. So
+the probe is bound specifically here and here /(Indicating)/ and it's
+been washed off everywhere else because only in these two positions is
+there a piece of DNA that it can come back together with. And we laid a
+piece of x-ray film over this membrane and allowed it to expose. And on
+the x-ray film, a dark line will appear in these two relative positions.
+That dark line tells you where the DNA fragment went to in the gel when
+the gel separation of these pieces occurred.
+
+*MR. CLARKE:* All right. Referring to People's exhibit 244, your Honor,
+the drawing.
+
+*THE COURT:* Yes.
+
+*MR. CLARKE:* Dr. Cotton, these probes then, are they specifically
+designed to look for that repeat sequence that you're searching for on
+the membrane itself?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And when they recognize the sequence that they're looking
+for, the probe then actually mates up or zips together with the DNA
+that's already on the membrane from this blotting procedure?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Is the probe then simply a means for you to be able to see
+where the fragment is on the gel that you're actually looking for?
+
+*DR. COTTON:* Yes. The probe--this is your tracer. It's your eyes. It's
+your tag. It--it--it--and you sort--we talk about it like it was a
+thinking thing, but of course it's just a piece of DNA and this is just
+a chemical reaction where--that allows these two DNA strands that were
+single stranded to come together. So it's simply your--your way in the
+laboratory of identifying where these pieces of DNA went that had the
+repeat that matches to the probe.
+
+*MR. CLARKE:* Then is the use of this radioactivity and x-ray film so
+that you can actually look and see where these fragments are?
+
+*DR. COTTON:* Yes. That's exactly what you're doing.
+
+*MR. CLARKE:* And is that done by your own eyes?
+
+*DR. COTTON:* When you look at the x-ray film, yes. You're looking at it.
+
+*MR. CLARKE:* Does the x-ray film have a particular name in the RFLP
+testing process?
+
+*DR. COTTON:* It's properly called an autoradiograph. In the lab, we
+call it--we refer to it as an autorad. Just simpler to say, and that's
+what most people would refer--that's the term most people would use.
+
+*MR. CLARKE:* All right. At this point, your Honor, I would like to have
+marked as People's next in order--
+
+*THE COURT:* Is that 246? All right. People's 246. Mr. Clarke.
+
+*MR. CLARKE:* Yes. A single what I believe to be an autoradiograph
+that's been--a copy of which has been previously provided to counsel.
+
+*THE COURT:* All right. Single autorad.
+
+/(Peo's 246 for id = autorad)/
+
+//*MR. CLARKE:* Dr. Cotton, just showing you what will be marked--
+
+*MR. CLARKE:* I'm sorry. 246, your Honor?
+
+*THE COURT:* 246.
+
+*MR. CLARKE:* What is that?
+
+*DR. COTTON:* This is a copy of one of the autoradiographs that was
+produced in this case.
+
+*MR. CLARKE:* And is that typically what an x-ray or autoradiograph
+looks like following the use of this RFLP typing process?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. Without getting into what the samples are on
+that particular test--
+
+*MR. CLARKE:* And with the Court's permission, could Dr. Cotton simply
+hold that up so the jury can see it from a distance?
+
+*THE COURT:* Yes.
+
+*DR. COTTON:* This is one of the film--well, this is a copy, but it's
+a--the copies are very good. They don't--so that if I--
+
+*MR. NEUFELD:* Objection, your Honor. This is not responsive to the
+question.
+
+*THE COURT:* Sustained. Mr. Clarke.
+
+*MR. CLARKE:* All right. Dr. Cotton, if you would just hold it up at the
+moment, and we will return to this particular autoradiograph later. But
+is this typical of what such an x-ray looks like at the end of this RFLP
+procedure?
+
+*DR. COTTON:* Yes, it is.
+
+*MR. CLARKE:* Okay. And in fact--
+
+*DR. COTTON:* Without all the lettering.
+
+*MR. CLARKE:* Okay.
+
+*DR. COTTON:* You have to subtract out the lettering here and the
+lettering down here /(Indicating)/.
+
+*MR. CLARKE:* The lettering you're referring to at both the top and
+bottom of this particular exhibit, is that done to aid in knowing what
+sample is--which sample is which basically?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Okay. All right. Fine. Would that autoradiograph then
+represent what is labeled on the RFLP method chart at step 7 and then
+step 8?
+
+*DR. COTTON:* Would only represent what's labeled in the step 8.
+
+*MR. CLARKE:* Okay. So step 7 is describing the creation of this x-ray
+film in its early stages by laying it on top of the membrane?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. Very good. Perhaps I can take that back. And if
+you would, could you have a seat back on the witness stand?
+
+*THE COURT:* And, Mr. Fairtlough, can you rescue the diagram easel
+there, please?
+
+*MR. CLARKE:* Actually, with respect to the RFLP method, the large
+chart, could that also be brought down so that all of the jurors could
+have--can look at it?
+
+*THE COURT:* Mr. Fairtlough and Mr. Clarke, perhaps you both should try
+to handle that.
+
+*MR. CLARKE:* Without dropping it.
+
+*THE COURT:* Yes.
+
+/(Brief pause.)/
+
+//*THE COURT:* All right. Thank you, counsel.
+
+*MR. CLARKE:* Dr. Cotton, is that then a capsule summary of this RFLP
+typing approach?
+
+*DR. COTTON:* It is.
+
+*MR. CLARKE:* You are familiar with the term "controls"?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* What is a control?
+
+*DR. COTTON:* "control" is usually some kind of sample that helps you to
+determine whether all the procedures that you just finished using worked
+as they should, and it usually is a sample that you know what the
+results from the control should look like. And if they look
+appropriately, then it gives you some information that your test was
+done appropriately.
+
+*MR. CLARKE:* Now, referring to this RFLP typing process, do you utilize
+controls as part of that testing?
+
+*DR. COTTON:* Yes, we do.
+
+*MR. CLARKE:* Are there a number of different types of controls?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* How do you know when a control isn't working properly?
+
+*DR. COTTON:* Well, it depends on what kind of control you're using. But
+for this procedure, you are ultimately looking at that x-ray film and
+visualizing your result, and later on you might make some measurements.
+But if we just talk about looking at it for the time being, the controls
+have a very typical appearance, one that you are accustomed to seeing.
+So if they look as they should, then you would make a general
+first-impression assessment that the test and the procedures that you
+used had been done appropriately.
+
+*MR. CLARKE:* What if the controls didn't work properly in a particular
+test?
+
+*DR. COTTON:* Generally if they haven't worked properly, you would
+either go back and repeat it if you had--if there was a possibility to
+do that, or if you couldn't repeat it, you would probably just say that
+your results are inconclusive, because if your controls haven't worked,
+that--there's some implication there that how you worked on the actual
+samples may not have worked either.
+
+*MR. CLARKE:* Now, this autorad in People's exhibit 246 represents an
+autorad from an RFLP test; is that right?
+
+*DR. COTTON:* It does.
+
+*MR. CLARKE:* This autoradiograph, is it in fact preservable? In other
+words, is it in a form that, for instance, can be looked at at a later
+time or by other people?
+
+*DR. COTTON:* Yes. The autoradiograph is your permanent record of the
+results of the test.
+
+*MR. CLARKE:* As far as the RFLP typing results--and first of all, did
+your laboratory obtain RFLP typing results in this case?
+
+*DR. COTTON:* Yes, we did.
+
+*MR. CLARKE:* Are those RFLP testing results reflected on
+autoradiographs as an example of which is People's exhibit 246?
+
+*DR. COTTON:* Yes, they are.
+
+*MR. CLARKE:* Now, I'd like to discuss a different area with you, and it
+relates in particular to when you are reading results from an
+autoradiograph. First of all, do you do that?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And you look for certain things; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* If I use the term "match," what does that mean to you?
+
+*DR. COTTON:* It means to me that on the autoradiograph, the position of
+two DNA bands or possibly the positions of all the bands from one sample
+to another are so close as to be visually--that I couldn't distinguish
+one from the other.
+
+*MR. CLARKE:* What does that mean, that you can't distinguish one from
+the other?
+
+*DR. COTTON:* They look alike.
+
+*MR. CLARKE:* Does that have a particular meaning in this RFLP typing
+process?
+
+*DR. COTTON:* Of course.
+
+*MR. CLARKE:* What's that?
+
+*DR. COTTON:* From person to person, there's so much variation in the
+length of the fragments that have a repeat, that if you look at several
+genetic locations, and for each genetic location, two samples are the
+same, and you look at another, and they're the same there, and you look
+at another, and they're the same there, and you keep doing that, the
+more genetic locations at which two samples are the same, the higher the
+likelihood that the two samples are in fact from the same person.
+
+*MR. CLARKE:* All right. Your Honor, if I may return to People's exhibit
+242, the large board, because I believe it has an item that I would like
+to ask the witness another question about. I put it away too quickly.
+
+/(Brief pause.)/
+
+//*MR. CLARKE:* Thank you.
+
+*MR. CLARKE:* Dr. Cotton, referring you to what would be step 8 on this
+board, People's exhibit 242, does that particular depiction--would that
+help you in describing what you mean by "match"?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. Could you then go ahead and describe that? And
+if the pointer would help--
+
+*DR. COTTON:* Okay.
+
+*MR. CLARKE:* --please feel free.
+
+*DR. COTTON:* This diagram and the things that I drew on the chart are
+illustrating the kinds of results you would get when you looked at one
+location on one chromosome. So since you get a copy of--you get two
+copies of the chromosome, you get one piece of information that you
+inherited from your mother and the other from your father. And so if we
+look at this sample that would be basically on your left, you have two
+dark lines on the autorad indicating the two DNA bands that are from
+this sample. And then if you go on to the middle sample, you have two
+bands on this autorad from this middle sample. And then if you go to the
+third sample, you also have two bands. The middle sample and the sample
+on the left that I'm pointing to, the bands are in essentially the same
+position. So it is possible that sample no. 1 and this middle sample,
+sample no. 2 could be from the same person because they have DNA bands
+that are in the same position.
+
+This third sample on the right, which also has two DNA bands, these
+bands are clearly on a--in a different position than either the first or
+the second sample. That tells you immediately that the DNA in this third
+sample must be from a person who is different from either of these first
+two. These first two could be from the same person, but this third one
+must be from a different person because the DNA fragments are in
+different positions, which means they're different sizes.
+
+*MR. CLARKE:* Would that be an example of an exclusion?
+
+*DR. COTTON:* If you were comparing--suppose this was a known individual
+and these were two evidence samples. This known individual in the third
+lane over would be excluded as being a possible contributor to the two
+evidence samples in the right--in the left lane and in the middle lane.
+
+*MR. CLARKE:* This is done visually as a result of the autoradiograph
+produced at the end of the RFLP typing process?
+
+*DR. COTTON:* It's done visually and it's also--that's followed up by a
+more sophisticated measurement. But in fact, the first thing that you do
+when you get your x-ray film off is you look at it and you look at the
+controls and you look at the samples on there and you make some
+immediate judgment about whether it appears that this--procedures worked
+okay and whether it appears that you have inclusions or exclusions, and
+based on those inclusions or exclusions, then you might do further
+testing or you might not.
+
+*MR. CLARKE:* Following this visual determination, do you then in some
+instances turn to another process basically to determine whether or not
+your visual opinion is a correct one as to a match?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* All right. We'll return to that later. But what I would
+like to turn your attention to--
+
+*MR. CLARKE:* And, your Honor, I'm going to leave the chart because I
+don't want to have to ask to bring it up again.
+
+*MR. CLARKE:* --and that relates to the amounts of DNA that are in a
+sample. And I'd like to focus your attention again on this RFLP typing
+method. If there's no DNA in a particular sample, what do you see at the
+end of the process on the x-ray or autoradiograph?
+
+*DR. COTTON:* If there's no human DNA in a particular sample, at the
+end, you don't see anything. The lane is blank. There are no bands. It's
+just empty.
+
+*MR. CLARKE:* Are there other types of DNA that you could see?
+
+*DR. COTTON:* For the procedure as it's used in laboratories for human
+identification testing, you're specifically looking at--you want to be
+looking at human DNA and the test is designed to only detect human DNA.
+And, therefore--if you were using it in a research lab, you could see
+other types of DNA. But for this purpose, you're only looking for human
+DNA. If you have no human DNA there, you won't see anything.
+
+*MR. CLARKE:* So in your laboratory, your interest is in human DNA as
+opposed to looking at, for instance, animal DNA or other types?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* What if you have some DNA in a sample? Would you
+necessarily see results at the end?
+
+*DR. COTTON:* If you had some DNA in a sample, you might see some
+results at the end. There are two measures of whether or not you might
+see results, and one is quantity and the other is quality.
+
+*MR. CLARKE:* What do you mean by that distinction?
+
+*DR. COTTON:* If your DNA is in good condition--and let's just go back
+to the spool of thread analogy. If your DNA is unwound off the spool and
+it's all in one piece, that's good condition. It's like it was in a nice
+fresh cell that somebody just drew out of your arm. If your DNA is in
+good condition and you have enough of it, you will get a result. If your
+DNA is broken up in a random manner--and the proper term for that is
+that it may be degraded--you may or may not get a result. And when you
+think about DNA that's broken up or degraded, you have to think of it
+sort of as a continuum. It could be only slightly degraded, that is,
+it's only broken up a little bit, in which case it won't affect your
+result, you will get a result, or it can be very, very broken up in
+very, very small pieces. And if that was the case, you would not be able
+to get a result with this RFLP test.
+
+*MR. CLARKE:* What happens with DNA? Does it in fact die or degrade or
+perish?
+
+*DR. COTTON:* Well, I wouldn't use the term "die" or "perish." it
+doesn't really fit. "degrade" is the right term, or if you went to make
+that simple, you could just say it's become broken up into many pieces.
+And that can happen as a result of environmental effects, and you can
+generally sort of assume that moisture and heat facilitates degradation;
+that is, it occurs more rapidly, and cold and dry conditions preserve DNA.
+
+*MR. CLARKE:* If DNA suffers this degrading process, degradation
+process, will that result in changing the types from the original type
+of sample to a new and different type as a result of the process of
+degradation?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* I'm sorry?
+
+*DR. COTTON:* It will not.
+
+*MR. CLARKE:* So this process of degradation, can it change my DNA into
+looking like your DNA?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* Or your DNA into looking like the Court's DNA?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* Or any members of the jury or the audience?
+
+*DR. COTTON:* No.
+
+*MR. CLARKE:* Taking you back to this small amount of DNA, what if you
+had more DNA in a better condition let's say? Then what do you see?
+
+*DR. COTTON:* If you have more DNA and it's in good condition, then you
+will see bands on your autoradiograph or your autorad; and each time you
+use a different probe, you'll see bands that that probe recognizes. So
+you can get a lot of information if you have a good amount of DNA and
+it's in good condition.
+
+*MR. CLARKE:* Where do you draw the line? In other words, how do you
+know there's enough DNA there to be able to make an opinion or render an
+opinion about results from a particular test?
+
+*DR. COTTON:* Well, you can sort of go about it from two directions. You
+can measure how much human DNA you have before you do the test and you
+can run what's commonly referred to as a mini gel, which is a really
+small gel, about, oh, two inches by three inches and assess whether the
+DNA appears to be broken up. So you can measure its quantity and you can
+get an estimate of its quality, and you could do that before you did the
+test and then say, "well, it looks good. Let's do an RFLP test."
+
+*MR. CLARKE:* Is that, by the way, using the same process of
+electrophoresis for this mini gel?
+
+*DR. COTTON:* Yes, exactly the same.
+
+*MR. CLARKE:* And that's simply a step to help you evaluate, that is to
+determine approximately how much DNA is in a sample before you test it?
+
+*DR. COTTON:* Yes. Umm, if you go back to this green depiction of a gel--
+
+*MR. CLARKE:* At step 3 on People's 242?
+
+*DR. COTTON:* Right. If you just made that a lot smaller and which would
+then represent your mini gel, you can stain that gel with a dye in which
+you get a pink smear that looks like these smears that are on this
+diagram for step 3. And if you had a smear like what's shown in step 3,
+you would look at that and you'd say, "well, gosh, I've got DNA sort of
+spread out all the way from the top of my mini gel down to the bottom.
+That's pretty degraded." and if it looked like that, you'd be sort
+of--you wouldn't be sure whether it would be good enough for RFLP or
+not. If you--if this diagram in step 3 had only shown the pink color at
+the top, that's sort of what it would look like if it was in good
+condition and you ran a mini gel. You're looking at a huge piece because
+you haven't--when you do this mini gel, you haven't cut it with your
+restriction enzyme yet. So actually if we could insert an extra step
+here to be 1-A so that you extracted your DNA and then you ran your
+little gel and then you made this judgment. If you had DNA that was just
+hung up at the top of the gel, that would say--you would say, "well, I
+have very good DNA here. I should be able to go on and do an RFLP test."
+so DNA is all spread out such that it's--looks relatively degraded, then
+you would have to make a judgment about whether or not you thought it
+would be good enough to do an RFLP test or you were going to do some
+other kind of test with it.
+
+*MR. CLARKE:* As far as these bands as you see them and referring to for
+instance step 8 on People's exhibit 242, those are fairly dark bands in
+that depiction, correct?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* You've also held up one autoradiograph, People's exhibit
+246, which also shows a number of bands that seem to be very dark; is
+that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* In fact, actually if you could with the Court's permission--
+
+*MR. CLARKE:* Could the witness hold 246 up again?
+
+*THE COURT:* Yes.
+
+*MR. CLARKE:* First of all, Dr. Cotton, to your knowledge, will we
+return to autorad and actually show them in closer detail to the jury?
+
+*DR. COTTON:* Yes, we will.
+
+*MR. CLARKE:* But just for the moment--and if you could hold that up. I
+don't know if you can hold it up without that by the background. Let's
+do that.
+
+*THE COURT:* Why don't you have Dr. Cotton just step down over there.
+
+*MR. CLARKE:* All right. That's fine. She can just hold it up against
+the white background.
+
+*MR. CLARKE:* Dr. Cotton, again showing People's exhibit 246, that shows
+a number of very dark patterns; is that right?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Or bands. Is that the appropriate term?
+
+*DR. COTTON:* It is.
+
+*MR. CLARKE:* Now, with regard to samples, for instance that you receive
+in your laboratory, will the darkness or the intensity of those bands vary?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Why?
+
+*DR. COTTON:* The darker the band, that reflects you had more probe
+bound to it. More probe means that you had more DNA there. So if we
+just--we don't have anything on here that has very light bands. But if
+you had something that had very light bands, that would be an indication
+that you didn't have very much DNA. If you have bands that are dark,
+that means you have more DNA. Now, there's other ways you can make
+that--the length of time that you lay the x-ray film over the nylon, the
+longer you lay it on there, the darker everything becomes. But it will
+still be relative. A darker band generally has more DNA than a lighter
+band, and there's a few reasons why that--there's a few technical
+exceptions to that, but that's the general and correct generalization.
+
+*MR. CLARKE:* All right. Then if you would have a seat back on the
+witness stand. Is it the case then, Dr. Cotton, that with regard to
+samples with not that much DNA in them, but enough to produce a banding
+pattern, you may see bands that are faint?
+
+*DR. COTTON:* That's exactly right.
+
+*MR. CLARKE:* Is "faint" a term that you use in your laboratory?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* Could--what does it mean?
+
+*DR. COTTON:* It means that instead of a dark crisp line, you have a
+difference between where there's no band and where there's a band, but
+the level of darkness there that is the intensity is much less. It's light.
+
+*MR. CLARKE:* Does that have any significance in your interpretation of
+results?
+
+*DR. COTTON:* You're also looking at the position of the band. So
+whether it's dark or it's light, it's the position that you're
+interested in. It does affect--that is, you think about it in your
+interpretation because you're assessing, "I have a lot of DNA here, I
+don't have very much here," and you may use that information in your
+interpretation. But it's mainly the position that you're interested in
+looking at.
+
+*MR. CLARKE:* What about in terms of faint bands and whether or not you
+can see them? Does that play a role--I assume that plays a role in your
+interpretation?
+
+*DR. COTTON:* Well, if you want to interpret them, you'd better be able
+to see them.
+
+*MR. CLARKE:* Are there any policies in effect in the laboratory at
+interpreting, for instance, results that have faint bands?
+
+*DR. COTTON:* I don't believe that we have a specific written policy. We
+do have a common practice in our lab in dealing with faint bands, and we
+do follow that practice generally whenever we encounter faint bands.
+It's not actually a written part of our procedure.
+
+*MR. CLARKE:* And what is that procedure, though not written?
+
+*DR. COTTON:* There are two parts to it. In the further analysis that we
+haven't really discussed yet, which involves a computer imaging step,
+there is a standard level of darkness that we ask that the computer see
+in order to call something a band. In addition to that, we have to be
+able to see it ourselves. That is, both the computer has to be able to
+see it and the analyst has to be able to see it. And if we really are
+struggling with whether or not a band is light, we will ask several
+people to come in and cover up the adjacent lanes and make an assessment
+as to whether all the people involved in doing the analysis of the test
+agree that they can see a particular band.
+
+*MR. CLARKE:* When you say, "cover up the adjacent lanes," is that to
+ensure that whoever is looking at it wouldn't be bias by the presence of
+bands in other samples?
+
+*DR. COTTON:* That's right. If you're working on something or another
+Ph.D. staff or one of the analysts is working on it, if I'm not sure
+whether or not something is intense enough for me to use it further in
+the interpretation, I might lay a piece of cardboard down on either side
+and just say to one of my coworkers, "would you come in and look at this
+and tell me where you see bands in this lane?" we don't always do that,
+but that's generally what we do when they get quite light.
+
+*MR. CLARKE:* As far as this process of DNA, once it's degrading, does
+this degradation process ever leave two bands appearing that weren't in
+the original DNA in the sample?
+
+*DR. COTTON:* No, it doesn't.
+
+*MR. CLARKE:* So in other words, you either see the DNA from the
+original sample, or if the degradation is too great, you don't see
+anything at some point?
+
+*DR. COTTON:* Well, you've just said what the extremes are. You--you may
+have an intermediate result where you have the DNA is somewhat degraded.
+And the effect that that has is, you tend to lose the bands that are
+larger. That is at the top of the gel. So you may end up with a partial
+set of bands. You don't see the ones that are large, but you see the
+ones that are smaller in size. And that can happen. What won't happen is
+that with degradation, you won't have a band at one size and then have
+it converted to now a new band at a different size. That's not going to
+happen.
+
+*MR. CLARKE:* Okay. And perhaps lastly for today, with regard to this
+computer imaging process that you just described, can you tell us more
+about what that is?
+
+*DR. COTTON:* It's sort of like this elmo machine actually. Well, kind
+of. The computer imaging system consists of a light box and on which you
+lay your film, a camera at the top and a computer monitor so that the
+camera is capturing the image of the autorad and displaying it on the
+computer screen for you, and then you're asking the computer to help you
+do some manipulations in terms of saying here's a band and here's a band
+and here's a band, and then the computer will also, because of its
+software, do a calculation for you that says, "the band in this position
+is approximately 5,000 base pairs."
+
+*MR. CLARKE:* Now, when you say the "autorad" that you have the camera
+actually focused on, is that an autorad just like People's exhibit 246?
+
+*DR. COTTON:* Yes.
+
+*MR. CLARKE:* And then this camera and this software in combination then
+review the results on that particular autorad?
+
+*DR. COTTON:* Well, they--reviewing makes it sound like it's thinking
+about it, and it's not. What it's doing, it's visualizing--it's a video
+imaging system. It's taking a picture of that autorad and displaying it
+on the computer monitor, and then you are directing the machine to do
+particular things, not to the film itself, but to the image.
+
+*MR. CLARKE:* And what are those things that you direct it to do?
+
+*DR. COTTON:* You're telling it where the control lanes are, you're
+telling it where the sample lanes are and you're telling it which lanes
+you want it to do a calculation, to find a band. That is, the computer
+will basically scan down, and where there's a dark area, it will
+identify that as a band, and where there's--so it's looking for changes
+in levels of darkness. So if it's clear and then it sees a dark area,
+then it identifies that as a band and then it sort of scans down and
+finds another band and identifies that. So it's making identification of
+a band position. And it can do this correctly and it can do it wrong,
+and the operator has to help it along. And then once you're happy that
+it's--that it's identified bands and you agree that those are bands, it
+will do this calculation for you that will give you an estimate of the
+size of that DNA and base pairs.
+
+*MR. CLARKE:* And that's the purpose of this imaging process, to assist
+you in interpreting results; is that right?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* And also to establish the sizes for the various bands
+according to the methods that you just described?
+
+*DR. COTTON:* That's right.
+
+*MR. CLARKE:* All right.
+
+*THE COURT:* Good spot?
+
+*MR. CLARKE:* Yes. Thank you, your Honor.
+
+*THE COURT:* All right. Ladies and gentlemen, we are going to take our
+recess for the afternoon. Please remember all of my admonitions to you;
+don't discuss the case amongst yourselves, don't form any opinions about
+the case, do not conduct any deliberations until the matter has been
+submitted to you and do not allow anybody to communicate with you. With
+regard to the case as far as the jury is concerned, we'll stand in
+recess until 9:00 o'clock. And we have a hearing tomorrow morning set at
+8:00 with Mr. Uelmen and I don't recollect who from the Prosecution on
+the photographs, tomorrow, 8:00 o'clock. All right. We'll stand in
+recess. And, Dr. Cotton, tomorrow morning, 8:45. All right. Thank you.
+We'll stand in recess.
+
+/(At 1:00 P.M., an adjournment was taken until, Tuesday, May 9, 1995,
+9:00 A.M.)/
+
+//Superior Court of the State of California
+
+For the County of Los Angeles
+
+Department no. 103 Hon. Lance A. Ito, Judge
+
+The People of the State of California, ) ) plaintiff, ) ) ) vs. ) no.
+Ba097211 )
+
+Orenthal James Simpson, ) ) ) Defendant. )
+
+Reporter's transcript of proceedings
+
+Monday, May 8, 1995
+
+Volume 141
+
+Pages 26239 through 26405, inclusive
+
+Appearances: (See page 2)
+
+Janet M. Moxham, CSR #4588 Christine M. Olson, CSR #2378 official reporters
+
+Appearances:
+
+For the People: Gil garcetti, district attorney by: Marcia R. Clark,
+william W. Hodgman, christopher A. Darden, cheri A. Lewis, rockne P.
+Harmon, george W. Clarke, scott M. Gordon lydia C. Bodin, hank M.
+Goldberg, alan yochelson and darrell S. Mavis, brian R. Kelberg, and
+kenneth E. Lynch, deputies 18-000 criminal courts building 210 west
+temple street los angeles, california 90012
+
+For the defendant: Robert L. Shapiro, esquire sara L. Caplan, esquire
+2121 avenue of the stars 19th floor los angeles, california 90067
+
+Johnnie L. Cochran, jr., esquire by: Carl E. Douglas, esquire shawn
+snider chapman, esquire 4929 wilshire boulevard suite 1010 los angeles,
+california 90010
+
+Gerald F. Uelmen, esquire robert kardashian, esquire alan dershowitz,
+esquire F. Lee bailey, esquire barry scheck, esquire peter neufeld,
+esquire robert D. Blasier, esquire william C. Thompson, esquire
+
+I n d e x
+
+Index for volume 141 pages 26239 - 26405
+
+-----------------------------------------------------
+
+Day date session page vol.
+
+Monday May 8, 1995 A.M. 26239 141
+
+-----------------------------------------------------
+
+Legend:
+
+Ms. Clark - mc
+
+Mr. Hodgman - h
+
+Mr. Darden d
+
+Ms. Lewis - l
+
+Ms. Kahn - k
+
+Mr. Goldberg - gb
+
+Mr. Clarke - gc
+
+Mr. Harmon - rh
+
+Mr. Gordon - g
+
+Mr. Shapiro - s
+
+Mr. Cochran - c
+
+Mr. Douglas - cd
+
+Mr. Bailey - b
+
+Ms. Chapman - sc
+
+Ms. Blasier- bb
+
+Mr. Uelmen - u
+
+Mr. Scheck - bs
+
+Mr. Neufeld - n
+
+-----------------------------------------------------
+
+Chronological index of witnesses
+
+People's
+
+Witnesses direct cross redirect recross vol.
+
+Douroux, Bernie 26259d 26269c 26290d 141
+
+Cotton, Robin 26259gc 141
+
+-----------------------------------------------------
+
+Alphabetical index of witnesses
+
+Witnesses direct cross redirect recross vol.
+
+Douroux, Bernie 26259d 26269c 26290d 141
+
+Cotton, Robin 26259gc 141
+
+*_EXHIBITS_*
+
+*__PEOPLE'S* for in exhibit identification evidence page vol. Page vol.
+
+231 - Photograph of 26240 141 a close-up view of the top of a glass vial
+with a purple cap and a finger
+
+232 - Plastic pipette 26240 141 (Disposable)
+
+233 - Photograph of 26246 141 The blood vial chart with magnetic
+indicators and markings
+
+234 - 2-Page document 26267 141 entitled "LAPD investigation" - vehicle
+Impound report
+
+235 - Drawing by 26299 141 Dr. Cotton entitled "46 chromosomes"
+
+236 - Drawing by 26304 141 Dr. Cotton entitled "chromosome pairs"
+
+237 - Chart 26299 141 entitled "46 chromosomes"
+
+238 - Drawing by 26317 141 Dr. Cotton entitled "double-stranded DNA"
+
+239 - Drawing by 26316 141 Dr. Cotton entitled "single-stranded DNA"
+
+240 - Chart 26319 141 entitled "where is DNA found?"
+
+241 - Drawing by 26347 141 Dr. Cotton entitled "RFLP method"
+
+242 - Drawing by 26353 141 Dr. Cotton entitled "the RFLP method"
+
+243 - Drawing by 26357 141 Dr. Cotton entitled "restriction enzyme
+cutting site"
+
+244 - Drawing by 26361 141 Dr. Cotton entitled "electrophoresis"
+
+245 - Membrane paper 26370 141 and covering
+
+246 - Audoradiograph 26382 141
+
