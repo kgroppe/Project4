@@ -24,6 +24,31 @@ if result == 'Success':
         menuSelection = _NLTKQuery.getUserSelection()
         if menuSelection == 1:
             oNLTK.printCorpusLength()
-        if menuSelection == 2:
+        elif menuSelection == 2:
             oNLTK.printTokensFound()
-        
+        elif menuSelection == 3:
+            oNLTK.printVocabSize()
+        elif menuSelection == 4:
+            oNLTK.printSortedVocab()
+        elif menuSelection == 5:
+            oNLTK.printCollocation()
+        elif menuSelection ==6:
+            oNLTK.searchWordOccurence()
+        elif menuSelection == 7:
+            oNLTK.generateConcordance()
+        elif menuSelection == 8:
+            oNLTK.generateSimilarities()
+        elif menuSelection == 9:
+            oNLTK.printWordIndex()
+        elif menuSelection == 10:
+            oNLTK.printVocabulary()
+        elif menuSelection == 0:
+            print("Goodbye")
+            print()
+        elif menuSelection == -1:
+            continue
+        else:
+            print("unexpected error condition")
+            menuSelection == 0
+else:
+    print("Closing NLTK Query Experimentation")
