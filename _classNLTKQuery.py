@@ -24,3 +24,28 @@ class classNLTKQuery:
             return "Corpus Creation Failed"
         self.ActivateTextCorpus = True
         return "Success"
+    def printCorpusLength(self):
+        print("Corpus Text Length: ")
+        print(len(self.rawText))
+
+    def printTokensFound(self):
+        print("Tokens Found: ")
+        print(len(self.tokens))
+
+    def printVocabSize(self):
+        print("Calculating...")
+        print("Vocabulary Size: ")
+        vocabularyUsed = set(self.TextCorpus)
+        vocabularySize = len(vocabularyUsed)
+        print(vocabularySize)
+
+    def printSortedVocab(self):
+        print("Compiling...")
+        print("Sorted Vocabulary")
+        print(sorted(set(self.TextCorpus)))
+
+    def printCollocation(self):
+        print("Compiling Collocations...")
+        #Ask Dr. Perry about this, whether it should be in a print statement or not.
+        print(self.TextCorpus.collocations())
+
