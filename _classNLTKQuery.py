@@ -83,4 +83,6 @@ class classNLTKQuery:
 
     def printVocabulary(self):
         print("Compiling Vocabulary Frequencies")
-        
+        vocabFreqList = self.TextCorpus.vocab()
+        print(vocabFreqList.items())
+
