@@ -14,4 +14,14 @@ def printMenu():
     print("[0] Exit NLTK Experimentation")
     print("")
 
-
+def getUserSelection():
+    printMenu()
+    try:
+        menuSelection = int(input("Enter Selection (0-14) >> "))
+    except ValueError:
+        print("Invalid Input. Enter a value between 0 - 14")
+        return -1
+    if not menuSelection in range(0,15):
+        print("Invalid Input. Enter a value between 0 - 14")
+        return -1
+    return menuSelectiont t
