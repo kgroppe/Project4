@@ -42,6 +42,14 @@ if result == 'Success':
             oNLTK.printWordIndex()
         elif menuSelection == 10:
             oNLTK.printVocabulary()
+        elif menuSelection == 11:
+            print("You found a new feature")
+        elif menuSelection == 12:
+            print("You found a new feature")
+        elif menuSelection == 13:
+            print("You found a new feature")
+        elif menuSelection == 14:
+            print("You found a new feature")
         elif menuSelection == 0:
             print("Goodbye")
             print()
