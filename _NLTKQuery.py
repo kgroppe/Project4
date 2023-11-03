@@ -24,4 +24,4 @@ def getUserSelection():
     if not menuSelection in range(0,15):
         print("Invalid Input. Enter a value between 0 - 14")
         return -1
-    return menuSelectiont t
+    return menuSelection
