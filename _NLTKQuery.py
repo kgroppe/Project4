@@ -14,4 +14,4 @@ def printMenu():
     print("[0] Exit NLTK Experimentation")
     print("")
 
-    
+
