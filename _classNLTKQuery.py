@@ -116,9 +116,16 @@ class classNLTKQuery:
             print(found)
 
     def showAllPOS(self):
-        word = input("Enter a word to find all given POS: ").lower()
-
-        print("New Feature?")
+        tags = []
+        find = input("Enter a word to find all given POS: ").lower()
+        if find:
+            for word, tag in self.pos:
+                if word.lower() == find:
+                    if tag not in tags:
+                        tags.append(tag)
+            print(tags)
+        else:
+            print("Word Entry is Invalid")
 
     def showMostCommon(self):
         common = input("Enter a POS to find the most common word: ")
