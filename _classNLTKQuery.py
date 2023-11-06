@@ -108,6 +108,8 @@ class classNLTKQuery:
             print("Word Entry is Invalid")
 
     def wordsWithPOS(self):
+        print("Here are the 36 different POS tags:")
+        print(self.pos_tags)
         found = []
         myPos = input("Enter a POS to look for: ")
         if myPos:
@@ -120,8 +122,6 @@ class classNLTKQuery:
             print("POS Entry is Invalid")
 
     def showAllPOS(self):
-        print("Here are the 36 different POS tags:")
-        print(self.pos_tags)
         tags = []
         find = input("Enter a word to find all given POS: ").lower()
         if find:
