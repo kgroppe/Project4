@@ -28,6 +28,10 @@ class classNLTKQuery:
             stemmer = PorterStemmer()
             self.stemmed = [stemmer.stem(w).lower() for w in stopword]
             self.pos = nltk.pos_tag(self.tokens)
+            self.pos_tags = ['CC', 'CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN',
+                             'NNS','NNP','NNPS','PDT','POS','PRP','PRP$','RB','RBR','RBS',
+                             'RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT',
+                             'WP','WP$','WRB']
 
         except:
             return "Corpus Creation Failed"
@@ -116,6 +120,8 @@ class classNLTKQuery:
             print("POS Entry is Invalid")
 
     def showAllPOS(self):
+        print("Here are the 36 different POS tags:")
+        print(self.pos_tags)
         tags = []
         find = input("Enter a word to find all given POS: ").lower()
         if find:
@@ -128,9 +134,12 @@ class classNLTKQuery:
             print("Word Entry is Invalid")
 
     def showMostCommon(self):
+        print("Here are the 36 different POS tags:")
+        print(self.pos_tags)
         common = input("Enter a POS to find the most common word: ")
         comDict = {}
         comList = []
+        count = 1
         if common:
             for word, tag in self.pos:
                 if tag == common:
@@ -143,7 +152,9 @@ class classNLTKQuery:
             comList.sort(reverse=True)
             print("For the POS tag of",common, "the most common twenty words are: ")
             for item in comList[:20]:
+                print("%d. " %(count), end="")
                 print(item)
+                count += 1
         else:
             print("POS Entry is Invalid")
             
