@@ -27,6 +27,7 @@ class classNLTKQuery:
             stopword = [t for t in self.tokens if t not in pnctAndEng]
             stemmer = PorterStemmer()
             self.stemmed = [stemmer.stem(w).lower() for w in stopword]
+            self.pos = nltk.pos_tag(self.tokens)
 
         except:
             return "Corpus Creation Failed"
@@ -98,16 +99,27 @@ class classNLTKQuery:
         stem = input("Please enter a stem to look for: ").lower()
         if stem:
             wordCount = self.stemmed.count(stem)
-            #Ask if this works as well for the code
             print(stem+" occured: " + str(wordCount) + " times")
         else:
             print("Word Entry is Invalid")
 
     def wordsWithPOS(self):
-        print("New Feature?")
+        found = []
+        myPos = input("Enter a POS to look for: ")
+        for word, tag in self.pos:
+            if tag == myPos:
+                if word not in found:
+                    found.append(word)
+        if len(found) == 0:
+            print("That POS is not valid")
+        else:
+            print(found)
 
     def showAllPOS(self):
+        word = input("Enter a word to find all given POS: ").lower()
+
         print("New Feature?")
 
     def showMostCommon(self):
+        common = input("Enter a POS to find the most common word: ")
         print("New Feature?")
