@@ -2,7 +2,7 @@ import os
 import sys
 import logging
 import nltk
-from nltk.corpus import PlaintextCorpusReader
+from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 
 class classNLTKQuery:
     def textCorpusInit(self, thePath):
@@ -13,7 +13,7 @@ class classNLTKQuery:
             return "Directory is not Readable"
 
         try:
-            self.Corpus = PlaintextCorpusReader(thePath, '.*')
+            self.Corpus = PlaintextCorpusReader(thePath, '.*', encoding='latin-1')
             print("Processing Files:")
             print(self.Corpus.fileids())
             print("Please wait...")

@@ -14,6 +14,7 @@ print()
 
 userSpecifiedPath = input("Path: ")
 result = oNLTK.textCorpusInit(userSpecifiedPath)
+print(result)
 
 if result == 'Success':
     menuSelection = -1
