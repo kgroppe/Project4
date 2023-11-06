@@ -129,4 +129,21 @@ class classNLTKQuery:
 
     def showMostCommon(self):
         common = input("Enter a POS to find the most common word: ")
-        print("New Feature?")
+        comDict = {}
+        comList = []
+        if common:
+            for word, tag in self.pos:
+                if tag == common:
+                    if word in comDict.keys():
+                        comDict[word] += 1
+                    else:
+                        comDict[word] = 1
+            for key, item in comDict.items():
+                comList.append((item, key))
+            comList.sort(reverse=True)
+            print("For the POS tag of",common, "the most common twenty words are: ")
+            for item in comList[:20]:
+                print(item)
+        else:
+            print("POS Entry is Invalid")
+            
