@@ -44,13 +44,13 @@ if result == 'Success':
         elif menuSelection == 10:
             oNLTK.printVocabulary()
         elif menuSelection == 11:
-            print("You found a new feature")
+            oNLTK.stemOccurrence()
         elif menuSelection == 12:
-            print("You found a new feature")
+            oNLTK.wordsWithPOS()
         elif menuSelection == 13:
-            print("You found a new feature")
+            oNLTK.showAllPOS()
         elif menuSelection == 14:
-            print("You found a new feature")
+            oNLTK.showMostCommon()
         elif menuSelection == 0:
             print("Goodbye")
             print()

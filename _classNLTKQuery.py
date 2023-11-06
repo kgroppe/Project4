@@ -2,7 +2,8 @@ import os
 import sys
 import logging
 import nltk
-from nltk.corpus.reader.plaintext import PlaintextCorpusReader
+from nltk.corpus import PlaintextCorpusReader
+from nltk.corpus import stopwords
 
 class classNLTKQuery:
     def textCorpusInit(self, thePath):
@@ -96,4 +97,4 @@ class classNLTKQuery:
         print("New Feature?")
 
     def showMostCommon(self):
-        print("New Feature?")    
+        print("New Feature?")
