@@ -4,6 +4,7 @@ import logging
 import nltk
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
 
 class classNLTKQuery:
     def textCorpusInit(self, thePath):
@@ -23,7 +24,9 @@ class classNLTKQuery:
             self.rawText = self.Corpus.raw()
             self.tokens = nltk.word_tokenize(self.rawText)
             self.TextCorpus = nltk.Text(self.tokens)
-            self.stemmed = [t for t in self.tokens if t not in pnctAndEng]
+            stopword = [t for t in self.tokens if t not in pnctAndEng]
+            stemmer = PorterStemmer()
+            self.stemmed = [stemmer.stem(w) for w in stopword]
         except:
             return "Corpus Creation Failed"
         self.ActivateTextCorpus = True
