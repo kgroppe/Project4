@@ -2,11 +2,13 @@ import os
 import sys
 import logging
 import nltk
-from nltk.corpus import PlaintextCorpusReader
+from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 from nltk.corpus import stopwords
 
 class classNLTKQuery:
     def textCorpusInit(self, thePath):
+        engStop = stopwords.words("english")
+        pnctAndEng = engStop + [',','.','?',"'",';',':',"//", "/", "*", '(',')','--',"''","``",'-', '_']
         if not os.path.isdir(thePath):
             return "Path is not a Directory"
 
@@ -21,6 +23,7 @@ class classNLTKQuery:
             self.rawText = self.Corpus.raw()
             self.tokens = nltk.word_tokenize(self.rawText)
             self.TextCorpus = nltk.Text(self.tokens)
+            self.stemmed = [t for t in self.tokens if t not in pnctAndEng]
         except:
             return "Corpus Creation Failed"
         self.ActivateTextCorpus = True
