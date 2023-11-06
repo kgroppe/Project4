@@ -49,12 +49,12 @@ class classNLTKQuery:
         #Ask Dr. Perry about this, whether it should be in a print statement or not.
         print(self.TextCorpus.collocations())
 
-    def searchWordOccurance(self):
+    def searchWordOccurence(self):
         myWord = input("Enter Search Word:")
         if myWord:
             wordCount = self.TextCorpus.count(myWord)
             #Ask if this works as well for the code
-            print(myWord+" occured: " + wordCount + " times")
+            print(myWord+" occured: " + str(wordCount) + " times")
         else:
             print("Word Entry is Invalid")
 
@@ -86,3 +86,14 @@ class classNLTKQuery:
         vocabFreqList = self.TextCorpus.vocab()
         print(vocabFreqList.items())
 
+    def stemOccurrence(self):
+        print("New feature?")
+
+    def wordsWithPOS(self):
+        print("New Feature?")
+
+    def showAllPOS(self):
+        print("New Feature?")
+
+    def showMostCommon(self):
+        print("New Feature?")    
