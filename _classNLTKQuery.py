@@ -106,14 +106,14 @@ class classNLTKQuery:
     def wordsWithPOS(self):
         found = []
         myPos = input("Enter a POS to look for: ")
-        for word, tag in self.pos:
-            if tag == myPos:
-                if word not in found:
-                    found.append(word)
-        if len(found) == 0:
-            print("That POS is not valid")
-        else:
+        if myPos:
+            for word, tag in self.pos:
+                if tag == myPos:
+                    if word not in found:
+                        found.append(word)
             print(found)
+        else:
+            print("POS Entry is Invalid")
 
     def showAllPOS(self):
         tags = []
