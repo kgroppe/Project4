@@ -83,7 +83,7 @@ class classNLTKQuery:
         myWord = input("Find first occurrence of what Word?: ")
         if myWord:
             wordIndex = self.TextCorpus.index(myWord)
-            print("First Occurence of:" + myWord + " is at offset: ")
+            print("First Occurence of " + myWord + " is at offset: ")
             print(wordIndex)
         else:
             print("Word Entry is Invalid")
@@ -94,7 +94,13 @@ class classNLTKQuery:
         print(vocabFreqList.items())
 
     def stemOccurrence(self):
-        print("New feature?")
+        stem = input("Please enter a stem to look for: ")
+        if stem:
+            wordCount = self.stemmed.count(stem)
+            #Ask if this works as well for the code
+            print(stem+" occured: " + str(wordCount) + " times")
+        else:
+            print("Word Entry is Invalid")
 
     def wordsWithPOS(self):
         print("New Feature?")
