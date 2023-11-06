@@ -26,7 +26,8 @@ class classNLTKQuery:
             self.TextCorpus = nltk.Text(self.tokens)
             stopword = [t for t in self.tokens if t not in pnctAndEng]
             stemmer = PorterStemmer()
-            self.stemmed = [stemmer.stem(w) for w in stopword]
+            self.stemmed = [stemmer.stem(w).lower() for w in stopword]
+
         except:
             return "Corpus Creation Failed"
         self.ActivateTextCorpus = True
@@ -94,7 +95,7 @@ class classNLTKQuery:
         print(vocabFreqList.items())
 
     def stemOccurrence(self):
-        stem = input("Please enter a stem to look for: ")
+        stem = input("Please enter a stem to look for: ").lower()
         if stem:
             wordCount = self.stemmed.count(stem)
             #Ask if this works as well for the code
