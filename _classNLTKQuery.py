@@ -111,13 +111,16 @@ class classNLTKQuery:
         print("Here are the 36 different POS tags:")
         print(self.pos_tags)
         found = []
-        myPos = input("Enter a POS to look for: ")
+        myPos = input("Enter a POS to look for: ").upper()
         if myPos:
             for word, tag in self.pos:
                 if tag == myPos:
                     if word not in found:
                         found.append(word)
-            print(found)
+            if len(found) > 0:
+                print(found)
+            else:
+                print("That POS is not in the document")
         else:
             print("POS Entry is Invalid")
 
@@ -136,7 +139,7 @@ class classNLTKQuery:
     def showMostCommon(self):
         print("Here are the 36 different POS tags:")
         print(self.pos_tags)
-        common = input("Enter a POS to find the most common word: ")
+        common = input("Enter a POS to find the most common word: ").upper()
         comDict = {}
         comList = []
         count = 1
@@ -147,14 +150,17 @@ class classNLTKQuery:
                         comDict[word] += 1
                     else:
                         comDict[word] = 1
-            for key, item in comDict.items():
-                comList.append((item, key))
-            comList.sort(reverse=True)
-            print("For the POS tag of",common, "the most common twenty words are: ")
-            for item in comList[:20]:
-                print("%d. " %(count), end="")
-                print(item)
-                count += 1
+            if len(comDict) > 0:
+                for key, item in comDict.items():
+                    comList.append((item, key))
+                comList.sort(reverse=True)
+                print("For the POS tag of",common, "the most common twenty words are: ")
+                for item in comList[:20]:
+                    print("%d. " %(count), end="")
+                    print(item)
+                    count += 1
+            else:
+                print("POS Entry is Invalid")
         else:
             print("POS Entry is Invalid")
             
